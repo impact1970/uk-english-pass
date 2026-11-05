@@ -19,7 +19,9 @@ function App() {
   const [dark, setDark] = useState(() => localStorage.getItem('ukep-theme') === 'dark')
   const [rate, setRate] = useState(0.9)
   const [speaking, setSpeaking] = useState(false)
+  const [audioMode, setAudioMode] = useState<'Kokoro M4A' | 'SpeechSynthesis'>('Kokoro M4A')
   const speakingRef = useRef(false)
+  const audioRef = useRef<HTMLAudioElement | null>(null)
 
   useEffect(() => { localStorage.setItem('ukep-progress', JSON.stringify(progress)) }, [progress])
   useEffect(() => { document.documentElement.dataset.theme = dark ? 'dark' : 'light'; localStorage.setItem('ukep-theme', dark ? 'dark' : 'light') }, [dark])
@@ -37,9 +39,10 @@ function App() {
     setProgress({ answers, completed: lessonComplete ? [...new Set([...progress.completed, selected.lesson_id])] : progress.completed })
   }
 
-  function speak() {
+  function speechFallback() {
     if (!('speechSynthesis' in window)) return
     window.speechSynthesis.cancel(); speakingRef.current = true; setSpeaking(true)
+    setAudioMode('SpeechSynthesis')
     const voices = window.speechSynthesis.getVoices()
     const british = voices.filter(v => v.lang.toLowerCase() === 'en-gb')
     let i = 0
@@ -55,12 +58,30 @@ function App() {
     next()
   }
 
+  function speak() {
+    stop()
+    const source = `${import.meta.env.BASE_URL}${selected.audio.file}`
+    const audio = new Audio(source)
+    audio.preload = 'auto'; audio.playbackRate = rate
+    audio.onended = () => { speakingRef.current = false; setSpeaking(false); audioRef.current = null }
+    audio.onerror = () => { audioRef.current = null; speechFallback() }
+    audioRef.current = audio; speakingRef.current = true; setSpeaking(true); setAudioMode('Kokoro M4A')
+    audio.play().catch(() => { audioRef.current = null; speechFallback() })
+  }
+
   function pauseResume() {
-    if (window.speechSynthesis.paused) window.speechSynthesis.resume()
+    if (audioRef.current) {
+      if (audioRef.current.paused) void audioRef.current.play()
+      else audioRef.current.pause()
+    } else if (window.speechSynthesis.paused) window.speechSynthesis.resume()
     else window.speechSynthesis.pause()
   }
 
-  function stop() { speakingRef.current = false; window.speechSynthesis?.cancel(); setSpeaking(false) }
+  function stop() {
+    speakingRef.current = false
+    if (audioRef.current) { audioRef.current.pause(); audioRef.current.currentTime = 0; audioRef.current = null }
+    window.speechSynthesis?.cancel(); setSpeaking(false)
+  }
   useEffect(() => stop, [selectedId])
 
   function download(kind: 'csv' | 'md') {
@@ -100,7 +121,7 @@ function App() {
 
         <section className="player" aria-label="聆聽播放器">
           <button className="play" onClick={speak} aria-label="播放或重播">{speaking?'↻':'▶'}</button>
-          <div className="player-copy"><b>{speaking?'正在朗讀英式英語…':'播放聆聽稿'}</b><small>使用裝置內的 en-GB 語音（如有）</small></div>
+          <div className="player-copy"><b>{speaking?`正在播放 ${audioMode}…`:'播放聆聽稿'}</b><small>Kokoro-82M · bf_isabella 女聲；失敗時使用裝置 en-GB 語音</small></div>
           <button onClick={pauseResume} disabled={!speaking}>暫停／繼續</button><button onClick={stop} disabled={!speaking}>停止</button>
           <label>速度 <select value={rate} onChange={e=>setRate(Number(e.target.value))}><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1">1×</option><option value="1.15">1.15×</option></select></label>
         </section>

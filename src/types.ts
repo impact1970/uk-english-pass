@@ -6,7 +6,11 @@ export interface Question { id: string; type: QuestionType; prompt: string; opti
 export interface Lesson {
   level: Level; unit: string; unit_zh_hk: string; lesson_id: string; title: string; difficulty: number;
   skill_tags: string[]; script: Turn[]; questions: Question[];
-  audio: { status: 'pending'; planned_format: 'm4a'; planned_engine: 'Kokoro'; accent: 'British English' };
+  audio: {
+    status: 'ready'; file: string; format: 'm4a'; engine: 'Kokoro-82M'; engine_version: 'v1.0';
+    voice: 'bf_isabella'; accent: 'British English'; sample_rate_hz: 24000; fallback: 'SpeechSynthesis en-GB';
+    model_license: 'Apache-2.0'; generated: string;
+  };
   rights: { licence: string; author: string; original: true };
   review_status: 'editorially-reviewed'; version: string;
 }

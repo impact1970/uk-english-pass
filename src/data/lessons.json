@@ -99,10 +99,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-01.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -212,10 +219,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-02.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -325,10 +339,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-03.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -438,10 +459,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-04.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -551,10 +579,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-05.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -664,10 +699,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-06.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -777,10 +819,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-07.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -890,10 +939,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-08.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -1003,10 +1059,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-09.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -1116,10 +1179,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-10.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -1229,10 +1299,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-11.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -1347,10 +1424,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-12.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -1460,10 +1544,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-13.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -1573,10 +1664,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-14.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -1686,10 +1784,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-15.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -1799,10 +1904,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-16.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -1912,10 +2024,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-17.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -2025,10 +2144,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-18.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -2138,10 +2264,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-19.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -2251,10 +2384,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b1-20.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -2365,10 +2505,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-01.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -2479,10 +2626,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-02.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -2593,10 +2747,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-03.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -2707,10 +2868,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-04.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -2821,10 +2989,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-05.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -2935,10 +3110,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-06.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -3049,10 +3231,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-07.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -3163,10 +3352,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-08.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -3277,10 +3473,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-09.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -3391,10 +3594,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-10.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -3505,10 +3715,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-11.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -3619,10 +3836,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-12.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -3733,10 +3957,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-13.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -3847,10 +4078,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-14.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -3961,10 +4199,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-15.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -4075,10 +4320,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-16.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -4189,10 +4441,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-17.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -4303,10 +4562,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-18.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -4417,10 +4683,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-19.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",
@@ -4531,10 +4804,17 @@
       }
     ],
     "audio": {
-      "status": "pending",
-      "planned_format": "m4a",
-      "planned_engine": "Kokoro",
-      "accent": "British English"
+      "status": "ready",
+      "file": "audio/b2-20.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
     },
     "rights": {
       "licence": "CC BY-NC 4.0",

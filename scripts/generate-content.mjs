@@ -285,7 +285,11 @@ const lessons = scenarios.map((r, idx) => {
     title: r.t, difficulty: r.l === 'B1' ? 2 + (idx % 2) : 4 + (idx % 2),
     skill_tags: r.l === 'B1' ? ['main-idea','detail','reason'] : ['inference','opinion','contrast','follow-up'],
     script: turns, questions,
-    audio: { status:'pending', planned_format:'m4a', planned_engine:'Kokoro', accent:'British English' },
+    audio: {
+      status:'ready', file:`audio/${r.l.toLowerCase()}-${lessonNo}.m4a`, format:'m4a', engine:'Kokoro-82M',
+      engine_version:'v1.0', voice:'bf_isabella', accent:'British English', sample_rate_hz:24000,
+      fallback:'SpeechSynthesis en-GB', model_license:'Apache-2.0', generated:'2026-11-05'
+    },
     rights: { licence:'CC BY-NC 4.0', author:'UK English Pass editorial corpus', original:true },
     review_status:'editorially-reviewed', version:'2026.11-regenerated'
   }
