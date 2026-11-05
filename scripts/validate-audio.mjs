@@ -4,10 +4,12 @@ import { fileURLToPath } from 'node:url'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const lessons = JSON.parse(fs.readFileSync(path.join(root, 'src/data/lessons.json'), 'utf8'))
-const declared = lessons.map(lesson => lesson.audio.file)
+const ready = lessons.filter(lesson => lesson.audio.status === 'ready')
+const pending = lessons.filter(lesson => lesson.audio.status === 'pending')
+const declared = ready.map(lesson => lesson.audio.file)
 const fail = message => { throw new Error(message) }
 
-if (declared.length !== 40 || new Set(declared).size !== 40) fail('Expected 40 unique declared audio files')
+if (new Set(declared).size !== declared.length) fail('Ready lessons must declare unique audio files')
 for (const relative of declared) {
   const file = path.join(root, 'public', relative)
   if (!fs.existsSync(file)) fail(`Missing audio file: ${relative}`)
@@ -19,6 +21,6 @@ for (const relative of declared) {
 
 const directory = path.join(root, 'public', 'audio')
 const actual = fs.readdirSync(directory).filter(name => name.endsWith('.m4a'))
-if (actual.length !== 40) fail(`Expected 40 M4A files, found ${actual.length}`)
+if (actual.length !== ready.length) fail(`Expected ${ready.length} ready M4A files, found ${actual.length}`)
 const bytes = actual.reduce((sum, name) => sum + fs.statSync(path.join(directory, name)).size, 0)
-console.log(`Audio valid: 40 unique Kokoro M4A files (${(bytes / 1024 / 1024).toFixed(2)} MiB).`)
+console.log(`Audio valid: ${ready.length} unique Kokoro M4A files, ${pending.length} pending (${(bytes / 1024 / 1024).toFixed(2)} MiB).`)

@@ -32,11 +32,11 @@ def synthesise(engine: Kokoro, text: str) -> np.ndarray:
 
 
 def lesson_audio(engine: Kokoro, lesson: dict) -> np.ndarray:
-    pause = np.zeros(int(SAMPLE_RATE * 0.52), dtype=np.float32)
-    parts: list[np.ndarray] = []
-    for turn in lesson["script"]:
-        parts.extend((synthesise(engine, turn["text"]), pause))
-    audio = np.concatenate(parts[:-1])
+    # All lessons intentionally use one female voice. Supplying the complete
+    # dialogue in one call lets Kokoro batch the sentences efficiently while
+    # retaining punctuation-based pauses between turns.
+    text = " ".join(turn["text"] for turn in lesson["script"])
+    audio = synthesise(engine, text)
     peak = float(np.max(np.abs(audio)))
     if peak > 0:
         audio = audio * min(0.94 / peak, 1.35)
@@ -58,10 +58,12 @@ def encode_m4a(audio: np.ndarray, destination: Path) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
+    parser.add_argument("--start", type=int, default=1, help="Start from this 1-based lesson number")
     parser.add_argument("--limit", type=int, default=None, help="Generate only the first N lessons")
     parser.add_argument("--force", action="store_true", help="Regenerate existing files")
     args = parser.parse_args()
     lessons = json.loads(DATA.read_text(encoding="utf-8"))
+    lessons = lessons[max(0, args.start - 1):]
     if args.limit:
         lessons = lessons[: args.limit]
 

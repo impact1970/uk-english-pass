@@ -1,6 +1,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { additionalScenarios } from './additional-scenarios.mjs'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const units = {
@@ -266,32 +267,38 @@ const scenarios = [
   ],qs:[q('Why must volunteers check green-label dates?',['A previous test may no longer be current','Green labels indicate failure','Labels show repair prices'],0,'綠標只代表上月曾通過，仍需核對日期。'),q('What happens to a failed appliance first?',['It goes on the red shelf and is recorded','It is repaired immediately','It is returned without a note'],0,'失敗物品先移至紅架並記錄故障。'),q('Which work can the volunteer do before Kamal arrives?',['Examine torn clothing','Repair electrical appliances','Approve safety tests'],0,'衣物站不需要合資格電器技師。')]},
 ]
 
+scenarios.push(...additionalScenarios)
 const counts = { B1: 0, B2: 0 }
 const lessons = scenarios.map((r, idx) => {
   counts[r.l]++
   const lessonNo = String(counts[r.l]).padStart(2, '0')
   const [unit, unitZh] = units[r.l][r.u]
   const turns = r.x.map((text, i) => ({ speaker: r.s[i % r.s.length], voice: i % 2 ? V.B : V.A, text }))
-  const questions = r.qs.map((item, qi) => ({
-    id: `${r.l.toLowerCase()}-${lessonNo}-q${qi + 1}`,
-    type: qtypes[(idx * 3 + qi) % qtypes.length],
-    prompt: item.prompt,
-    options: item.options.map((text, oi) => ({ id: String.fromCharCode(65 + oi), text })),
-    answer: String.fromCharCode(65 + item.answer),
-    explanation_zh_hk: item.explanation
-  }))
+  const questions = r.qs.map((item, qi) => {
+    const offset = idx >= 40 ? (idx + qi) % item.options.length : 0
+    const orderedOptions = [...item.options.slice(offset), ...item.options.slice(0, offset)]
+    const answerIndex = (item.answer - offset + item.options.length) % item.options.length
+    return {
+      id: `${r.l.toLowerCase()}-${lessonNo}-q${qi + 1}`,
+      type: item.type || qtypes[(idx * 3 + qi) % qtypes.length],
+      prompt: item.prompt,
+      options: orderedOptions.map((text, oi) => ({ id: String.fromCharCode(65 + oi), text })),
+      answer: String.fromCharCode(65 + answerIndex),
+      explanation_zh_hk: item.explanation
+    }
+  })
   return {
     level: r.l, unit, unit_zh_hk: unitZh, lesson_id: `${r.l.toLowerCase()}-${lessonNo}`,
     title: r.t, difficulty: r.l === 'B1' ? 2 + (idx % 2) : 4 + (idx % 2),
     skill_tags: r.l === 'B1' ? ['main-idea','detail','reason'] : ['inference','opinion','contrast','follow-up'],
     script: turns, questions,
-    audio: {
+    audio: r.pending ? { status:'pending', file:`audio/${r.l.toLowerCase()}-${lessonNo}.m4a`, format:'m4a', engine:'Kokoro-82M', engine_version:'v1.0', voice:'bf_isabella', accent:'British English', sample_rate_hz:24000, fallback:'SpeechSynthesis en-GB', model_license:'Apache-2.0' } : {
       status:'ready', file:`audio/${r.l.toLowerCase()}-${lessonNo}.m4a`, format:'m4a', engine:'Kokoro-82M',
       engine_version:'v1.0', voice:'bf_isabella', accent:'British English', sample_rate_hz:24000,
       fallback:'SpeechSynthesis en-GB', model_license:'Apache-2.0', generated:'2026-11-05'
     },
     rights: { licence:'CC BY-NC 4.0', author:'UK English Pass editorial corpus', original:true },
-    review_status:'editorially-reviewed', version:'2026.11-regenerated'
+    review_status:r.pending ? 'pending' : 'editorially-reviewed', version:'2026.11-regenerated'
   }
 })
 

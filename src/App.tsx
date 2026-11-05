@@ -3,6 +3,8 @@ import lessonsData from './data/lessons.json'
 import type { Lesson, Level, Question } from './types'
 
 const lessons = lessonsData as Lesson[]
+const totalQuestions = lessons.reduce((sum, lesson) => sum + lesson.questions.length, 0)
+const totalLessons = lessons.length
 type AnswerMap = Record<string, string>
 type Progress = { answers: AnswerMap; completed: string[] }
 const initialProgress: Progress = (() => {
@@ -60,6 +62,7 @@ function App() {
 
   function speak() {
     stop()
+    if (selected.audio.status === 'pending') { speechFallback(); return }
     const source = `${import.meta.env.BASE_URL}${selected.audio.file}`
     const audio = new Audio(source)
     audio.preload = 'auto'; audio.playbackRate = rate
@@ -100,8 +103,8 @@ function App() {
     </header>
 
     <section className="hero">
-      <div><p className="eyebrow">B1 — B2 LISTENING LAB</p><h1>聽懂英式英語，<br/><em>逐課建立信心。</em></h1><p>40 篇原創生活對話、120 條精準練習，專為香港學習者重新製作。</p></div>
-      <div className="score-card" aria-label="學習進度"><div className="ring" style={{'--p': `${Math.round(answeredCount/120*100)}%`} as React.CSSProperties}><strong>{answeredCount}</strong><span>/ 120</span></div><div><small>已回答</small><b>{correctCount} 題答對</b><span>{progress.completed.length} / 40 課完成</span></div></div>
+      <div><p className="eyebrow">B1 — B2 LISTENING LAB</p><h1>聽懂英式英語，<br/><em>逐課建立信心。</em></h1><p>{totalLessons} 篇原創生活對話、{totalQuestions} 條精準練習，專為香港學習者重新製作。</p></div>
+      <div className="score-card" aria-label="學習進度"><div className="ring" style={{'--p': `${Math.round(answeredCount/totalQuestions*100)}%`} as React.CSSProperties}><strong>{answeredCount}</strong><span>/ {totalQuestions}</span></div><div><small>已回答</small><b>{correctCount} 題答對</b><span>{progress.completed.length} / {totalLessons} 課完成</span></div></div>
     </section>
 
     <div className="notice"><b>練習定位</b><span>本站訓練 CEFR 聆聽能力，參考 Trinity GESE Grade 5 / 7 常見主題，但並非官方試題；選擇題形式並不代表真實考試形式。</span></div>

@@ -1,6 +1,6 @@
 # UK English Pass
 
-為香港學習者而設的 B1/B2 英式英語聆聽練習網站。包含 40 篇原創聆聽稿、120 題、18 個主題單元，並提供預先生成的 Kokoro `bf_isabella` 英式女聲、SpeechSynthesis 後備、進度記錄及錯題重溫。
+為香港學習者而設的 B1/B2 英式英語聆聽練習網站。包含 66 篇原創聆聽稿、200 題（B1/B2 各 100 題）、18 個主題單元，並提供預先生成的 Kokoro `bf_isabella` 英式女聲、SpeechSynthesis 後備、進度記錄及錯題重溫。
 
 > 本站訓練 CEFR 聆聽能力，內容參考 Trinity GESE Grade 5/7 常見主題，但並非官方試題；選擇題形式不代表真實考試形式。
 

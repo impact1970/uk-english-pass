@@ -4823,5 +4823,3180 @@
     },
     "review_status": "editorially-reviewed",
     "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "festivals",
+    "unit_zh_hk": "節日",
+    "lesson_id": "b1-21",
+    "title": "A festival stall",
+    "difficulty": 2,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Erin",
+        "voice": "en-GB-SoniaNeural",
+        "text": "The spring festival needs volunteers on Sunday. Would you rather sell plants or welcome visitors?"
+      },
+      {
+        "speaker": "Josh",
+        "voice": "en-GB-RyanNeural",
+        "text": "I know very little about plants, so welcoming people would suit me better."
+      },
+      {
+        "speaker": "Erin",
+        "voice": "en-GB-SoniaNeural",
+        "text": "The welcome desk opens at ten, but volunteers should meet at nine thirty for instructions."
+      },
+      {
+        "speaker": "Josh",
+        "voice": "en-GB-RyanNeural",
+        "text": "I can do that. I will bring a water bottle because we will be outside."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-21-q1",
+        "type": "single-choice",
+        "prompt": "Which job does Josh prefer?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Selling plants"
+          },
+          {
+            "id": "B",
+            "text": "Giving instructions"
+          },
+          {
+            "id": "C",
+            "text": "Welcoming visitors"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "Josh 說自己較適合迎接訪客。"
+      },
+      {
+        "id": "b1-21-q2",
+        "type": "single-choice",
+        "prompt": "When should volunteers meet?",
+        "options": [
+          {
+            "id": "A",
+            "text": "At 10:30"
+          },
+          {
+            "id": "B",
+            "text": "At 9:30"
+          },
+          {
+            "id": "C",
+            "text": "At 10:00"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "義工須於九時半集合聽取指示。"
+      },
+      {
+        "id": "b1-21-q3",
+        "type": "single-choice",
+        "prompt": "Why will Josh bring water?",
+        "options": [
+          {
+            "id": "A",
+            "text": "He will work outdoors"
+          },
+          {
+            "id": "B",
+            "text": "The desk sells drinks"
+          },
+          {
+            "id": "C",
+            "text": "He is watering plants"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "他會在戶外工作，所以帶水。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-21.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "transport",
+    "unit_zh_hk": "交通方式",
+    "lesson_id": "b1-22",
+    "title": "A missed bus",
+    "difficulty": 3,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Sara",
+        "voice": "en-GB-SoniaNeural",
+        "text": "The number six has just left. The next one is in twenty minutes."
+      },
+      {
+        "speaker": "Milo",
+        "voice": "en-GB-RyanNeural",
+        "text": "Our appointment starts in half an hour. Could we walk to the clinic instead?"
+      },
+      {
+        "speaker": "Sara",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Yes, it takes fifteen minutes, and the route through the park is shorter than the main road."
+      },
+      {
+        "speaker": "Milo",
+        "voice": "en-GB-RyanNeural",
+        "text": "Let’s walk through the park then. I will ring the clinic if we are delayed."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-22-q1",
+        "type": "single-choice",
+        "prompt": "How long is the wait for the next bus?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Half an hour"
+          },
+          {
+            "id": "B",
+            "text": "Twenty minutes"
+          },
+          {
+            "id": "C",
+            "text": "Fifteen minutes"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "下一班巴士要等二十分鐘。"
+      },
+      {
+        "id": "b1-22-q2",
+        "type": "single-choice",
+        "prompt": "Which route do they choose?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Through the park"
+          },
+          {
+            "id": "B",
+            "text": "Along the main road"
+          },
+          {
+            "id": "C",
+            "text": "By the number six bus"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "他們決定步行穿過公園。"
+      },
+      {
+        "id": "b1-22-q3",
+        "type": "single-choice",
+        "prompt": "When will Milo ring the clinic?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Before leaving the bus stop"
+          },
+          {
+            "id": "B",
+            "text": "After the appointment"
+          },
+          {
+            "id": "C",
+            "text": "If they are delayed"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "Milo 說若延誤便會致電診所。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-22.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "special-occasions",
+    "unit_zh_hk": "特別場合",
+    "lesson_id": "b1-23",
+    "title": "A leaving card",
+    "difficulty": 2,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Nora",
+        "voice": "en-GB-SoniaNeural",
+        "text": "It is Peter’s last day on Thursday. Shall we get him a leaving card?"
+      },
+      {
+        "speaker": "Alex",
+        "voice": "en-GB-RyanNeural",
+        "text": "Yes. I can buy one today, but I do not know everyone on his team."
+      },
+      {
+        "speaker": "Nora",
+        "voice": "en-GB-SoniaNeural",
+        "text": "I will take it round the office tomorrow so people can write a message."
+      },
+      {
+        "speaker": "Alex",
+        "voice": "en-GB-RyanNeural",
+        "text": "Good. Let’s give it to him after lunch, before he leaves for his train."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-23-q1",
+        "type": "single-choice",
+        "prompt": "What will Alex buy?",
+        "options": [
+          {
+            "id": "A",
+            "text": "A card"
+          },
+          {
+            "id": "B",
+            "text": "A train ticket"
+          },
+          {
+            "id": "C",
+            "text": "Lunch"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "Alex 主動買一張卡。"
+      },
+      {
+        "id": "b1-23-q2",
+        "type": "single-choice",
+        "prompt": "When will Nora take it round?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Next week"
+          },
+          {
+            "id": "B",
+            "text": "After Peter leaves"
+          },
+          {
+            "id": "C",
+            "text": "Tomorrow"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "Nora 會在明天把卡拿給同事簽寫。"
+      },
+      {
+        "id": "b1-23-q3",
+        "type": "single-choice",
+        "prompt": "When will Peter receive it?",
+        "options": [
+          {
+            "id": "A",
+            "text": "On the train"
+          },
+          {
+            "id": "B",
+            "text": "After lunch"
+          },
+          {
+            "id": "C",
+            "text": "Before breakfast"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "他們打算午飯後、Peter 趕火車前送卡。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-23.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "entertainment",
+    "unit_zh_hk": "娛樂",
+    "lesson_id": "b1-24",
+    "title": "A play at the hall",
+    "difficulty": 3,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Chloe",
+        "voice": "en-GB-SoniaNeural",
+        "text": "The village play is on Friday and Saturday. Which evening are you free?"
+      },
+      {
+        "speaker": "Arun",
+        "voice": "en-GB-RyanNeural",
+        "text": "Friday, although I cannot arrive before seven because of work."
+      },
+      {
+        "speaker": "Chloe",
+        "voice": "en-GB-SoniaNeural",
+        "text": "The doors open at seven and the play starts at seven thirty. Shall I reserve two seats?"
+      },
+      {
+        "speaker": "Arun",
+        "voice": "en-GB-RyanNeural",
+        "text": "Please do. I will pay you back when we meet at the hall."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-24-q1",
+        "type": "single-choice",
+        "prompt": "Which evening suits Arun?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Saturday"
+          },
+          {
+            "id": "B",
+            "text": "Neither evening"
+          },
+          {
+            "id": "C",
+            "text": "Friday"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "Arun 星期五有空。"
+      },
+      {
+        "id": "b1-24-q2",
+        "type": "single-choice",
+        "prompt": "When does the play begin?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Before 7:00"
+          },
+          {
+            "id": "B",
+            "text": "At 7:30"
+          },
+          {
+            "id": "C",
+            "text": "At 7:00"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "七時開門，七時半演出開始。"
+      },
+      {
+        "id": "b1-24-q3",
+        "type": "single-choice",
+        "prompt": "What will Chloe reserve?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Two seats"
+          },
+          {
+            "id": "B",
+            "text": "A parking space"
+          },
+          {
+            "id": "C",
+            "text": "A table for dinner"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "Chloe 提議預留兩個座位。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-24.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "music",
+    "unit_zh_hk": "音樂",
+    "lesson_id": "b1-25",
+    "title": "A music playlist",
+    "difficulty": 2,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Finn",
+        "voice": "en-GB-SoniaNeural",
+        "text": "I am making a playlist for the school fair. Should every song be fast?"
+      },
+      {
+        "speaker": "Lara",
+        "voice": "en-GB-RyanNeural",
+        "text": "A mixture would be better. Some people may want to sit and talk."
+      },
+      {
+        "speaker": "Finn",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Good point. I will ask the teachers to check the words before we play anything."
+      },
+      {
+        "speaker": "Lara",
+        "voice": "en-GB-RyanNeural",
+        "text": "I can suggest some quieter songs tonight, if that helps."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-25-q1",
+        "type": "single-choice",
+        "prompt": "What does Lara recommend?",
+        "options": [
+          {
+            "id": "A",
+            "text": "No music at the fair"
+          },
+          {
+            "id": "B",
+            "text": "A mixture of song speeds"
+          },
+          {
+            "id": "C",
+            "text": "Only fast songs"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "Lara 建議快慢歌曲混合。"
+      },
+      {
+        "id": "b1-25-q2",
+        "type": "single-choice",
+        "prompt": "Who will check the words?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The teachers"
+          },
+          {
+            "id": "B",
+            "text": "The visitors"
+          },
+          {
+            "id": "C",
+            "text": "The musicians"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "Finn 會請老師檢查歌詞。"
+      },
+      {
+        "id": "b1-25-q3",
+        "type": "single-choice",
+        "prompt": "What will Lara suggest?",
+        "options": [
+          {
+            "id": "A",
+            "text": "A different venue"
+          },
+          {
+            "id": "B",
+            "text": "More teachers"
+          },
+          {
+            "id": "C",
+            "text": "Quieter songs"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "Lara 會提供較安靜歌曲的建議。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-25.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "recent-experiences",
+    "unit_zh_hk": "近期個人經歷",
+    "lesson_id": "b1-26",
+    "title": "A first pottery class",
+    "difficulty": 3,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Mina",
+        "voice": "en-GB-SoniaNeural",
+        "text": "How did your pottery class go?"
+      },
+      {
+        "speaker": "Jack",
+        "voice": "en-GB-RyanNeural",
+        "text": "I made a bowl, but one side was thicker than the other."
+      },
+      {
+        "speaker": "Mina",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Will you take it home today?"
+      },
+      {
+        "speaker": "Jack",
+        "voice": "en-GB-RyanNeural",
+        "text": "Not yet. It must dry and go in the kiln first. The teacher will email us when it is ready."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-26-q1",
+        "type": "single-choice",
+        "prompt": "What did Jack make?",
+        "options": [
+          {
+            "id": "A",
+            "text": "A bowl"
+          },
+          {
+            "id": "B",
+            "text": "A plate"
+          },
+          {
+            "id": "C",
+            "text": "A cup"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "Jack 製作了一個碗。"
+      },
+      {
+        "id": "b1-26-q2",
+        "type": "single-choice",
+        "prompt": "What was uneven?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The colour of the clay"
+          },
+          {
+            "id": "B",
+            "text": "The temperature of the kiln"
+          },
+          {
+            "id": "C",
+            "text": "The thickness of the sides"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "碗的一邊較厚。"
+      },
+      {
+        "id": "b1-26-q3",
+        "type": "single-choice",
+        "prompt": "How will Jack know it is ready?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Mina will collect it"
+          },
+          {
+            "id": "B",
+            "text": "The teacher will email him"
+          },
+          {
+            "id": "C",
+            "text": "He must phone every day"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "老師會在作品準備好時發電郵。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-26.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "topic-discussion",
+    "unit_zh_hk": "自選主題討論",
+    "lesson_id": "b1-27",
+    "title": "A favourite walk",
+    "difficulty": 2,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Tutor",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Tell me about a place you enjoy walking."
+      },
+      {
+        "speaker": "Evie",
+        "voice": "en-GB-RyanNeural",
+        "text": "I like the canal path near my flat. It is peaceful even though the road is close."
+      },
+      {
+        "speaker": "Tutor",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Do you always walk alone?"
+      },
+      {
+        "speaker": "Evie",
+        "voice": "en-GB-RyanNeural",
+        "text": "Usually, but on Saturdays my neighbour joins me and we stop for tea afterwards."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-27-q1",
+        "type": "single-choice",
+        "prompt": "Where does Evie enjoy walking?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Beside the beach"
+          },
+          {
+            "id": "B",
+            "text": "In a shopping centre"
+          },
+          {
+            "id": "C",
+            "text": "Along the canal"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "Evie 喜歡在寓所附近的運河小徑散步。"
+      },
+      {
+        "id": "b1-27-q2",
+        "type": "single-choice",
+        "prompt": "How does she describe the path?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Difficult to find"
+          },
+          {
+            "id": "B",
+            "text": "Peaceful"
+          },
+          {
+            "id": "C",
+            "text": "Crowded and noisy"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "她形容小徑寧靜。"
+      },
+      {
+        "id": "b1-27-q3",
+        "type": "single-choice",
+        "prompt": "Who joins her on Saturdays?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Her neighbour"
+          },
+          {
+            "id": "B",
+            "text": "Her tutor"
+          },
+          {
+            "id": "C",
+            "text": "Her brother"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "星期六，她的鄰居會同行。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-27.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "examiner-comprehension",
+    "unit_zh_hk": "理解提問",
+    "lesson_id": "b1-28",
+    "title": "Asking for an example",
+    "difficulty": 3,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Examiner",
+        "voice": "en-GB-SoniaNeural",
+        "text": "What makes a good celebration?"
+      },
+      {
+        "speaker": "Omar",
+        "voice": "en-GB-RyanNeural",
+        "text": "For me, it is when everyone feels included, even if the event is small."
+      },
+      {
+        "speaker": "Examiner",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Could you give me an example of that?"
+      },
+      {
+        "speaker": "Omar",
+        "voice": "en-GB-RyanNeural",
+        "text": "At my cousin’s party, we chose games that both children and grandparents could enjoy."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-28-q1",
+        "type": "best-response",
+        "prompt": "Which response best answers the examiner’s follow-up?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Could we change the subject?"
+          },
+          {
+            "id": "B",
+            "text": "At my cousin’s party, we chose games for all ages."
+          },
+          {
+            "id": "C",
+            "text": "The party is next Tuesday."
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "考官要求舉例；描述適合各年齡人士的遊戲直接回應問題。"
+      },
+      {
+        "id": "b1-28-q2",
+        "type": "speaker-opinion",
+        "prompt": "What matters most to Omar?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Including everyone"
+          },
+          {
+            "id": "B",
+            "text": "Inviting a large crowd"
+          },
+          {
+            "id": "C",
+            "text": "Buying expensive decorations"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "他認為每個人都能參與最重要。"
+      },
+      {
+        "id": "b1-28-q3",
+        "type": "single-choice",
+        "prompt": "Who could enjoy the games?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Only children"
+          },
+          {
+            "id": "B",
+            "text": "Only the hosts"
+          },
+          {
+            "id": "C",
+            "text": "Both children and grandparents"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "遊戲適合小孩和祖父母一起玩。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-28.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "integrated-listening",
+    "unit_zh_hk": "綜合聆聽",
+    "lesson_id": "b1-29",
+    "title": "A parcel collection",
+    "difficulty": 2,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Assistant",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Your parcel is ready to collect from the shop until Friday evening."
+      },
+      {
+        "speaker": "Customer",
+        "voice": "en-GB-RyanNeural",
+        "text": "I am working late. Can my sister collect it for me?"
+      },
+      {
+        "speaker": "Assistant",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Yes, if she brings the collection code and her own identification."
+      },
+      {
+        "speaker": "Customer",
+        "voice": "en-GB-RyanNeural",
+        "text": "That is helpful. I will send her the code now."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-29-q1",
+        "type": "single-choice",
+        "prompt": "When is the collection deadline?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Friday evening"
+          },
+          {
+            "id": "B",
+            "text": "Thursday morning"
+          },
+          {
+            "id": "C",
+            "text": "Saturday evening"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "包裹最遲可於星期五晚上領取。"
+      },
+      {
+        "id": "b1-29-q2",
+        "type": "single-choice",
+        "prompt": "What must the sister bring?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The customer’s bank card"
+          },
+          {
+            "id": "B",
+            "text": "A printed receipt only"
+          },
+          {
+            "id": "C",
+            "text": "The code and her identification"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "代領者須帶領取碼及自己的身份證明。"
+      },
+      {
+        "id": "b1-29-q3",
+        "type": "single-choice",
+        "prompt": "What will the customer do now?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Cancel the parcel"
+          },
+          {
+            "id": "B",
+            "text": "Send the code to their sister"
+          },
+          {
+            "id": "C",
+            "text": "Visit the shop"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "顧客會立即將領取碼傳給代領的家人。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-29.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "festivals",
+    "unit_zh_hk": "節日",
+    "lesson_id": "b1-30",
+    "title": "A shared celebration",
+    "difficulty": 3,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Beth",
+        "voice": "en-GB-SoniaNeural",
+        "text": "For the neighbourhood celebration, shall we put the tables in the garden?"
+      },
+      {
+        "speaker": "Yusuf",
+        "voice": "en-GB-RyanNeural",
+        "text": "Only if it stays dry. The hall is available as a backup."
+      },
+      {
+        "speaker": "Beth",
+        "voice": "en-GB-SoniaNeural",
+        "text": "I will check the forecast on Friday and tell the guests where to go."
+      },
+      {
+        "speaker": "Yusuf",
+        "voice": "en-GB-RyanNeural",
+        "text": "I can put signs at both entrances so late arrivals can find us."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-30-q1",
+        "type": "single-choice",
+        "prompt": "What is the backup venue?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The library"
+          },
+          {
+            "id": "B",
+            "text": "A café"
+          },
+          {
+            "id": "C",
+            "text": "The hall"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "如天氣欠佳，會堂可作後備場地。"
+      },
+      {
+        "id": "b1-30-q2",
+        "type": "single-choice",
+        "prompt": "When will Beth check the forecast?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Next month"
+          },
+          {
+            "id": "B",
+            "text": "On Friday"
+          },
+          {
+            "id": "C",
+            "text": "On the morning after the event"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "Beth 會於星期五查看天氣預報。"
+      },
+      {
+        "id": "b1-30-q3",
+        "type": "single-choice",
+        "prompt": "Why will Yusuf put up signs?",
+        "options": [
+          {
+            "id": "A",
+            "text": "To help late arrivals"
+          },
+          {
+            "id": "B",
+            "text": "To advertise a café"
+          },
+          {
+            "id": "C",
+            "text": "To reserve the garden"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "標示可幫助遲到的人找到場地。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-30.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "transport",
+    "unit_zh_hk": "交通方式",
+    "lesson_id": "b1-31",
+    "title": "Booking a ferry",
+    "difficulty": 2,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Paula",
+        "voice": "en-GB-SoniaNeural",
+        "text": "The ferry website offers a morning crossing and an afternoon crossing."
+      },
+      {
+        "speaker": "Reece",
+        "voice": "en-GB-RyanNeural",
+        "text": "The afternoon one is cheaper, but we would miss the guided walk on the island."
+      },
+      {
+        "speaker": "Paula",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Then the morning ticket is worth the extra cost. It includes a bicycle space too."
+      },
+      {
+        "speaker": "Reece",
+        "voice": "en-GB-RyanNeural",
+        "text": "Fine. I will book it after checking that the walk still has places."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-31-q1",
+        "type": "single-choice",
+        "prompt": "Why favour the morning crossing?",
+        "options": [
+          {
+            "id": "A",
+            "text": "To avoid taking bicycles"
+          },
+          {
+            "id": "B",
+            "text": "To attend the guided walk"
+          },
+          {
+            "id": "C",
+            "text": "Because it is cheaper"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "下午渡輪雖較便宜，卻趕不上導賞步行。"
+      },
+      {
+        "id": "b1-31-q2",
+        "type": "single-choice",
+        "prompt": "What is included in the morning ticket?",
+        "options": [
+          {
+            "id": "A",
+            "text": "A bicycle space"
+          },
+          {
+            "id": "B",
+            "text": "A guided lunch"
+          },
+          {
+            "id": "C",
+            "text": "A hotel room"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "早上船票包括單車位置。"
+      },
+      {
+        "id": "b1-31-q3",
+        "type": "single-choice",
+        "prompt": "What will Reece check before booking?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The hotel menu"
+          },
+          {
+            "id": "B",
+            "text": "The ferry captain’s name"
+          },
+          {
+            "id": "C",
+            "text": "Places on the walk"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "Reece 先確認導賞步行是否仍有名額。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-31.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "recent-experiences",
+    "unit_zh_hk": "近期個人經歷",
+    "lesson_id": "b1-32",
+    "title": "A new recipe",
+    "difficulty": 3,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Tara",
+        "voice": "en-GB-SoniaNeural",
+        "text": "I made the soup you recommended, but I used carrots instead of squash."
+      },
+      {
+        "speaker": "Elliot",
+        "voice": "en-GB-RyanNeural",
+        "text": "Did it work?"
+      },
+      {
+        "speaker": "Tara",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Yes, although I added too much pepper. A spoonful of yoghurt made it milder."
+      },
+      {
+        "speaker": "Elliot",
+        "voice": "en-GB-RyanNeural",
+        "text": "I will remember that. I am making it for my family this weekend."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-32-q1",
+        "type": "single-choice",
+        "prompt": "What did Tara use instead of squash?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Carrots"
+          },
+          {
+            "id": "B",
+            "text": "Potatoes"
+          },
+          {
+            "id": "C",
+            "text": "Yoghurt"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "Tara 用紅蘿蔔代替南瓜。"
+      },
+      {
+        "id": "b1-32-q2",
+        "type": "single-choice",
+        "prompt": "What made the soup milder?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Extra pepper"
+          },
+          {
+            "id": "B",
+            "text": "More squash"
+          },
+          {
+            "id": "C",
+            "text": "Yoghurt"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "加入乳酪令湯沒那麼辣。"
+      },
+      {
+        "id": "b1-32-q3",
+        "type": "single-choice",
+        "prompt": "When will Elliot make the soup?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Next month"
+          },
+          {
+            "id": "B",
+            "text": "This weekend"
+          },
+          {
+            "id": "C",
+            "text": "Yesterday"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "Elliot 打算本週末煮給家人吃。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-32.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B1",
+    "unit": "integrated-listening",
+    "unit_zh_hk": "綜合聆聽",
+    "lesson_id": "b1-33",
+    "title": "A change at the library",
+    "difficulty": 2,
+    "skill_tags": [
+      "main-idea",
+      "detail",
+      "reason"
+    ],
+    "script": [
+      {
+        "speaker": "Librarian",
+        "voice": "en-GB-SoniaNeural",
+        "text": "The reading group normally meets upstairs, but the lift is being repaired today."
+      },
+      {
+        "speaker": "Visitor",
+        "voice": "en-GB-RyanNeural",
+        "text": "Will the meeting be cancelled?"
+      },
+      {
+        "speaker": "Librarian",
+        "voice": "en-GB-SoniaNeural",
+        "text": "No, it will be in the ground-floor room at two, as planned. Please use the garden entrance."
+      },
+      {
+        "speaker": "Visitor",
+        "voice": "en-GB-RyanNeural",
+        "text": "Thank you. I will tell my friend, who is bringing the books."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1-33-q1",
+        "type": "single-choice",
+        "prompt": "Why has the room changed?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The books have not arrived"
+          },
+          {
+            "id": "B",
+            "text": "The garden is closed"
+          },
+          {
+            "id": "C",
+            "text": "The lift is being repaired"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "升降機維修，因此更換房間。"
+      },
+      {
+        "id": "b1-33-q2",
+        "type": "single-choice",
+        "prompt": "What remains unchanged?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The room"
+          },
+          {
+            "id": "B",
+            "text": "The meeting time"
+          },
+          {
+            "id": "C",
+            "text": "The entrance"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "聚會仍在原定兩時舉行。"
+      },
+      {
+        "id": "b1-33-q3",
+        "type": "single-choice",
+        "prompt": "Which entrance should visitors use?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The garden entrance"
+          },
+          {
+            "id": "B",
+            "text": "The upstairs entrance"
+          },
+          {
+            "id": "C",
+            "text": "The car park entrance"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "館員指示使用花園入口。"
+      },
+      {
+        "id": "b1-33-q4",
+        "type": "single-choice",
+        "prompt": "Who is bringing the books?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The librarian"
+          },
+          {
+            "id": "B",
+            "text": "The repair worker"
+          },
+          {
+            "id": "C",
+            "text": "The visitor’s friend"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "訪客的朋友會帶書。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b1-33.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "education",
+    "unit_zh_hk": "教育",
+    "lesson_id": "b2-21",
+    "title": "A practical assessment",
+    "difficulty": 5,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Lecturer",
+        "voice": "en-GB-SoniaNeural",
+        "text": "The department is considering replacing the final written exam with a group project."
+      },
+      {
+        "speaker": "Student",
+        "voice": "en-GB-RyanNeural",
+        "text": "That could test collaboration, but individual contributions might be hard to distinguish."
+      },
+      {
+        "speaker": "Lecturer",
+        "voice": "en-GB-SoniaNeural",
+        "text": "We could combine the project mark with a short individual reflection explaining each person’s decisions."
+      },
+      {
+        "speaker": "Student",
+        "voice": "en-GB-RyanNeural",
+        "text": "That sounds fairer, provided the marking criteria are published before the project begins."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-21-q1",
+        "type": "single-choice",
+        "prompt": "What concern does the student raise?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Published criteria would prevent collaboration"
+          },
+          {
+            "id": "B",
+            "text": "Individual work may be difficult to identify"
+          },
+          {
+            "id": "C",
+            "text": "A reflection would replace the group project"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "學生擔心難以分辨個人貢獻。"
+      },
+      {
+        "id": "b2-21-q2",
+        "type": "single-choice",
+        "prompt": "What would supplement the group mark?",
+        "options": [
+          {
+            "id": "A",
+            "text": "An individual reflection"
+          },
+          {
+            "id": "B",
+            "text": "A separate written exam"
+          },
+          {
+            "id": "C",
+            "text": "An assessment by other groups"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "建議以個人反思補充小組成績。"
+      },
+      {
+        "id": "b2-21-q3",
+        "type": "speaker-opinion",
+        "prompt": "What condition does the student attach?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Let each group set its own criteria"
+          },
+          {
+            "id": "B",
+            "text": "Publish criteria after the project"
+          },
+          {
+            "id": "C",
+            "text": "Publish criteria in advance"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "學生要求事先公布評分準則。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-21.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "customs",
+    "unit_zh_hk": "國家習俗",
+    "lesson_id": "b2-22",
+    "title": "Welcoming guests",
+    "difficulty": 4,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Amina",
+        "voice": "en-GB-SoniaNeural",
+        "text": "At my grandmother’s house, guests are offered tea before anyone discusses business."
+      },
+      {
+        "speaker": "Rob",
+        "voice": "en-GB-RyanNeural",
+        "text": "In my family we tend to get straight to the reason for the visit. Neither approach is necessarily unfriendly."
+      },
+      {
+        "speaker": "Amina",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Exactly. Problems arise when people assume their own custom is the only polite one."
+      },
+      {
+        "speaker": "Rob",
+        "voice": "en-GB-RyanNeural",
+        "text": "Perhaps a host can explain what to expect, especially when guests are unfamiliar with the routine."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-22-q1",
+        "type": "single-choice",
+        "prompt": "What happens first at Amina’s grandmother’s house?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Guests are offered tea"
+          },
+          {
+            "id": "B",
+            "text": "Business is discussed"
+          },
+          {
+            "id": "C",
+            "text": "Guests make their own meal"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "客人到訪時先獲奉茶。"
+      },
+      {
+        "id": "b2-22-q2",
+        "type": "speaker-opinion",
+        "prompt": "What do the speakers agree?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Direct discussion is always rude"
+          },
+          {
+            "id": "B",
+            "text": "Guests should never ask questions"
+          },
+          {
+            "id": "C",
+            "text": "Different customs can both be polite"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "兩人同意不同習慣都可以有禮貌。"
+      },
+      {
+        "id": "b2-22-q3",
+        "type": "single-choice",
+        "prompt": "What does Rob suggest hosts do?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Replace family customs with formal rules"
+          },
+          {
+            "id": "B",
+            "text": "Explain unfamiliar routines"
+          },
+          {
+            "id": "C",
+            "text": "Expect guests to discover the routine"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "Rob 建議向不熟悉習慣的客人解釋安排。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-22.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "village-city-life",
+    "unit_zh_hk": "鄉村與城市生活",
+    "lesson_id": "b2-23",
+    "title": "A village health service",
+    "difficulty": 5,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Councillor",
+        "voice": "en-GB-SoniaNeural",
+        "text": "The mobile clinic visits the village once a fortnight, but some appointments go unused."
+      },
+      {
+        "speaker": "Nurse",
+        "voice": "en-GB-RyanNeural",
+        "text": "Residents told us the booking line is open only during working hours, when many cannot call."
+      },
+      {
+        "speaker": "Councillor",
+        "voice": "en-GB-SoniaNeural",
+        "text": "We could extend the phone hours and add an online form."
+      },
+      {
+        "speaker": "Nurse",
+        "voice": "en-GB-RyanNeural",
+        "text": "Both would help, but please keep a telephone option for people who do not use the internet."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-23-q1",
+        "type": "inference",
+        "prompt": "What might explain the unused appointments?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The village has no demand for appointments"
+          },
+          {
+            "id": "B",
+            "text": "Online booking has already failed"
+          },
+          {
+            "id": "C",
+            "text": "Some residents face barriers to booking"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "部分居民在預約電話開放時未能致電，因此有空位不代表沒有人需要服務。"
+      },
+      {
+        "id": "b2-23-q2",
+        "type": "single-choice",
+        "prompt": "What booking problem did residents identify?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The clinic accepts only online bookings"
+          },
+          {
+            "id": "B",
+            "text": "The phone line opens only during working hours"
+          },
+          {
+            "id": "C",
+            "text": "Appointments can only be booked in person"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "電話預約只於工作時間開放，部分居民不方便致電。"
+      },
+      {
+        "id": "b2-23-q3",
+        "type": "single-choice",
+        "prompt": "Why retain telephone booking?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Some people do not use the internet"
+          },
+          {
+            "id": "B",
+            "text": "Longer phone hours have been rejected"
+          },
+          {
+            "id": "C",
+            "text": "Online forms cannot handle appointments"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "護士提醒有些人不上網，應保留電話選項。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-23.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "local-products",
+    "unit_zh_hk": "本地產品",
+    "lesson_id": "b2-24",
+    "title": "A local cheese label",
+    "difficulty": 4,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Producer",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Our cheese is made here, but the milk comes from farms across the county."
+      },
+      {
+        "speaker": "Retailer",
+        "voice": "en-GB-RyanNeural",
+        "text": "Then a label saying “made in the village” is accurate, though customers might assume the milk comes from the village too."
+      },
+      {
+        "speaker": "Producer",
+        "voice": "en-GB-SoniaNeural",
+        "text": "We could name the dairy and explain where the milk comes from on the same label."
+      },
+      {
+        "speaker": "Retailer",
+        "voice": "en-GB-RyanNeural",
+        "text": "That gives shoppers useful detail without suggesting every ingredient comes from one place."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-24-q1",
+        "type": "single-choice",
+        "prompt": "Where does the milk come from?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Another country"
+          },
+          {
+            "id": "B",
+            "text": "Farms across the county"
+          },
+          {
+            "id": "C",
+            "text": "Only one village farm"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "牛奶來自郡內各農場。"
+      },
+      {
+        "id": "b2-24-q2",
+        "type": "inference",
+        "prompt": "Why does the retailer favour a more detailed label?",
+        "options": [
+          {
+            "id": "A",
+            "text": "An accurate statement can still give a misleading impression"
+          },
+          {
+            "id": "B",
+            "text": "County-wide sourcing makes the village claim false"
+          },
+          {
+            "id": "C",
+            "text": "Customers should choose only cheese made from village milk"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "「村內製造」雖然屬實，仍可能令人誤以為牛奶亦來自村內；補充來源可避免誤解。"
+      },
+      {
+        "id": "b2-24-q3",
+        "type": "single-choice",
+        "prompt": "What information will clarify the label?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The farm name without the dairy"
+          },
+          {
+            "id": "B",
+            "text": "The dairy name without the milk’s origin"
+          },
+          {
+            "id": "C",
+            "text": "The dairy and the milk’s origin"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "標籤會說明乳品廠及牛奶來源。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-24.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "early-memories",
+    "unit_zh_hk": "童年回憶",
+    "lesson_id": "b2-25",
+    "title": "A remembered classroom",
+    "difficulty": 5,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Molly",
+        "voice": "en-GB-SoniaNeural",
+        "text": "I remember our primary classroom as enormous, but I visited recently and it seemed quite small."
+      },
+      {
+        "speaker": "Hassan",
+        "voice": "en-GB-RyanNeural",
+        "text": "You were much smaller then. Your memory of the space may be accurate from a child’s perspective."
+      },
+      {
+        "speaker": "Molly",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Possibly. The windows have changed too, so I cannot assume everything is exactly as it was."
+      },
+      {
+        "speaker": "Hassan",
+        "voice": "en-GB-RyanNeural",
+        "text": "A photograph from that time might help, although it would show only one angle."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-25-q1",
+        "type": "single-choice",
+        "prompt": "What surprised Molly on her visit?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The classroom seemed smaller"
+          },
+          {
+            "id": "B",
+            "text": "The windows were unchanged"
+          },
+          {
+            "id": "C",
+            "text": "The classroom seemed larger"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "重訪時課室比她記憶中小。"
+      },
+      {
+        "id": "b2-25-q2",
+        "type": "single-choice",
+        "prompt": "How does Hassan explain her memory?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The room must have been rebuilt"
+          },
+          {
+            "id": "B",
+            "text": "The changed windows explain everything"
+          },
+          {
+            "id": "C",
+            "text": "A child experiences scale differently"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "Hassan 認為孩童體型較小，感受空間大小的角度不同。"
+      },
+      {
+        "id": "b2-25-q3",
+        "type": "single-choice",
+        "prompt": "What limit does Hassan mention about a photograph?",
+        "options": [
+          {
+            "id": "A",
+            "text": "It could confirm the room’s exact dimensions"
+          },
+          {
+            "id": "B",
+            "text": "It shows only one angle"
+          },
+          {
+            "id": "C",
+            "text": "It would show only the new windows"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "一張相片只顯示單一角度。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-25.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "pollution-recycling",
+    "unit_zh_hk": "污染與回收",
+    "lesson_id": "b2-26",
+    "title": "Reducing food waste",
+    "difficulty": 4,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Manager",
+        "voice": "en-GB-SoniaNeural",
+        "text": "We throw away more prepared sandwiches on Mondays than on any other day."
+      },
+      {
+        "speaker": "Cook",
+        "voice": "en-GB-RyanNeural",
+        "text": "Monday sales vary because nearby offices have different attendance patterns each week."
+      },
+      {
+        "speaker": "Manager",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Instead of a fixed quantity, let us prepare a smaller first batch and make more if demand rises."
+      },
+      {
+        "speaker": "Cook",
+        "voice": "en-GB-RyanNeural",
+        "text": "That could reduce waste, provided we monitor whether customers have to wait too long."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-26-q1",
+        "type": "inference",
+        "prompt": "Why is a fixed Monday quantity problematic?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Monday demand is always higher than expected"
+          },
+          {
+            "id": "B",
+            "text": "Office workers no longer buy sandwiches"
+          },
+          {
+            "id": "C",
+            "text": "Office attendance makes demand vary"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "附近辦公室每星期的出勤情況不同，令星期一銷量不穩定，固定製作數量容易造成浪費。"
+      },
+      {
+        "id": "b2-26-q2",
+        "type": "single-choice",
+        "prompt": "What production change is proposed?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Prepare all Monday sandwiches on Sunday"
+          },
+          {
+            "id": "B",
+            "text": "Make a smaller batch first"
+          },
+          {
+            "id": "C",
+            "text": "Prepare the same larger batch every Monday"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "建議先做較少數量，有需求再增加。"
+      },
+      {
+        "id": "b2-26-q3",
+        "type": "single-choice",
+        "prompt": "What should be monitored during the change?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Customer waiting time"
+          },
+          {
+            "id": "B",
+            "text": "Office attendance on Fridays"
+          },
+          {
+            "id": "C",
+            "text": "Demand for a wider menu"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "廚師提醒須留意顧客會否等太久。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-26.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "topic-discussion",
+    "unit_zh_hk": "主題討論",
+    "lesson_id": "b2-27",
+    "title": "Sharing public space",
+    "difficulty": 5,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Tutor",
+        "voice": "en-GB-SoniaNeural",
+        "text": "You propose more seating in the town square. How would you answer people who fear it will obstruct events?"
+      },
+      {
+        "speaker": "Grace",
+        "voice": "en-GB-RyanNeural",
+        "text": "The seats need not be permanent. Movable benches could be rearranged when a market or performance takes place."
+      },
+      {
+        "speaker": "Tutor",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Would movable furniture create any difficulties?"
+      },
+      {
+        "speaker": "Grace",
+        "voice": "en-GB-RyanNeural",
+        "text": "Storage and maintenance would cost money, so the council should test a few benches before buying a full set."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-27-q1",
+        "type": "single-choice",
+        "prompt": "How does Grace address the concern about events?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Move every event to another venue"
+          },
+          {
+            "id": "B",
+            "text": "Use movable benches"
+          },
+          {
+            "id": "C",
+            "text": "Keep permanent benches around each stall"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "可移動長椅能在活動時重新安排。"
+      },
+      {
+        "id": "b2-27-q2",
+        "type": "single-choice",
+        "prompt": "What drawback does Grace acknowledge?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Storage and maintenance cost money"
+          },
+          {
+            "id": "B",
+            "text": "Movable benches require permanent foundations"
+          },
+          {
+            "id": "C",
+            "text": "Events would have to stop during the trial"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "她承認儲存及維修需要費用。"
+      },
+      {
+        "id": "b2-27-q3",
+        "type": "inference",
+        "prompt": "What does her proposed trial suggest?",
+        "options": [
+          {
+            "id": "A",
+            "text": "She has abandoned the seating proposal"
+          },
+          {
+            "id": "B",
+            "text": "She believes a full set would cost nothing"
+          },
+          {
+            "id": "C",
+            "text": "She wants to assess practical costs before committing"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "她建議先試用少量長椅，反映她希望了解實際儲存及維修需要，再決定是否全面購置。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-27.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "interactive-comprehension",
+    "unit_zh_hk": "互動階段理解",
+    "lesson_id": "b2-28",
+    "title": "Qualifying an opinion",
+    "difficulty": 4,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Examiner",
+        "voice": "en-GB-SoniaNeural",
+        "text": "You said technology makes people less sociable. Do you think that is always true?"
+      },
+      {
+        "speaker": "Dev",
+        "voice": "en-GB-RyanNeural",
+        "text": "No, I should qualify that. Video calls help my family stay in touch across countries."
+      },
+      {
+        "speaker": "Examiner",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Then what concerns you?"
+      },
+      {
+        "speaker": "Dev",
+        "voice": "en-GB-RyanNeural",
+        "text": "When people check their phones throughout a meal, those present may feel ignored. The effect depends on how technology is used."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-28-q1",
+        "type": "paraphrase",
+        "prompt": "How does Dev revise his original claim?",
+        "options": [
+          {
+            "id": "A",
+            "text": "It is not always true"
+          },
+          {
+            "id": "B",
+            "text": "It applies to video calls in particular"
+          },
+          {
+            "id": "C",
+            "text": "It is true whenever families live apart"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "Dev 收窄原先的說法，承認並非總是如此。"
+      },
+      {
+        "id": "b2-28-q2",
+        "type": "single-choice",
+        "prompt": "What benefit does he mention?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Phones improve conversation at every meal"
+          },
+          {
+            "id": "B",
+            "text": "Technology prevents families from moving apart"
+          },
+          {
+            "id": "C",
+            "text": "Video calls connect distant family"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "視像通話幫助身處不同國家的家人保持聯繫。"
+      },
+      {
+        "id": "b2-28-q3",
+        "type": "speaker-opinion",
+        "prompt": "What determines the effect in Dev’s view?",
+        "options": [
+          {
+            "id": "A",
+            "text": "How far apart people live"
+          },
+          {
+            "id": "B",
+            "text": "How technology is used"
+          },
+          {
+            "id": "C",
+            "text": "Whether contact happens face to face"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "他認為影響取決於使用方式。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-28.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "integrated-listening",
+    "unit_zh_hk": "綜合聆聽",
+    "lesson_id": "b2-29",
+    "title": "A workshop waiting list",
+    "difficulty": 5,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Organiser",
+        "voice": "en-GB-SoniaNeural",
+        "text": "The Saturday repair workshop is full, but we have a waiting list in case anyone cancels."
+      },
+      {
+        "speaker": "Attendee",
+        "voice": "en-GB-RyanNeural",
+        "text": "I can only attend in the morning. Would being on the list commit me to the whole day?"
+      },
+      {
+        "speaker": "Organiser",
+        "voice": "en-GB-SoniaNeural",
+        "text": "No. We will contact you if a place opens, and you can decide then. The morning session covers bicycles."
+      },
+      {
+        "speaker": "Attendee",
+        "voice": "en-GB-RyanNeural",
+        "text": "Please add me. If no place becomes available, I will use the online guide instead."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-29-q1",
+        "type": "single-choice",
+        "prompt": "Why is there a waiting list?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The online guide is unavailable"
+          },
+          {
+            "id": "B",
+            "text": "The morning session is cancelled"
+          },
+          {
+            "id": "C",
+            "text": "The workshop is full"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "工作坊已滿，候補名單用於有人取消時。"
+      },
+      {
+        "id": "b2-29-q2",
+        "type": "paraphrase",
+        "prompt": "What does joining the waiting list involve?",
+        "options": [
+          {
+            "id": "A",
+            "text": "A guaranteed place in the morning session"
+          },
+          {
+            "id": "B",
+            "text": "An opportunity to accept a place later"
+          },
+          {
+            "id": "C",
+            "text": "A commitment to attend the whole day"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "候補名單只提供日後接受空位的機會，並不保證有位，也不要求參加全日。"
+      },
+      {
+        "id": "b2-29-q3",
+        "type": "single-choice",
+        "prompt": "What is the attendee’s alternative?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Use the online guide"
+          },
+          {
+            "id": "B",
+            "text": "Attend on Sunday"
+          },
+          {
+            "id": "C",
+            "text": "Book the afternoon session"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "若沒有空位，參加者會使用網上指南。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-29.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "education",
+    "unit_zh_hk": "教育",
+    "lesson_id": "b2-30",
+    "title": "Feedback after a presentation",
+    "difficulty": 4,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Tutor",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Your presentation was well researched, but the audience struggled to follow the final section."
+      },
+      {
+        "speaker": "Student",
+        "voice": "en-GB-RyanNeural",
+        "text": "I added several statistics at the last minute. Was the slide too crowded?"
+      },
+      {
+        "speaker": "Tutor",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Partly. More importantly, you did not explain how the figures supported your conclusion."
+      },
+      {
+        "speaker": "Student",
+        "voice": "en-GB-RyanNeural",
+        "text": "I will select fewer figures and make that connection explicit when I revise it."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-30-q1",
+        "type": "single-choice",
+        "prompt": "What did the audience struggle with?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The research topic itself"
+          },
+          {
+            "id": "B",
+            "text": "The final section"
+          },
+          {
+            "id": "C",
+            "text": "The introduction only"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "聽眾難以跟上最後部分。"
+      },
+      {
+        "id": "b2-30-q2",
+        "type": "single-choice",
+        "prompt": "What was the main issue with the figures?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Their link to the conclusion was unexplained"
+          },
+          {
+            "id": "B",
+            "text": "They were all incorrect"
+          },
+          {
+            "id": "C",
+            "text": "There were no figures"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "導師最關注數據與結論的關係沒有解釋。"
+      },
+      {
+        "id": "b2-30-q3",
+        "type": "single-choice",
+        "prompt": "How will the student revise?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Add every available statistic"
+          },
+          {
+            "id": "B",
+            "text": "Remove the conclusion"
+          },
+          {
+            "id": "C",
+            "text": "Use fewer figures and explain their relevance"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "學生會精選數據並說明其關聯。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-30.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "customs",
+    "unit_zh_hk": "國家習俗",
+    "lesson_id": "b2-31",
+    "title": "A gift for a host",
+    "difficulty": 5,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Lena",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Your aunt has invited me to dinner and I thought I would bring flowers. Is that appropriate?"
+      },
+      {
+        "speaker": "Harish",
+        "voice": "en-GB-RyanNeural",
+        "text": "Usually, but my aunt is allergic to strong scents. Something edible might be easier."
+      },
+      {
+        "speaker": "Lena",
+        "voice": "en-GB-SoniaNeural",
+        "text": "I could bring biscuits, though I should ask whether anyone has dietary restrictions."
+      },
+      {
+        "speaker": "Harish",
+        "voice": "en-GB-RyanNeural",
+        "text": "That is considerate. Asking beforehand is more useful than guessing what a host expects."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-31-q1",
+        "type": "single-choice",
+        "prompt": "Why might flowers be unsuitable?",
+        "options": [
+          {
+            "id": "A",
+            "text": "The host has a scent allergy"
+          },
+          {
+            "id": "B",
+            "text": "The host has a dietary restriction"
+          },
+          {
+            "id": "C",
+            "text": "The host expects guests to bring biscuits"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "女主人對濃烈香味敏感。"
+      },
+      {
+        "id": "b2-31-q2",
+        "type": "single-choice",
+        "prompt": "What will Lena check about biscuits?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Whether every guest prefers sweet gifts"
+          },
+          {
+            "id": "B",
+            "text": "Whether the host expects expensive brands"
+          },
+          {
+            "id": "C",
+            "text": "Dietary restrictions"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "Lena 會先詢問有沒有飲食限制。"
+      },
+      {
+        "id": "b2-31-q3",
+        "type": "speaker-opinion",
+        "prompt": "What principle does Harish favour?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Assume edible gifts are always suitable"
+          },
+          {
+            "id": "B",
+            "text": "Ask instead of guessing"
+          },
+          {
+            "id": "C",
+            "text": "Bring the same gift to every host"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "Harish 認為預先詢問比猜測更周到。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-31.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "pollution-recycling",
+    "unit_zh_hk": "污染與回收",
+    "lesson_id": "b2-32",
+    "title": "A refill scheme",
+    "difficulty": 4,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Owner",
+        "voice": "en-GB-SoniaNeural",
+        "text": "We are introducing refill containers for cleaning liquid. Customers pay a deposit for the bottle."
+      },
+      {
+        "speaker": "Customer",
+        "voice": "en-GB-RyanNeural",
+        "text": "Does that mean I must return it to this branch?"
+      },
+      {
+        "speaker": "Owner",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Any of our branches will accept it. The deposit is returned even if you decide not to refill."
+      },
+      {
+        "speaker": "Customer",
+        "voice": "en-GB-RyanNeural",
+        "text": "That makes the scheme more flexible. Clear signs would help people understand the deposit is refundable."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-32-q1",
+        "type": "single-choice",
+        "prompt": "Where can the bottle be returned?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Only at this branch"
+          },
+          {
+            "id": "B",
+            "text": "At any supermarket"
+          },
+          {
+            "id": "C",
+            "text": "At any branch"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "任何一間該店分店都接受退瓶。"
+      },
+      {
+        "id": "b2-32-q2",
+        "type": "paraphrase",
+        "prompt": "What does the owner clarify about the deposit?",
+        "options": [
+          {
+            "id": "A",
+            "text": "It can only be used as credit for another refill"
+          },
+          {
+            "id": "B",
+            "text": "A refill purchase is not required for a refund"
+          },
+          {
+            "id": "C",
+            "text": "It can be refunded only at the original branch"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "退瓶時即使不再補充清潔液，按金仍會退還。"
+      },
+      {
+        "id": "b2-32-q3",
+        "type": "single-choice",
+        "prompt": "Why does the customer want clear signs?",
+        "options": [
+          {
+            "id": "A",
+            "text": "To explain that the deposit is refundable"
+          },
+          {
+            "id": "B",
+            "text": "To explain why returns are branch-specific"
+          },
+          {
+            "id": "C",
+            "text": "To encourage customers to buy another bottle"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "清晰標示可讓顧客知道按金可退。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-32.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
+  },
+  {
+    "level": "B2",
+    "unit": "integrated-listening",
+    "unit_zh_hk": "綜合聆聽",
+    "lesson_id": "b2-33",
+    "title": "A survey result",
+    "difficulty": 5,
+    "skill_tags": [
+      "inference",
+      "opinion",
+      "contrast",
+      "follow-up"
+    ],
+    "script": [
+      {
+        "speaker": "Researcher",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Our survey found that sixty per cent of respondents supported the proposed cycle lane."
+      },
+      {
+        "speaker": "Presenter",
+        "voice": "en-GB-RyanNeural",
+        "text": "Can I say sixty per cent of all residents support it?"
+      },
+      {
+        "speaker": "Researcher",
+        "voice": "en-GB-SoniaNeural",
+        "text": "Not safely. The survey was voluntary and may not represent residents who did not respond."
+      },
+      {
+        "speaker": "Presenter",
+        "voice": "en-GB-RyanNeural",
+        "text": "I will report the figure as a share of respondents and mention that limitation. We can gather further evidence before the decision."
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2-33-q1",
+        "type": "single-choice",
+        "prompt": "Who made up the sixty per cent?",
+        "options": [
+          {
+            "id": "A",
+            "text": "All cyclists in the country"
+          },
+          {
+            "id": "B",
+            "text": "Survey respondents"
+          },
+          {
+            "id": "C",
+            "text": "All residents"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "百分之六十的基數是調查回應者。"
+      },
+      {
+        "id": "b2-33-q2",
+        "type": "single-choice",
+        "prompt": "Why should the result not be generalised automatically?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Voluntary respondents may not represent everyone"
+          },
+          {
+            "id": "B",
+            "text": "Sixty per cent is too small a majority to report"
+          },
+          {
+            "id": "C",
+            "text": "Only surveys with unanimous answers are useful"
+          }
+        ],
+        "answer": "A",
+        "explanation_zh_hk": "自願回應者可能不能代表所有居民。"
+      },
+      {
+        "id": "b2-33-q3",
+        "type": "single-choice",
+        "prompt": "How will the presenter describe the figure?",
+        "options": [
+          {
+            "id": "A",
+            "text": "As a proven share of all residents"
+          },
+          {
+            "id": "B",
+            "text": "As a share of all local cyclists"
+          },
+          {
+            "id": "C",
+            "text": "As a share of respondents"
+          }
+        ],
+        "answer": "C",
+        "explanation_zh_hk": "發表者會清楚指出比例來自回應者。"
+      },
+      {
+        "id": "b2-33-q4",
+        "type": "single-choice",
+        "prompt": "What can they do before the decision?",
+        "options": [
+          {
+            "id": "A",
+            "text": "Assume non-respondents oppose the proposal"
+          },
+          {
+            "id": "B",
+            "text": "Gather further evidence"
+          },
+          {
+            "id": "C",
+            "text": "Treat the survey as a binding vote"
+          }
+        ],
+        "answer": "B",
+        "explanation_zh_hk": "他們可在決定前收集更多證據。"
+      }
+    ],
+    "audio": {
+      "status": "ready",
+      "file": "audio/b2-33.m4a",
+      "format": "m4a",
+      "engine": "Kokoro-82M",
+      "engine_version": "v1.0",
+      "voice": "bf_isabella",
+      "accent": "British English",
+      "sample_rate_hz": 24000,
+      "fallback": "SpeechSynthesis en-GB",
+      "model_license": "Apache-2.0",
+      "generated": "2026-11-05"
+    },
+    "rights": {
+      "licence": "CC BY-NC 4.0",
+      "author": "UK English Pass editorial corpus",
+      "original": true
+    },
+    "review_status": "editorially-reviewed",
+    "version": "2026.11-regenerated"
   }
 ]
