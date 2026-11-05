@@ -9,6 +9,15 @@ const pending = lessons.filter(lesson => lesson.audio.status === 'pending')
 const declared = ready.map(lesson => lesson.audio.file)
 const fail = message => { throw new Error(message) }
 
+if (ready.length + pending.length !== lessons.length) fail('Every lesson must have audio status ready or pending')
+for (const lesson of lessons) {
+  if (lesson.audio.voice !== 'bf_isabella' || lesson.audio.engine !== 'Kokoro-82M' || lesson.audio.format !== 'm4a') {
+    fail(`Invalid audio metadata: ${lesson.lesson_id}`)
+  }
+  if (!lesson.audio.file?.startsWith('audio/') || !lesson.audio.file.endsWith('.m4a')) {
+    fail(`Invalid audio file path: ${lesson.lesson_id}`)
+  }
+}
 if (new Set(declared).size !== declared.length) fail('Ready lessons must declare unique audio files')
 for (const relative of declared) {
   const file = path.join(root, 'public', relative)
