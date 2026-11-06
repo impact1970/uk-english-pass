@@ -7,11 +7,11 @@ const lessonsPath = path.join(root, 'src/data/lessons.json')
 const lessons = JSON.parse(fs.readFileSync(lessonsPath, 'utf8'))
 const fail = message => { throw new Error(message) }
 
-// --current validates the published 500-question corpus while the next 300 questions are integrated.
+// --current validates the existing 800-question corpus while the final 1200-question corpus is integrated.
 const currentCorpus = process.argv.includes('--current')
 const expected = currentCorpus
-  ? { lessons: 166, questions: 500, lessonsPerLevel: 83, questionsPerLevel: 250 }
-  : { lessons: 266, questions: 800, lessonsPerLevel: 133, questionsPerLevel: 400 }
+  ? { lessons: 266, questions: 800, lessonsPerLevel: 133, questionsPerLevel: 400 }
+  : { lessons: 400, questions: 1200, lessonsPerLevel: 200, questionsPerLevel: 600 }
 const allowedTypes = new Set([
   'single-choice', 'paraphrase', 'best-response', 'speaker-opinion',
   'inference', 'event-ordering', 'matching', 'true-false-not-given',
@@ -45,12 +45,13 @@ duplicate(lessons.map(lesson => normalize(lesson.title)), 'lesson title')
 duplicate(lessons.map(lesson => normalize((lesson.script ?? []).map(line => line.text).join(' '))), 'lesson script')
 
 const fourQuestionLessons = lessons.filter(lesson => lesson.questions?.length === 4)
-if (fourQuestionLessons.length !== 2) fail(`Expected exactly 2 legacy four-question lessons, got ${fourQuestionLessons.length}`)
+if (currentCorpus && fourQuestionLessons.length !== 2) fail(`Expected exactly 2 legacy four-question lessons, got ${fourQuestionLessons.length}`)
+if (!currentCorpus && fourQuestionLessons.length !== 0) fail(`Expected exactly 0 four-question lessons, got ${fourQuestionLessons.length}`)
 
 for (const lesson of lessons) {
   const label = lesson.lesson_id ?? '(missing lesson_id)'
   if (!label || !lesson.title?.trim() || !Array.isArray(lesson.script) || !lesson.script.length) fail(`Incomplete lesson identity/script: ${label}`)
-  if (![3, 4].includes(lesson.questions?.length)) fail(`Lesson ${label} must have 3 questions (or be one of the 2 legacy 4-question lessons)`)
+  if (lesson.questions?.length !== 3 && !(currentCorpus && lesson.questions?.length === 4)) fail(`Lesson ${label} must have exactly 3 questions${currentCorpus ? ' (except the 2 legacy four-question lessons)' : ''}`)
   const localPrompts = lesson.questions.map(question => normalize(question.prompt))
   duplicate(localPrompts, `question prompt in ${label}`)
 

@@ -7,18 +7,19 @@ const allowedTypes = new Set([
 ])
 const normalize = (value: string) => value.normalize('NFKC').toLocaleLowerCase('en-GB').replace(/[^\p{L}\p{N}]+/gu, ' ').trim()
 const unique = (values: string[]) => new Set(values).size === values.length
+const expected = { lessons: 400, questions: 1200, lessonsPerLevel: 200, questionsPerLevel: 600 }
 
 describe('lesson corpus', () => {
-  it('contains exactly 266 scripts and 800 questions', () => {
-    expect(data).toHaveLength(266)
-    expect(data.flatMap(lesson => lesson.questions)).toHaveLength(800)
+  it(`contains exactly ${expected.lessons} scripts and ${expected.questions} questions`, () => {
+    expect(data).toHaveLength(expected.lessons)
+    expect(data.flatMap(lesson => lesson.questions)).toHaveLength(expected.questions)
   })
 
   it('has an even B1/B2 split across nine units each', () => {
     for (const level of ['B1', 'B2']) {
       const group = data.filter(lesson => lesson.level === level)
-      expect(group).toHaveLength(133)
-      expect(group.flatMap(lesson => lesson.questions)).toHaveLength(400)
+      expect(group).toHaveLength(expected.lessonsPerLevel)
+      expect(group.flatMap(lesson => lesson.questions)).toHaveLength(expected.questionsPerLevel)
       expect(new Set(group.map(lesson => lesson.unit)).size).toBe(9)
     }
   })
@@ -32,9 +33,9 @@ describe('lesson corpus', () => {
     for (const lesson of data) expect(unique(lesson.questions.map(question => normalize(question.prompt)))).toBe(true)
   })
 
-  it('uses three questions per new lesson and preserves two four-question legacy lessons', () => {
-    expect(data.filter(lesson => lesson.questions.length === 4)).toHaveLength(2)
-    for (const lesson of data) expect([3, 4]).toContain(lesson.questions.length)
+  it('uses exactly three questions per lesson', () => {
+    expect(data.filter(lesson => lesson.questions.length === 4)).toHaveLength(0)
+    for (const lesson of data) expect(lesson.questions).toHaveLength(3)
   })
 
   it('has valid answer references, unique options, explanations, and question types', () => {

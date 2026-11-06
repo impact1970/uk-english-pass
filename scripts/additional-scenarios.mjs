@@ -79,7 +79,7 @@ lesson('B1',8,'A change at the library',['Librarian','Visitor'],[
   'Will the meeting be cancelled?',
   'No, it will be in the ground-floor room at two, as planned. Please use the garden entrance.',
   'Thank you. I will tell my friend, who is bringing the books.'
-],[q('Why has the room changed?','The lift is being repaired','The books have not arrived','The garden is closed','升降機維修，因此更換房間。'),q('What remains unchanged?','The meeting time','The entrance','The room','聚會仍在原定兩時舉行。'),q('Which entrance should visitors use?','The garden entrance','The upstairs entrance','The car park entrance','館員指示使用花園入口。'),q('Who is bringing the books?','The visitor’s friend','The librarian','The repair worker','訪客的朋友會帶書。')]),
+],[q('Why has the room changed?','The lift is being repaired','The books have not arrived','The garden is closed','升降機維修，因此更換房間。'),q('What remains unchanged?','The meeting time','The entrance','The room','聚會仍在原定兩時舉行。'),q('Which entrance should visitors use?','The garden entrance','The upstairs entrance','The car park entrance','館員指示使用花園入口。')]),
 lesson('B2',0,'A practical assessment',['Lecturer','Student'],[
   'The department is considering replacing the final written exam with a group project.',
   'That could test collaboration, but individual contributions might be hard to distinguish.',
@@ -157,5 +157,5 @@ lesson('B2',8,'A survey result',['Researcher','Presenter'],[
   'Can I say sixty per cent of all residents support it?',
   'Not safely. The survey was voluntary and may not represent residents who did not respond.',
   'I will report the figure as a share of respondents and mention that limitation. We can gather further evidence before the decision.'
-],[q('Who made up the sixty per cent?','Survey respondents','All residents','All cyclists in the country','百分之六十的基數是調查回應者。'),q('Why should the result not be generalised automatically?','Voluntary respondents may not represent everyone','Sixty per cent is too small a majority to report','Only surveys with unanimous answers are useful','自願回應者可能不能代表所有居民。'),q('How will the presenter describe the figure?','As a share of respondents','As a proven share of all residents','As a share of all local cyclists','發表者會清楚指出比例來自回應者。'),q('What can they do before the decision?','Gather further evidence','Treat the survey as a binding vote','Assume non-respondents oppose the proposal','他們可在決定前收集更多證據。')])
+],[q('Who made up the sixty per cent?','Survey respondents','All residents','All cyclists in the country','百分之六十的基數是調查回應者。'),q('Why should the result not be generalised automatically?','Voluntary respondents may not represent everyone','Sixty per cent is too small a majority to report','Only surveys with unanimous answers are useful','自願回應者可能不能代表所有居民。'),q('How will the presenter describe the figure?','As a share of respondents','As a proven share of all residents','As a share of all local cyclists','發表者會清楚指出比例來自回應者。')])
 ]

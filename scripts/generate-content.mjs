@@ -6,6 +6,9 @@ import { additionalB1Scenarios } from './additional-scenarios-b1-300.mjs'
 import { additionalB2Scenarios } from './additional-scenarios-b2-300.mjs'
 import { additionalB1Scenarios600 } from './additional-scenarios-b1-600.mjs'
 import { additionalB2Scenarios600 } from './additional-scenarios-b2-600.mjs'
+import { additionalB1Scenarios1200 } from './additional-scenarios-b1-1200.mjs'
+import { additionalB2Scenarios1200Part1 } from './additional-scenarios-b2-1200.mjs'
+import { additionalB2Scenarios1200Part2 } from './additional-scenarios-b2-1200-part2.mjs'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const units = {
@@ -271,7 +274,16 @@ const scenarios = [
   ],qs:[q('Why must volunteers check green-label dates?',['A previous test may no longer be current','Green labels indicate failure','Labels show repair prices'],0,'綠標只代表上月曾通過，仍需核對日期。'),q('What happens to a failed appliance first?',['It goes on the red shelf and is recorded','It is repaired immediately','It is returned without a note'],0,'失敗物品先移至紅架並記錄故障。'),q('Which work can the volunteer do before Kamal arrives?',['Examine torn clothing','Repair electrical appliances','Approve safety tests'],0,'衣物站不需要合資格電器技師。')]},
 ]
 
-scenarios.push(...additionalScenarios, ...additionalB1Scenarios, ...additionalB2Scenarios, ...additionalB1Scenarios600, ...additionalB2Scenarios600)
+scenarios.push(
+  ...additionalScenarios,
+  ...additionalB1Scenarios,
+  ...additionalB2Scenarios,
+  ...additionalB1Scenarios600,
+  ...additionalB2Scenarios600,
+  ...additionalB1Scenarios1200.map(scenario => ({ ...scenario, pending: false })),
+  ...additionalB2Scenarios1200Part1.map(scenario => ({ ...scenario, pending: false })),
+  ...additionalB2Scenarios1200Part2.map(scenario => ({ ...scenario, pending: false })),
+)
 const counts = { B1: 0, B2: 0 }
 const lessons = scenarios.map((r, idx) => {
   counts[r.l]++
