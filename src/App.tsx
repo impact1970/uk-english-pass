@@ -21,12 +21,18 @@ function App() {
   const [dark, setDark] = useState(() => localStorage.getItem('ukep-theme') === 'dark')
   const [rate, setRate] = useState(0.9)
   const [speaking, setSpeaking] = useState(false)
-  const [audioMode, setAudioMode] = useState<'Kokoro M4A' | 'SpeechSynthesis'>('Kokoro M4A')
+  const [audioMode, setAudioMode] = useState<'預錄音訊' | '裝置語音'>('預錄音訊')
+  const [legalPage, setLegalPage] = useState(() => window.location.hash === '#legal')
   const speakingRef = useRef(false)
   const audioRef = useRef<HTMLAudioElement | null>(null)
 
   useEffect(() => { localStorage.setItem('ukep-progress', JSON.stringify(progress)) }, [progress])
   useEffect(() => { document.documentElement.dataset.theme = dark ? 'dark' : 'light'; localStorage.setItem('ukep-theme', dark ? 'dark' : 'light') }, [dark])
+  useEffect(() => {
+    const onHashChange = () => setLegalPage(window.location.hash === '#legal')
+    window.addEventListener('hashchange', onHashChange)
+    return () => window.removeEventListener('hashchange', onHashChange)
+  }, [])
 
   const units = useMemo(() => [...new Map(lessons.filter(l => level === 'ALL' || l.level === level).map(l => [l.unit, l.unit_zh_hk])).entries()], [level])
   const incorrectLessonIds = useMemo(() => new Set(lessons.filter(l => l.questions.some(q => progress.answers[q.id] && progress.answers[q.id] !== q.answer)).map(l => l.lesson_id)), [progress])
@@ -44,7 +50,7 @@ function App() {
   function speechFallback() {
     if (!('speechSynthesis' in window)) return
     window.speechSynthesis.cancel(); speakingRef.current = true; setSpeaking(true)
-    setAudioMode('SpeechSynthesis')
+    setAudioMode('裝置語音')
     const voices = window.speechSynthesis.getVoices()
     const british = voices.filter(v => v.lang.toLowerCase() === 'en-gb')
     let i = 0
@@ -68,7 +74,7 @@ function App() {
     audio.preload = 'auto'; audio.playbackRate = rate
     audio.onended = () => { speakingRef.current = false; setSpeaking(false); audioRef.current = null }
     audio.onerror = () => { audioRef.current = null; speechFallback() }
-    audioRef.current = audio; speakingRef.current = true; setSpeaking(true); setAudioMode('Kokoro M4A')
+    audioRef.current = audio; speakingRef.current = true; setSpeaking(true); setAudioMode('預錄音訊')
     audio.play().catch(() => { audioRef.current = null; speechFallback() })
   }
 
@@ -97,17 +103,18 @@ function App() {
 
   return <div className="app-shell">
     <header className="topbar">
-      <a href="#main" className="skip">跳到練習內容</a>
-      <div className="brand"><span className="brand-mark">UK</span><div><strong>English Pass</strong><small>英式英語 · 香港學習者</small></div></div>
+      <a href={legalPage ? '#legal' : '#main'} className="skip">{legalPage ? '跳到版權內容' : '跳到練習內容'}</a>
+      <a className="brand" href="#main"><span className="brand-mark">UK</span><span><strong>English Pass</strong><small>英式英語 · 香港學習者</small></span></a>
       <div className="header-actions"><button className="icon-button" onClick={() => setDark(!dark)} aria-label="切換深色模式">{dark ? '☀️' : '🌙'}</button></div>
     </header>
 
+    {legalPage ? <LegalPage /> : <>
     <section className="hero">
       <div><p className="eyebrow">B1 — B2 LISTENING LAB</p><h1>聽懂英式英語，<br/><em>逐課建立信心。</em></h1><p>{totalLessons} 篇原創生活對話、{totalQuestions} 條精準練習，專為香港學習者重新製作。</p></div>
       <div className="score-card" aria-label="學習進度"><div className="ring" style={{'--p': `${Math.round(answeredCount/totalQuestions*100)}%`} as React.CSSProperties}><strong>{answeredCount}</strong><span>/ {totalQuestions}</span></div><div><small>已回答</small><b>{correctCount} 題答對</b><span>{progress.completed.length} / {totalLessons} 課完成</span></div></div>
     </section>
 
-    <div className="notice"><b>練習定位</b><span>本站訓練 CEFR 聆聽能力，參考 Trinity GESE Grade 5 / 7 常見主題，但並非官方試題；選擇題形式並不代表真實考試形式。</span></div>
+    <div className="notice"><b>練習定位</b><span>本站為獨立製作的 CEFR B1/B2 英語聆聽練習，並非任何考試機構的官方或認可教材；選擇題形式並不代表真實考試形式。</span></div>
 
     <main id="main" className="workspace">
       <aside className="library" aria-label="課堂選擇">
@@ -124,7 +131,7 @@ function App() {
 
         <section className="player" aria-label="聆聽播放器">
           <button className="play" onClick={speak} aria-label="播放或重播">{speaking?'↻':'▶'}</button>
-          <div className="player-copy"><b>{speaking?`正在播放 ${audioMode}…`:'播放聆聽稿'}</b><small>Kokoro-82M · bf_isabella 女聲；失敗時使用裝置 en-GB 語音</small></div>
+          <div className="player-copy"><b>{speaking?`正在播放${audioMode}…`:'播放聆聽稿'}</b><small>英式女聲；播放失敗時使用裝置語音</small></div>
           <button onClick={pauseResume} disabled={!speaking}>暫停／繼續</button><button onClick={stop} disabled={!speaking}>停止</button>
           <label>速度 <select value={rate} onChange={e=>setRate(Number(e.target.value))}><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1">1×</option><option value="1.15">1.15×</option></select></label>
         </section>
@@ -135,7 +142,42 @@ function App() {
         <footer className="lesson-footer"><div><b>內容版本</b><span>2026.11 重新製作原創題庫 · CC BY-NC 4.0</span></div><div className="export"><button onClick={()=>download('csv')}>匯出 CSV</button><button onClick={()=>download('md')}>教師 Markdown</button></div></footer>
       </article>
     </main>
+    <SiteFooter />
+    </>}
   </div>
+}
+
+function SiteFooter() {
+  return <footer className="site-footer"><span>© 2026 UK English Pass</span><a href="#legal">版權、商標及語音說明</a></footer>
+}
+
+function LegalPage() {
+  return <main id="legal" className="legal-page">
+    <a className="back-link" href="#main">← 返回聆聽練習</a>
+    <p className="eyebrow">LEGAL &amp; ATTRIBUTION</p>
+    <h1>版權、商標及語音說明</h1>
+    <p className="legal-lead">本頁集中說明 UK English Pass 的內容權利、商標關係及合成語音來源。</p>
+
+    <section>
+      <h2>獨立教材及商標聲明</h2>
+      <p>UK English Pass 是獨立製作的 CEFR B1/B2 英語聆聽練習，並非官方試題，也沒有獲任何考試機構授權、認可、贊助或代言。</p>
+      <p>部分主題規劃曾參考 Trinity College London 的 Graded Examinations in Spoken English（GESE）Grade 5／7 公開主題範圍，但所有聆聽稿、題目及中文解釋均為本網站重新創作。Trinity College London、Trinity 及 GESE 名稱和相關商標均屬其各自權利人所有。</p>
+    </section>
+
+    <section>
+      <h2>合成語音來源</h2>
+      <p>預錄音訊由 <a href="https://huggingface.co/hexgrad/Kokoro-82M" target="_blank" rel="noreferrer">Kokoro-82M v1.0</a> 搭配 <code>bf_isabella</code> 英式合成女聲預設，在本機產生。Kokoro-82M 模型權重採用 <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank" rel="noreferrer">Apache License 2.0</a>；音訊生成工具 <a href="https://github.com/thewh1teagle/kokoro-onnx" target="_blank" rel="noreferrer">kokoro-onnx</a> 採用 MIT License。</p>
+      <p><code>bf_isabella</code> 是合成語音預設識別碼，不代表真人配音員、代言人或合作關係。本站沒有使用真人聲音複製，也沒有使用付費雲端語音 API。</p>
+      <p>若預錄音訊無法播放，網站會改用瀏覽器或裝置提供的英式英語 SpeechSynthesis 語音；實際聲線由使用者的系統及瀏覽器決定。</p>
+    </section>
+
+    <section>
+      <h2>原創內容授權</h2>
+      <p>本站的原創聆聽稿、題目及香港繁體中文解釋以 <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noreferrer">Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）</a> 條款提供。轉載或改作時須註明來源，並只可作非商業用途。</p>
+    </section>
+
+    <p className="legal-updated">最後更新：2026 年 11 月</p>
+  </main>
 }
 
 function QuestionCard({q,index,value,onAnswer}:{q:Question,index:number,value?:string,onAnswer:(id:string)=>void}) {
