@@ -9,16 +9,16 @@ const normalize = (value: string) => value.normalize('NFKC').toLocaleLowerCase('
 const unique = (values: string[]) => new Set(values).size === values.length
 
 describe('lesson corpus', () => {
-  it('contains exactly 166 scripts and 500 questions', () => {
-    expect(data).toHaveLength(166)
-    expect(data.flatMap(lesson => lesson.questions)).toHaveLength(500)
+  it('contains exactly 266 scripts and 800 questions', () => {
+    expect(data).toHaveLength(266)
+    expect(data.flatMap(lesson => lesson.questions)).toHaveLength(800)
   })
 
   it('has an even B1/B2 split across nine units each', () => {
     for (const level of ['B1', 'B2']) {
       const group = data.filter(lesson => lesson.level === level)
-      expect(group).toHaveLength(83)
-      expect(group.flatMap(lesson => lesson.questions)).toHaveLength(250)
+      expect(group).toHaveLength(133)
+      expect(group.flatMap(lesson => lesson.questions)).toHaveLength(400)
       expect(new Set(group.map(lesson => lesson.unit)).size).toBe(9)
     }
   })

@@ -7,11 +7,11 @@ const lessonsPath = path.join(root, 'src/data/lessons.json')
 const lessons = JSON.parse(fs.readFileSync(lessonsPath, 'utf8'))
 const fail = message => { throw new Error(message) }
 
-// --current validates the 66-lesson seed corpus while the 100 new lessons are integrated.
+// --current validates the published 500-question corpus while the next 300 questions are integrated.
 const currentCorpus = process.argv.includes('--current')
 const expected = currentCorpus
-  ? { lessons: 66, questions: 200, lessonsPerLevel: 33, questionsPerLevel: 100 }
-  : { lessons: 166, questions: 500, lessonsPerLevel: 83, questionsPerLevel: 250 }
+  ? { lessons: 166, questions: 500, lessonsPerLevel: 83, questionsPerLevel: 250 }
+  : { lessons: 266, questions: 800, lessonsPerLevel: 133, questionsPerLevel: 400 }
 const allowedTypes = new Set([
   'single-choice', 'paraphrase', 'best-response', 'speaker-opinion',
   'inference', 'event-ordering', 'matching', 'true-false-not-given',

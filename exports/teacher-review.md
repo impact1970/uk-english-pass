@@ -3592,3 +3592,2206 @@
 3. What does the applicant understand about an unsuitable offer?
    - A. Every applicant is entitled to postpone an offer indefinitely / B. Remaining on the list must be discussed rather than assumed / C. Ignoring it guarantees the same place on the list
    - **答案：B** — 負責人只表示可聯絡商討；申請人明白這不代表自動保留原有輪候位置。
+
+---
+
+## b1-84 · Posters for the spring fair
+
+**B1 / 節日**
+
+- **Nadia:** The spring fair needs posters for the shop windows. Are you free to help on Tuesday?
+- **Peter:** I work until four, but I can come afterwards. Shall I bring paper?
+- **Nadia:** The organisers have paper already. Please bring coloured pens instead.
+- **Peter:** Fine. I will meet you in the village hall at half past four.
+
+1. What will they make?
+   - A. Signs for a bus stop / B. Tickets for a concert / C. Posters for shop windows
+   - **答案：C** — 他們會製作放在商店櫥窗的海報。
+2. Which instruction means the same as “Please bring coloured pens instead”?
+   - A. Leave both the paper and pens at home / B. Bring coloured pens rather than paper / C. Bring paper as well as coloured pens
+   - **答案：B** — 這句表示帶彩色筆代替紙張；紙張已有供應。
+3. When will Peter arrive?
+   - A. At half past four / B. At four / C. At half past three
+   - **答案：A** — Peter 說會在四時半到村公所。
+
+---
+
+## b1-85 · The riverside dragon display
+
+**B1 / 節日**
+
+- **Clare:** The dragon display is part of the summer festival this year. It is beside the river, opposite the café.
+- **Yusuf:** Is there a charge to see it?
+- **Clare:** No, but the organisers are collecting donations for the local shelter.
+- **Yusuf:** I will take some coins then. I would like to support them.
+
+1. Where is the dragon display?
+   - A. Outside the shelter / B. Opposite the café / C. Inside the café
+   - **答案：B** — 展覽在河邊、咖啡店對面。
+2. How much does it cost to see the display?
+   - A. It is free / B. Five pounds / C. A donation is compulsory
+   - **答案：A** — Clare 說免費參觀，捐款並非強制。
+3. Why will Yusuf take coins?
+   - A. To pay for parking / B. To buy a dragon model / C. To support the shelter
+   - **答案：C** — Yusuf 想捐款支持本地收容所。
+
+---
+
+## b1-86 · A harvest song rehearsal
+
+**B1 / 節日**
+
+- **Beth:** Our harvest celebration starts with a song by the children. Can your daughter attend the rehearsal?
+- **Ravi:** Yes, if it is after school. What day is it?
+- **Beth:** Wednesday at ten past four in the church room. The performance is on Friday.
+- **Ravi:** That suits us. I will collect her from school and come straight there.
+
+1. Who will sing at the celebration?
+   - A. The children / B. The shopkeepers / C. The teachers alone
+   - **答案：A** — 收穫慶典會由小朋友唱歌揭幕。
+2. When is the rehearsal?
+   - A. Friday at four / B. Wednesday at ten to four / C. Wednesday at ten past four
+   - **答案：C** — 排練在星期三四時十分。
+3. Which order matches the events described?
+   - A. She rehearses, the children perform, Ravi collects her from school on Wednesday / B. Ravi collects his daughter, she rehearses on Wednesday, the children perform on Friday / C. The children perform, Ravi collects his daughter, she rehearses on Wednesday
+   - **答案：B** — Ravi 先接女兒放學，星期三去排練，正式表演則在星期五。
+
+---
+
+## b1-87 · Festival programme translation
+
+**B1 / 節日**
+
+- **Mina:** The neighbourhood festival programme is ready, but some visitors cannot read English easily.
+- **Oliver:** Could I translate the opening times into Polish? My grandmother could check them.
+- **Mina:** That would be lovely. We need the translation by Thursday so we can print it on Friday.
+- **Oliver:** I will send it to you on Wednesday evening.
+
+1. What will Oliver translate?
+   - A. The food recipes / B. The performers’ songs / C. The opening times
+   - **答案：C** — Oliver 會把開放時間譯成波蘭文。
+2. Who can check the translation?
+   - A. The printer / B. Oliver’s grandmother / C. Mina’s teacher
+   - **答案：B** — Oliver 的祖母可以幫忙檢查。
+3. Which sequence matches the programme arrangements?
+   - A. Send the translation on Wednesday, have it ready by Thursday, print on Friday / B. Print on Wednesday, send the translation on Thursday, check it on Friday / C. Send the translation on Friday, print on Saturday, check it on Sunday
+   - **答案：A** — Oliver 星期三晚寄出譯文，主辦方星期四前需要收到，星期五印製。
+
+---
+
+## b1-88 · Flower festival tickets
+
+**B1 / 節日**
+
+- **Leah:** The flower festival has guided tours at eleven and two. Which one shall we book?
+- **Gavin:** The morning one, please. I have a dentist appointment at three.
+- **Leah:** All right. We can buy the tickets online, or at the garden gate if any remain.
+- **Gavin:** Let us book online today so we know we have places.
+
+1. Which tour do they choose?
+   - A. The three o’clock tour / B. The eleven o’clock tour / C. The two o’clock tour
+   - **答案：B** — Gavin 選上午十一時的導賞團。
+2. Why does Gavin prefer the morning?
+   - A. He has a dentist appointment later / B. He works in the garden at noon / C. He wants to avoid buying tickets
+   - **答案：A** — 他下午三時有牙醫預約。
+3. Why do they choose online booking rather than the garden gate?
+   - A. The garden gate has already sold every ticket / B. They want to change the dentist appointment / C. They want confirmed places before the day
+   - **答案：C** — 現場只在仍有餘票時售票；網上先訂可確認有位，但對話沒有說現場已售罄。
+
+---
+
+## b1-89 · The children’s festival map
+
+**B1 / 節日**
+
+- **Imogen:** The children’s festival is spread across three parks. How will families know where to go?
+- **Harry:** Volunteers will give out maps at the station. Each park has a different colour on the map.
+- **Imogen:** That is helpful. Is the storytelling area in the green park?
+- **Harry:** Yes, and the puppet show is in the blue one.
+
+1. Where can families get a map?
+   - A. At the station / B. At the puppet theatre / C. At the school office
+   - **答案：A** — 義工會在車站派發地圖。
+2. How are the parks shown on the map?
+   - A. With photographs of children / B. By their ticket prices / C. In different colours
+   - **答案：C** — 三個公園在地圖上有不同顏色。
+3. Which activity and park are correctly matched?
+   - A. Storytelling: yellow; puppet show: blue / B. Storytelling: green; puppet show: blue / C. Storytelling: blue; puppet show: green
+   - **答案：B** — 講故事在綠色公園，木偶表演在藍色公園。
+
+---
+
+## b1-90 · The luggage rack
+
+**B1 / 交通方式**
+
+- **Amina:** This suitcase is too big to fit above our seats. Where can I put it?
+- **Rob:** There is a luggage rack at the end of the carriage, next to the door.
+- **Amina:** Thanks. I will take my purse out first, so I can keep it with me.
+- **Rob:** Good idea. Keep the aisle clear when you bring the case back.
+
+1. What does “too big to fit above our seats” mean?
+   - A. There is no room for Amina to sit down / B. The carriage is too large for the suitcase / C. The suitcase cannot go in the space over the seats
+   - **答案：C** — 行李箱太大，放不進座位上方的空間，並非說 Amina 沒有座位。
+2. Where is the luggage rack?
+   - A. Behind the ticket office / B. At the end of the carriage / C. In the next station building
+   - **答案：B** — 行李架在車廂盡頭、車門旁邊。
+3. What will Amina keep with her?
+   - A. Her purse / B. Her suitcase / C. Her coat from the rack
+   - **答案：A** — 她會先取出錢包，隨身保管。
+
+---
+
+## b1-91 · A stop on request
+
+**B1 / 交通方式**
+
+- **Farah:** Does this village bus stop at the old windmill? I cannot see it on the main timetable.
+- **Simon:** Yes, but only when a passenger asks. Tell the driver when you get on.
+- **Farah:** Thank you. Can I catch a bus back from the same side of the road?
+- **Simon:** No, use the stop opposite. The last return bus is at five forty.
+
+1. What must Farah do to reach the windmill?
+   - A. Wait for the driver to announce it / B. Ask the driver when boarding / C. Book a separate taxi
+   - **答案：B** — 巴士只會按乘客要求停在風車站，Farah 上車時要告訴司機。
+2. Where should she wait for the return bus?
+   - A. At the stop on the opposite side / B. At the same stop where she gets off / C. Inside the windmill entrance
+   - **答案：A** — 回程要到馬路對面的巴士站等車。
+3. When is the last return bus?
+   - A. At five fourteen / B. At four fifty / C. At five forty
+   - **答案：C** — 尾班回程巴士是五時四十分。
+
+---
+
+## b1-92 · A quiet seat on the train
+
+**B1 / 交通方式**
+
+- **Jo:** Would you mind if I made a phone call here?
+- **Elliot:** This is the quiet carriage. Could you use the space by the doors instead?
+- **Jo:** Of course. I did not see the sign when I got on.
+- **Elliot:** Thank you. The signal is usually better near the doors too.
+
+1. What does Jo want to do?
+   - A. Make a phone call / B. Change her seat reservation / C. Charge her laptop
+   - **答案：A** — Jo 想打電話。
+2. Why does Elliot suggest moving?
+   - A. Jo is blocking the aisle / B. The train is about to stop / C. They are in a quiet carriage
+   - **答案：C** — 這是寧靜車廂，所以 Elliot 建議她移步。
+3. Jo agrees to move after learning this is a quiet carriage. Which reply best continues the exchange?
+   - A. I will ask everyone else to leave the carriage / B. I will make the call in the space by the doors / C. I will make the call here because I cannot see the sign
+   - **答案：B** — Jo 已答應移到車門旁的空間打電話，這樣便不會在寧靜車廂通話。
+
+---
+
+## b1-93 · A return journey by coach
+
+**B1 / 交通方式**
+
+- **Saira:** The coach to Bristol takes two hours. Are you coming back on Sunday?
+- **Daniel:** Yes, but I am not sure what time yet. Can I change a return ticket?
+- **Saira:** The flexible ticket allows changes before departure. The cheaper ticket does not.
+- **Daniel:** I will buy the flexible one because my meeting might finish late.
+
+1. How long is the outward coach journey?
+   - A. One hour / B. Three hours / C. Two hours
+   - **答案：C** — 前往布里斯托的車程為兩小時。
+2. Which statement about the flexible ticket is correct?
+   - A. Daniel can only change the destination after departure / B. Daniel can change it before departure / C. Daniel must keep his original return time
+   - **答案：B** — 彈性車票容許在開車前更改；較便宜的車票則不能改。
+3. Why does Daniel choose that ticket?
+   - A. His meeting may finish late / B. He wants to travel on Saturday / C. He knows the exact return time
+   - **答案：A** — 會議可能遲完，他未能確定回程時間。
+
+---
+
+## b1-94 · Reporting a missing helmet
+
+**B1 / 交通方式**
+
+- **Holly:** I left my cycle helmet on the number twelve bus yesterday.
+- **Tariq:** The lost property office is next to the bus station. It opens at nine.
+- **Holly:** Will they need the bus number?
+- **Tariq:** Yes, and tell them what the helmet looks like. Mine is blue, but yours is orange, is that right?
+
+1. What did Holly leave on the bus?
+   - A. A bus pass / B. A cycle helmet / C. A pair of gloves
+   - **答案：B** — Holly 把單車頭盔留在巴士上。
+2. Where is the lost property office?
+   - A. Next to the bus station / B. Inside the cycle shop / C. Opposite the train platform
+   - **答案：A** — 失物認領處在巴士站旁邊。
+3. What colour does Tariq think Holly’s helmet is?
+   - A. Blue / B. Green / C. Orange
+   - **答案：C** — Tariq 說自己的頭盔是藍色，並問 Holly 的是否橙色；對話未有 Holly 確認。
+
+---
+
+## b1-95 · A shared taxi fare
+
+**B1 / 交通方式**
+
+- **Luca:** The last bus has gone. Shall we share a taxi to the village?
+- **Eve:** Yes. The driver says it will cost eighteen pounds in total.
+- **Luca:** If we divide it equally, that is nine pounds each.
+- **Eve:** That is fine. I have cash, but could you pay by card and I will give you my share?
+
+1. Why do they need a taxi?
+   - A. The last bus has gone / B. The train is full / C. Their bicycles are being repaired
+   - **答案：A** — 尾班巴士已開走，所以他們打算乘的士。
+2. What is each person’s share of the taxi fare?
+   - A. Eighteen pounds / B. Six pounds / C. Nine pounds
+   - **答案：C** — 對話已說明總車資十八鎊，平分每人九鎊。
+3. What does Eve ask Luca to do?
+   - A. Pay the entire fare himself / B. Pay the driver by card / C. Ask the driver for a bus ticket
+   - **答案：B** — Eve 請 Luca 用卡付款，再把自己的部分交給他。
+
+---
+
+## b1-96 · A thank-you breakfast
+
+**B1 / 特別場合**
+
+- **Sophie:** We want to thank the volunteers after the river clean-up. What about breakfast on Saturday?
+- **Miles:** Good idea. The café can reserve a table for ten if we call by Thursday.
+- **Sophie:** I will call today. Could you ask everyone about food allergies?
+- **Miles:** Yes. I will send a message this evening.
+
+1. Why are they arranging breakfast?
+   - A. To welcome new café staff / B. To celebrate a birthday / C. To thank the volunteers
+   - **答案：C** — 他們想以早餐感謝義工。
+2. What must they do by Thursday?
+   - A. Send a card to the café / B. Call the café to reserve a table / C. Collect money from the volunteers
+   - **答案：B** — 他們要在星期四前致電咖啡店預留桌位。
+3. Miles agrees to ask about food allergies. Which message would carry out that task?
+   - A. Please let me know if there is any food you cannot eat because of an allergy / B. Please tell me whether you prefer Saturday or Sunday / C. Please confirm whether the café has reserved a table
+   - **答案：A** — Miles 要查詢食物過敏，所以應問大家有沒有因過敏而不能吃的食物。
+
+---
+
+## b1-97 · A wedding photograph book
+
+**B1 / 特別場合**
+
+- **Nora:** Our parents’ wedding anniversary is next month. Shall we make them a photo book?
+- **Isaac:** Yes. I have pictures from their first holiday together, but you have the pictures from their wedding.
+- **Nora:** I will scan those tonight. We should order the book by Monday so it arrives in time.
+- **Isaac:** I will choose a plain blue cover; that is Mum’s favourite colour.
+
+1. What present are they making?
+   - A. A holiday suitcase / B. A photo book / C. A framed painting
+   - **答案：B** — 他們會製作相簿作為父母的結婚周年禮物。
+2. What will Nora scan?
+   - A. Their parents’ wedding photos / B. Their first holiday tickets / C. A blue cover
+   - **答案：A** — Nora 保管父母的婚禮照片，並會在今晚掃描。
+3. Why should they order by Monday?
+   - A. So they can scan the photos next month / B. Because the anniversary is on Monday / C. So the book arrives in time
+   - **答案：C** — 他們希望相簿在周年紀念日前送到。
+
+---
+
+## b1-98 · A neighbour’s new home
+
+**B1 / 特別場合**
+
+- **Asha:** Our new neighbours moved in yesterday. Shall we take them something?
+- **Tom:** Perhaps a plant, but we do not know if they have a garden.
+- **Asha:** A small indoor plant would work. I can buy one after lunch.
+- **Tom:** I will write a welcome note and put our phone number on it.
+
+1. Why is a small indoor plant suitable in their situation?
+   - A. It does not depend on the neighbours having a garden / B. It can only be kept outdoors / C. It includes a welcome note automatically
+   - **答案：A** — 他們不確定鄰居有沒有花園；室內植物不用有花園也可以擺放。
+2. Why do they avoid choosing a garden plant?
+   - A. The garden centre is shut / B. The neighbours dislike flowers / C. They do not know whether the neighbours have a garden
+   - **答案：C** — 他們不知道新鄰居有沒有花園。
+3. What will Tom include in the note?
+   - A. The garden centre’s opening hours / B. Their phone number / C. The plant’s price
+   - **答案：B** — Tom 會在歡迎卡上寫他們的電話號碼。
+
+---
+
+## b1-99 · Preparing a naming ceremony
+
+**B1 / 特別場合**
+
+- **Lily:** We have booked the community room for our baby’s naming ceremony. Could you help set it up?
+- **Ahmed:** Certainly. Do you need chairs or decorations?
+- **Lily:** The centre will arrange the chairs. We need help hanging the paper stars at ten.
+- **Ahmed:** I can arrive then. I will bring some string.
+
+1. What event is being prepared?
+   - A. A school prize day / B. A wedding reception / C. A baby’s naming ceremony
+   - **答案：C** — 他們正在準備嬰兒命名儀式。
+2. Which jobs are assigned correctly?
+   - A. The centre: print invitations; Ahmed: supply chairs / B. The centre: arrange chairs; Ahmed: bring string / C. The centre: bring string; Ahmed: arrange chairs
+   - **答案：B** — 中心安排椅子，Ahmed 則帶繩子幫忙掛紙星星。
+3. What will Ahmed bring?
+   - A. String / B. Chairs / C. Paper invitations
+   - **答案：A** — Ahmed 會帶繩子來幫忙掛紙星星。
+
+---
+
+## b1-100 · An invitation with a mistake
+
+**B1 / 特別場合**
+
+- **Harriet:** I received your invitation to the family meal, but it says Tuesday the eighteenth.
+- **Kofi:** Oh dear. It should say Saturday the eighteenth. I must have selected the wrong day.
+- **Harriet:** Thanks for checking. Is the time still six thirty?
+- **Kofi:** Yes, and I will send everyone a corrected invitation this afternoon.
+
+1. What was wrong with the invitation?
+   - A. The venue address / B. The day of the week / C. The time of the meal
+   - **答案：B** — 邀請函上的星期寫錯了。
+2. When will the meal take place?
+   - A. Saturday the eighteenth at six thirty / B. Tuesday the eighteenth at six thirty / C. Saturday the nineteenth at six
+   - **答案：A** — 聚餐定於十八日星期六六時半。
+3. Harriet asks whether the meal is still at six thirty. Which reply matches Kofi’s plan?
+   - A. No, the meal will begin an hour earlier / B. Yes, so everyone should follow the original invitation without any changes / C. Yes, and I will send a corrected invitation this afternoon
+   - **答案：C** — 時間仍是六時半；Kofi 會在下午發出更正邀請，改正星期。
+
+---
+
+## b1-101 · A medal presentation
+
+**B1 / 特別場合**
+
+- **Martha:** The swimming club is presenting your medal after practice on Sunday. Can your family come?
+- **Dean:** My sister can, but my parents are working. Could she take a photograph?
+- **Martha:** Of course. We will present the medals at the shallow end at noon.
+- **Dean:** Great. She can stand near the seats and send the picture to my parents.
+
+1. What is Dean receiving?
+   - A. A swimming medal / B. A club membership card / C. A photograph prize
+   - **答案：A** — Dean 將獲頒游泳獎牌。
+2. Why can Dean’s parents not attend?
+   - A. They are away on holiday / B. They have another sports practice / C. They are working
+   - **答案：C** — 他的父母要上班，不能出席。
+3. Which phrase means the same as “at noon”?
+   - A. At half past eleven in the morning / B. At twelve o’clock in the middle of the day / C. At twelve o’clock at midnight
+   - **答案：B** — 「at noon」即中午十二時。
+
+---
+
+## b1-102 · A board game afternoon
+
+**B1 / 娛樂**
+
+- **Eleanor:** The games café has a new afternoon session for beginners. Shall we try it?
+- **Bilal:** Yes. I like games with a short set of rules. Long instructions make me lose interest.
+- **Eleanor:** The café staff explain the games, and the session includes a drink.
+- **Bilal:** Then I would enjoy it. Let us book for next Sunday.
+
+1. Who is the café session for?
+   - A. Only experienced players / B. Children under five / C. Beginners
+   - **答案：C** — 這場活動適合初學者。
+2. How does Bilal feel about long game instructions?
+   - A. He needs them to explain every short game / B. They make him less interested in the game / C. He enjoys them more than playing
+   - **答案：B** — Bilal 說冗長指示令他失去興趣，因此偏好規則簡短的遊戲。
+3. What is included in the session?
+   - A. A drink / B. A board game to take home / C. A full meal
+   - **答案：A** — 活動包括一杯飲品。
+
+---
+
+## b1-103 · A library magic show
+
+**B1 / 娛樂**
+
+- **Maya:** The library is holding a magic show during the school holiday. My nephew wants to go.
+- **Chris:** I saw the notice. Adults are welcome, but each child needs a free ticket.
+- **Maya:** Can I collect one today?
+- **Chris:** Yes, at the library desk. The show starts at two on Friday.
+
+1. Who wants to see the show?
+   - A. The librarian’s sister / B. Maya’s nephew / C. Chris’s teacher
+   - **答案：B** — Maya 的姪兒想看魔術表演。
+2. What does each child need?
+   - A. A free ticket / B. A library book / C. A paid adult ticket
+   - **答案：A** — 每名小朋友都需要一張免費門票。
+3. When is the show?
+   - A. Thursday at two / B. Friday at twelve / C. Friday at two
+   - **答案：C** — 表演在星期五下午二時開始。
+
+---
+
+## b1-104 · An audio sculpture trail
+
+**B1 / 娛樂**
+
+- **Ruth:** The park has an audio trail about its sculptures. Do we need a guide?
+- **Callum:** No. Scan the code beside each sculpture to hear the artist talking about it.
+- **Ruth:** I will take my headphones. My phone battery never lasts long, though.
+- **Callum:** Download the recordings at home, and bring your small battery pack. Then we can stop and listen whenever we like.
+
+1. Whose voice is on the trail recordings?
+   - A. The artist’s / B. A park gardener’s / C. A local shopkeeper’s
+   - **答案：A** — 每件雕塑旁的二維碼連到藝術家的介紹錄音。
+2. What does Callum suggest doing at home?
+   - A. Booking a guide for the walk / B. Printing photographs of every sculpture / C. Downloading the recordings
+   - **答案：C** — Callum 建議在家先下載錄音。
+3. Why should Ruth bring a battery pack?
+   - A. The park closes before dark / B. Her phone battery does not last long / C. The headphones have a broken cable
+   - **答案：B** — Ruth 說手機電池不耐用，帶流動充電器可避免途中沒電。
+
+---
+
+## b1-105 · An evening of shadow puppets
+
+**B1 / 娛樂**
+
+- **Iris:** I have two tickets for a shadow puppet performance. Would you like the spare one?
+- **Jay:** I would. I have never seen one before. Is it suitable for my eight-year-old?
+- **Iris:** The notice says it is for ages six and above, but both of my tickets are for adults.
+- **Jay:** I will buy a child’s ticket if any are left.
+
+1. What has Iris offered Jay?
+   - A. A child’s ticket / B. A puppet-making kit / C. A spare adult ticket
+   - **答案：C** — Iris 提供一張多出的成人票。
+2. What age is the performance suitable for?
+   - A. Adults only / B. Six and above / C. Eight and above
+   - **答案：B** — 告示說表演適合六歲或以上人士。
+3. Is the following statement supported? “A child’s ticket is still available for Jay to buy.”
+   - A. Not given / B. True / C. False
+   - **答案：A** — Jay 說如果還有票便會買，對話未確認兒童票是否仍然有售。
+
+---
+
+## b1-106 · The photography exhibition guide
+
+**B1 / 娛樂**
+
+- **Ella:** The photography exhibition is free, but the printed guide costs three pounds.
+- **Hamza:** I would like a guide. Does it explain where the pictures were taken?
+- **Ella:** Yes, and it includes a short interview with each photographer.
+- **Hamza:** I will buy one at the desk after looking around.
+
+1. What can visitors see without paying?
+   - A. A photography class / B. The photography exhibition / C. The printed guide
+   - **答案：B** — 參觀攝影展免費，印刷導覽則要收費。
+2. Is the following statement supported? “The printed guide costs three pounds.”
+   - A. True / B. False / C. Not given
+   - **答案：A** — Ella 明確說印刷導覽售三鎊。
+3. When will Hamza buy the guide?
+   - A. Before entering the exhibition / B. Next week by post / C. After looking around
+   - **答案：C** — Hamza 打算先看展覽，再到服務處買導覽。
+
+---
+
+## b1-107 · A live drawing demonstration
+
+**B1 / 娛樂**
+
+- **Freya:** The art centre is showing how to draw animals on Saturday. You can watch without booking.
+- **Noel:** Can visitors draw along with the artist?
+- **Freya:** Yes, if they bring a sketchbook. The centre will provide pencils.
+- **Noel:** Brilliant. I will bring my sketchbook and meet you there at eleven.
+
+1. What will the artist demonstrate?
+   - A. Drawing animals / B. Making pottery / C. Painting furniture
+   - **答案：A** — 藝術家會示範畫動物。
+2. What does the centre say about booking?
+   - A. Everyone must reserve a place to watch / B. Only people with a booking may draw / C. People can watch without booking
+   - **答案：C** — 不用預訂也可以觀看示範；想跟着畫則要自備素描簿。
+3. The centre provides pencils but asks visitors to bring a sketchbook. Which reply follows those instructions?
+   - A. I will bring pencils because the centre has none / B. I will bring my sketchbook and use a pencil from the centre / C. I will leave my sketchbook at home and collect one there
+   - **答案：B** — 中心提供鉛筆，參加者自備素描簿，所以第一個回應符合指示。
+
+---
+
+## b1-108 · A rehearsal room key
+
+**B1 / 音樂**
+
+- **Anika:** The drummer has booked the rehearsal room for six. Who will collect the key?
+- **Ben:** I can collect it from reception, but I will be ten minutes late.
+- **Anika:** That is all right. I have my own key and can let everyone in at six.
+- **Ben:** Thanks. I will go straight to the room when I arrive.
+
+1. When is the rehearsal room booked?
+   - A. At ten past six / B. At half past five / C. At six
+   - **答案：C** — 排練室由六時開始預訂。
+2. Why can everyone enter at six?
+   - A. Ben will arrive early / B. Anika has her own key / C. Reception will leave the door open
+   - **答案：B** — Anika 自己有鑰匙，可以在六時開門。
+3. Why does Ben no longer need to collect the key at reception?
+   - A. Anika can open the room with her own key / B. The drummer will collect the key for him / C. The rehearsal has been moved to another room
+   - **答案：A** — Anika 會用自己的鑰匙開門，所以 Ben 可直接到排練室。
+
+---
+
+## b1-109 · An instrument repair estimate
+
+**B1 / 音樂**
+
+- **Tom:** The music shop has looked at my flute. The repair will cost twenty pounds.
+- **Mira:** Is that more than you expected?
+- **Tom:** A little, but a replacement would cost much more. It will not be ready until Saturday.
+- **Mira:** That sounds reasonable. I can lend you mine for Thursday’s practice.
+
+1. Which instrument needs repair?
+   - A. A trumpet / B. A flute / C. A violin
+   - **答案：B** — Tom 的長笛需要維修。
+2. When will the repaired instrument be ready?
+   - A. On Saturday / B. On Thursday morning / C. Next Monday
+   - **答案：A** — Tom 說長笛要到星期六才修好。
+3. Why does Mira offer her instrument?
+   - A. Tom has decided to buy a new flute / B. Mira wants to avoid Thursday’s practice / C. Tom has a practice before his flute is ready
+   - **答案：C** — 星期四要練習，而 Tom 的長笛星期六才修好，所以 Mira 借長笛給他應急。
+
+---
+
+## b1-110 · Music for a short film
+
+**B1 / 音樂**
+
+- **Jamal:** Our class has finished filming the short story. We still need music for the opening.
+- **Clare:** I can play a gentle piano tune. Would that suit the scene?
+- **Jamal:** Yes, because the scene begins quietly in a garden. We can record it on Tuesday.
+- **Clare:** I will practise the tune before then.
+
+1. What does the class still need?
+   - A. Music for the opening / B. Actors for the final scene / C. A garden for filming
+   - **答案：A** — 短片已拍好，還需要片頭音樂。
+2. What will Clare play?
+   - A. A loud drum solo / B. A guitar song with words / C. A gentle piano tune
+   - **答案：C** — Clare 會彈一段柔和的鋼琴曲。
+3. Why does Jamal think the music will fit?
+   - A. The garden scene is very noisy / B. The opening scene begins quietly / C. The film ends at a concert
+   - **答案：B** — 故事開首的花園場景寧靜，適合柔和的音樂。
+
+---
+
+## b1-111 · A music shop exchange
+
+**B1 / 音樂**
+
+- **Daisy:** I bought these guitar strings yesterday, but they are the wrong size. Can I exchange them?
+- **Kiran:** Certainly. Do you have the receipt?
+- **Daisy:** Yes, it is in my bag. I have not opened the packet.
+- **Kiran:** That is fine. The correct strings are on the shelf beside the counter.
+
+1. Why does Daisy want an exchange?
+   - A. The guitar is damaged / B. The packet is empty / C. The strings are the wrong size
+   - **答案：C** — 她買的結他弦尺寸不對。
+2. What does the shop want as proof of purchase?
+   - A. A guitar case / B. The receipt / C. A bank card
+   - **答案：B** — 購物收據可證明這次購買，Kiran 明確要求看收據。
+3. Where are the correct strings?
+   - A. Beside the counter / B. Behind the shop / C. By the front door
+   - **答案：A** — 正確尺寸的琴弦在收銀處旁的架上。
+
+---
+
+## b1-112 · The community music podcast
+
+**B1 / 音樂**
+
+- **Rosa:** I heard your interview on the community music podcast. How did you choose the songs?
+- **Felix:** We asked local musicians to suggest one song each, then chose three for the episode.
+- **Rosa:** I particularly liked the folk song at the end.
+- **Felix:** Me too. The singer will join us for a live interview next month.
+
+1. Who suggested the songs?
+   - A. The school headteacher / B. Local musicians / C. The podcast listeners only
+   - **答案：B** — 本地音樂人各自推薦一首歌曲。
+2. Which song did Rosa especially like?
+   - A. The folk song at the end / B. The first dance track / C. The piano piece in the middle
+   - **答案：A** — Rosa 特別喜歡最後的民歌。
+3. What will the folk singer do next month?
+   - A. Teach at Rosa’s school / B. Choose all the songs alone / C. Join a live interview
+   - **答案：C** — 該歌手下月會參加現場訪問。
+
+---
+
+## b1-113 · A concert programme correction
+
+**B1 / 音樂**
+
+- **Niamh:** The programme says our band is playing after the choir, but we are actually first.
+- **Omar:** I will tell the organiser before the doors open. Does the programme have the correct song titles?
+- **Niamh:** Yes, those are right. Only the order of the groups needs changing.
+- **Omar:** Good. The organiser can put a notice by the entrance.
+
+1. What is wrong in the programme?
+   - A. The order of the groups / B. The song titles / C. The concert date
+   - **答案：A** — 節目表的表演團體次序錯了。
+2. Which group will perform first?
+   - A. The choir / B. The solo pianist / C. Niamh’s band
+   - **答案：C** — Niamh 說她的樂隊實際上會先表演。
+3. What information should the organiser’s notice give?
+   - A. A different date for the concert / B. The corrected order of performers / C. New titles for the songs
+   - **答案：B** — 只有團體表演次序有誤，歌曲名稱正確，因此告示應交代正確表演次序。
+
+---
+
+## b1-114 · Learning to mend a jumper
+
+**B1 / 近期個人經歷**
+
+- **Tessa:** I learned to mend a hole in my jumper at a workshop last weekend.
+- **Omar:** Was it difficult?
+- **Tessa:** At first, yes. The teacher showed me how to match the wool, and then I managed it myself.
+- **Omar:** That is useful. I have a jumper with a loose button, so perhaps I should go next time.
+
+1. What did Tessa repair?
+   - A. A broken zip on her coat / B. A button on Omar’s shirt / C. A hole in her jumper
+   - **答案：C** — Tessa 學會補好毛衣上的洞。
+2. What did the teacher show her?
+   - A. Where to buy buttons / B. How to match the wool / C. How to knit a whole jumper
+   - **答案：B** — 導師教她如何配襯毛線。
+3. Why might Omar attend next time?
+   - A. He has a jumper that needs a button fixed / B. He wants to teach the class / C. He lost his coat at the workshop
+   - **答案：A** — Omar 的毛衣鈕扣鬆了，覺得課堂可能有用。
+
+---
+
+## b1-115 · Helping at a community garden
+
+**B1 / 近期個人經歷**
+
+- **Adele:** I helped at the community garden on Saturday. We planted beans in the morning.
+- **Rohan:** Did you stay all day?
+- **Adele:** No, I left after lunch because my aunt was visiting. I hope to return next week to water the plants.
+- **Rohan:** That sounds rewarding. I might join you.
+
+1. What did Adele plant?
+   - A. Roses / B. Beans / C. Apple trees
+   - **答案：B** — Adele 早上幫忙種豆。
+2. Is the following statement supported? “Adele stayed at the garden for the whole day.”
+   - A. False / B. True / C. Not given
+   - **答案：A** — Adele 說午飯後便離開，所以並非逗留一整天。
+3. What does she hope to do next week?
+   - A. Pick ripe apples / B. Paint the garden gate / C. Water the plants
+   - **答案：C** — 她希望下星期回去澆水。
+
+---
+
+## b1-116 · A first rowing session
+
+**B1 / 近期個人經歷**
+
+- **Zain:** I tried rowing on the lake yesterday. I was nervous before getting into the boat.
+- **Ruby:** Did you fall in?
+- **Zain:** No. The instructor stayed beside me and explained how to hold the oars. By the end I felt much calmer.
+- **Ruby:** Would you do it again?
+- **Zain:** Yes, especially on a sunny day.
+
+1. What activity did Zain try?
+   - A. Rowing on a lake / B. Sailing on the sea / C. Swimming in a river
+   - **答案：A** — Zain 昨天在湖上嘗試划艇。
+2. How did the instructor help?
+   - A. By rowing the boat without him / B. By asking him to swim first / C. By explaining how to hold the oars
+   - **答案：C** — 導師留在旁邊並教他怎樣握槳。
+3. How does Zain feel about trying rowing again?
+   - A. He would try only if there were no instructor / B. He wants to do it again, especially in sunny weather / C. He never wants to get into a boat again
+   - **答案：B** — Zain 說願意再划艇，尤其想在晴天去。
+
+---
+
+## b1-117 · The repaired family clock
+
+**B1 / 近期個人經歷**
+
+- **Elise:** My grandfather’s clock stopped last month. I took it to a repairer on Monday.
+- **Martin:** Has it been fixed already?
+- **Elise:** Yes. The repairer cleaned the inside, and now it keeps good time again.
+- **Martin:** Your grandfather must be pleased.
+- **Elise:** He is. He has put it back on the kitchen shelf.
+
+1. What was wrong with the clock?
+   - A. Its glass was missing / B. It made no sound at noon / C. It had stopped
+   - **答案：C** — 祖父的鐘上個月停了。
+2. What does “it keeps good time again” mean?
+   - A. The clock is quiet enough for the kitchen / B. The clock now shows the correct time / C. The clock has been returned earlier than expected
+   - **答案：B** — 這句表示鐘修好後走得準確，不是指提早交還。
+3. Where is the clock now?
+   - A. On the kitchen shelf / B. At the repair shop / C. In Elise’s bedroom
+   - **答案：A** — 祖父已把鐘放回廚房架上。
+
+---
+
+## b1-118 · Reading a weather map
+
+**B1 / 近期個人經歷**
+
+- **Hana:** I went to a talk about weather maps last night. I had expected it to be all about storms.
+- **Gareth:** Was it different?
+- **Hana:** Yes. The speaker showed us how the lines on a map help explain changes in the weather. We compared yesterday’s map with today’s.
+- **Gareth:** I wish I had gone. Was there time to ask questions?
+- **Hana:** Yes, for the last fifteen minutes.
+
+1. What did Hana expect the talk to focus on?
+   - A. Temperatures in different seasons / B. Storms / C. Ordinary cloud names only
+   - **答案：B** — Hana 原先以為講座主要談暴風雨。
+2. What did the audience compare?
+   - A. Weather maps from two days / B. Rainfall from two countries / C. Photographs of two storms
+   - **答案：A** — 聽眾比較了昨天和今天的天氣圖。
+3. The speaker says there is time for questions during the final fifteen minutes. What does that mean?
+   - A. Questions are only allowed before the talk / B. The talk ends fifteen minutes early / C. Questions are welcome at the end
+   - **答案：C** — 講座最後十五分鐘讓聽眾提問。
+
+---
+
+## b1-119 · Choosing a useful skill
+
+**B1 / 自選主題討論**
+
+- **Tutor:** If you could learn a practical skill, what would you choose?
+- **Lena:** I would learn basic bicycle repair. I ride to work and cannot fix a flat tyre yet.
+- **Tutor:** How would you start learning?
+- **Lena:** I would attend a weekend class, then practise on my own bike.
+
+1. Which skill would Lena like to learn?
+   - A. Basic bicycle repair / B. Making furniture / C. Driving a bus
+   - **答案：A** — Lena 想學基本單車維修。
+2. Why does she think the skill would be useful?
+   - A. She wants to sell her bicycle / B. She works in a bicycle shop / C. She rides to work and cannot fix a flat tyre
+   - **答案：C** — 她踩單車上班，但尚不懂修補漏氣車胎。
+3. How would Lena begin?
+   - A. By buying a second bicycle / B. By attending a weekend class / C. By reading at work each morning
+   - **答案：B** — 她會先參加週末課程。
+
+---
+
+## b1-120 · Keeping an aquarium
+
+**B1 / 自選主題討論**
+
+- **Tutor:** What do you enjoy about keeping fish at home?
+- **Amir:** Watching them after work helps me relax. I keep three small fish in a tank in the sitting room.
+- **Tutor:** What have you learned about looking after them?
+- **Amir:** Not to give them too much food. I also write down when I clean the tank, so I do not forget.
+
+1. What does Amir enjoy about his fish?
+   - A. Taking them to competitions / B. Selling them to local shops / C. Watching them helps him relax
+   - **答案：C** — Amir 覺得看魚能讓他在下班後放鬆。
+2. Where does he keep the tank?
+   - A. Beside his desk at work / B. In the sitting room / C. In the kitchen
+   - **答案：B** — 魚缸放在客廳。
+3. Why does Amir write down the cleaning dates?
+   - A. To remember when he cleans the tank / B. To compare the prices of fish food / C. To plan a larger tank for next year
+   - **答案：A** — 他記錄清潔日期，以免忘記清潔魚缸。
+
+---
+
+## b1-121 · A family meal tradition
+
+**B1 / 自選主題討論**
+
+- **Tutor:** Tell me about a meal you enjoy sharing with your family.
+- **Mei:** We make dumplings together on the first Sunday of each month. Everyone chooses a filling.
+- **Tutor:** What do you enjoy most about it?
+- **Mei:** Talking while we prepare the food. The cooking takes time, but nobody has to work alone.
+
+1. How often does Mei’s family make dumplings together?
+   - A. Once a year in December / B. On the first Sunday of each month / C. Every Saturday evening
+   - **答案：B** — 她的家人在每月第一個星期日一起包餃子。
+2. What can each person choose?
+   - A. A filling / B. A different restaurant / C. The date of the next holiday
+   - **答案：A** — 每人都可以選擇餡料。
+3. What does Mei enjoy most?
+   - A. Finishing before everyone else / B. Eating without helping to cook / C. Talking while preparing the food
+   - **答案：C** — Mei 最喜歡一邊準備食物一邊聊天。
+
+---
+
+## b1-122 · A useful item for a trip
+
+**B1 / 自選主題討論**
+
+- **Tutor:** What do you always take when you go on a day trip?
+- **Ethan:** A reusable water bottle. I can fill it up during the day and avoid buying several plastic bottles.
+- **Tutor:** Has it ever been especially useful?
+- **Ethan:** Yes. On a long walk last month, the café was closed, but I had enough water.
+
+1. What does Ethan always take on a day trip?
+   - A. A reusable water bottle / B. A large cooking pot / C. A paper map of every town
+   - **答案：A** — Ethan 每次一日遊都帶可重用水樽。
+2. Why does he take it?
+   - A. It keeps his lunch hot / B. He collects bottles as a hobby / C. He can refill it and use fewer plastic bottles
+   - **答案：C** — 他可以隨時補水，減少購買膠樽裝水。
+3. What happened on his walk last month?
+   - A. He forgot to bring water / B. The café was closed / C. He lost his bottle
+   - **答案：B** — 上月長途步行時咖啡店關門，但他有足夠的水。
+
+---
+
+## b1-123 · A helpful way to remember words
+
+**B1 / 自選主題討論**
+
+- **Tutor:** How do you remember new English words?
+- **Sara:** I write a short sentence for each word rather than a long list.
+- **Tutor:** Why does that help you?
+- **Sara:** The sentence reminds me how to use the word. I read my examples again on the bus.
+
+1. Which description matches Sara’s method?
+   - A. She copies a long list without examples / B. She writes a different definition on every bus ticket / C. She learns a word in an example sentence instead of an isolated list
+   - **答案：C** — Sara 為每個生字寫短句，用例句幫助記憶和理解用法。
+2. Why does she use sentences?
+   - A. They make her bus journey shorter / B. They remind her how to use the words / C. They help her draw pictures
+   - **答案：B** — 句子能提醒她生字的用法。
+3. When does Sara read her examples again?
+   - A. On the bus / B. At the swimming pool / C. Before breakfast in a café
+   - **答案：A** — 她會在巴士上重讀例句。
+
+---
+
+## b1-124 · A question about a past trip
+
+**B1 / 理解提問**
+
+- **Examiner:** Tell me about a place you visited last year. What did you enjoy doing there?
+- **Ari:** I visited Bath with my cousin. We enjoyed walking beside the river.
+- **Examiner:** And how did you travel there?
+- **Ari:** We took the train because neither of us wanted to drive.
+
+1. Which two details does the examiner ask for first?
+   - A. A favourite means of transport and its timetable / B. A place visited last year and an enjoyable activity there / C. A future destination and the price of travelling there
+   - **答案：B** — 首輪問題要求說明去年到訪的地點，以及在當地喜歡做的活動。
+2. What did Ari enjoy in Bath?
+   - A. Walking beside the river / B. Shopping for a bicycle / C. Visiting his cousin’s school
+   - **答案：A** — Ari 喜歡在巴斯河邊散步。
+3. Why did they take the train?
+   - A. The bus was cancelled / B. His cousin worked at the station / C. Neither wanted to drive
+   - **答案：C** — 他們兩人都不想開車，所以乘火車。
+
+---
+
+## b1-125 · Understanding a question about frequency
+
+**B1 / 理解提問**
+
+- **Examiner:** How often do you use the sports centre?
+- **Mina:** Do you mean how many times I go there?
+- **Examiner:** Yes, that is right.
+- **Mina:** Usually twice a week, after work. I use the pool on Tuesdays and the gym on Fridays.
+
+1. What does the examiner mean by “How often”?
+   - A. How many times Mina goes / B. How long the centre has been open / C. How much Mina pays each time
+   - **答案：A** — 「How often」詢問 Mina 多常去，即去的次數。
+2. How often does Mina usually visit?
+   - A. Once a month / B. Every weekday / C. Twice a week
+   - **答案：C** — Mina 通常每星期去兩次。
+3. What does Mina use on Fridays?
+   - A. The tennis court / B. The gym / C. The pool
+   - **答案：B** — 她星期五使用健身室。
+
+---
+
+## b1-126 · Giving a reason for a choice
+
+**B1 / 理解提問**
+
+- **Examiner:** You said you prefer reading at home. Why is that?
+- **Leo:** Because I can choose a comfortable chair and stop whenever I like.
+- **Examiner:** What kind of book did you read most recently?
+- **Leo:** A travel book about Scotland. My sister lent it to me.
+
+1. What does the examiner ask Leo to explain first?
+   - A. How to join a library / B. When his sister moved to Scotland / C. Why he prefers reading at home
+   - **答案：C** — 考官先問 Leo 為何喜歡在家閱讀。
+2. What does Leo like about reading at home?
+   - A. He has to finish every chapter quickly / B. He can stop whenever he likes / C. He can borrow books from a café
+   - **答案：B** — Leo 說在家可以隨時停下來。
+3. Who lent Leo the travel book?
+   - A. His sister / B. His teacher / C. The examiner
+   - **答案：A** — 旅遊書是 Leo 的姊妹借給他的；英文 sister 沒有交代年齡。
+
+---
+
+## b1-127 · A question about future plans
+
+**B1 / 理解提問**
+
+- **Examiner:** You enjoy cooking now. Would you like to learn to cook a different kind of food in the future?
+- **Lara:** Yes. I would like to learn how to make Indian dishes.
+- **Examiner:** Who could help you learn?
+- **Lara:** My neighbour offered to show me some simple recipes.
+
+1. The examiner asks about learning another type of food in the future. Which reply answers that question?
+   - A. My neighbour learned to cook when she was young / B. I would like to learn to make Indian dishes / C. I have cooked the same dishes for several years
+   - **答案：B** — 問題問 Lara 將來想學哪類菜式；她回答想學做印度菜。
+2. What would Lara like to learn?
+   - A. How to make Indian dishes / B. How to grow flowers / C. How to run a restaurant
+   - **答案：A** — Lara 想學做印度菜。
+3. Who offered to help her?
+   - A. Her examiner / B. Her brother / C. Her neighbour
+   - **答案：C** — 她的鄰居提出教她一些簡單食譜。
+
+---
+
+## b1-128 · Comparing two ways to travel
+
+**B1 / 理解提問**
+
+- **Examiner:** You sometimes walk and sometimes take the bus to work. Which do you prefer, and why?
+- **Ben:** I prefer walking when it is dry because I get some exercise.
+- **Examiner:** What do you do when it rains heavily?
+- **Ben:** I take the bus so I do not arrive with wet clothes.
+
+1. What must Ben include to answer the examiner’s first question fully?
+   - A. His preferred way to travel to work and a reason for choosing it / B. Only the number of his usual bus / C. Only the time at which he starts work
+   - **答案：A** — 考官問喜歡步行還是坐巴士，並要求說明原因；完整回答要包括選擇和理由。
+2. Why does Ben prefer walking in dry weather?
+   - A. It is the only way to reach work / B. He can read on the journey / C. He gets some exercise
+   - **答案：C** — 天氣乾爽時，他喜歡步行，因為可以做運動。
+3. What does Ben do in heavy rain?
+   - A. He stays at home / B. He takes the bus / C. He walks more slowly
+   - **答案：B** — 下大雨時他會坐巴士，避免衣服濕透。
+
+---
+
+## b1-129 · Identifying a lost coat
+
+**B1 / 綜合聆聽**
+
+- **Receptionist:** A visitor left a blue coat in the meeting room yesterday. Is this yours?
+- **Visitor:** Mine is blue too, but it has a red scarf in the pocket.
+- **Receptionist:** Let me check. Yes, there is a red scarf. Please sign here when you collect it.
+- **Visitor:** Thank you. I will sign now.
+
+1. Where was the coat found?
+   - A. At the bus station / B. In the café / C. In the meeting room
+   - **答案：C** — 外套是在會議室找到的。
+2. What identifies the visitor’s coat?
+   - A. A pair of gloves in the hood / B. A red scarf in the pocket / C. A name written on the sleeve
+   - **答案：B** — 口袋裏的紅圍巾有助辨認這件外套。
+3. The receptionist asks the visitor to sign when collecting the coat. Which reply follows that request?
+   - A. Thank you. I will sign before taking it / B. Thank you. I will take it now and leave without signing / C. Thank you. I will pay the collection fee instead
+   - **答案：A** — 訪客領取外套時須簽名；對話沒有提及收費。
+
+---
+
+## b1-130 · A delayed furniture delivery
+
+**B1 / 綜合聆聽**
+
+- **Driver:** I am calling about your table delivery. We expected to arrive at ten, but traffic is moving slowly.
+- **Customer:** I have a meeting at eleven. Could you come after twelve instead?
+- **Driver:** Yes. I can arrive between twelve thirty and one.
+- **Customer:** That is fine. Please call when you are outside the building.
+
+1. Why will the delivery be late?
+   - A. The address was incorrect / B. Traffic is moving slowly / C. The table is still being made
+   - **答案：B** — 交通緩慢，送貨會遲到。
+2. When can the driver arrive instead?
+   - A. Between twelve thirty and one / B. Before ten / C. Between eleven and eleven thirty
+   - **答案：A** — 司機可在十二時半至一時之間到達。
+3. What does the customer ask the driver to do?
+   - A. Leave the table at a neighbour’s home / B. Bring a second table / C. Call from outside the building
+   - **答案：C** — 客人要求司機到大廈外時致電。
+
+---
+
+## b1-131 · Returning a borrowed tool
+
+**B1 / 綜合聆聽**
+
+- **Assistant:** The drill you borrowed is due back on Monday. Have you finished using it?
+- **Customer:** Yes. May I return it on Saturday instead?
+- **Assistant:** Certainly. Please bring the case and the charger as well.
+- **Customer:** I have both. I will return everything before the shop closes at five.
+
+1. What did the customer borrow?
+   - A. A drill / B. A ladder / C. A paintbrush
+   - **答案：A** — 客人借了一把電鑽。
+2. When does the customer want to return it?
+   - A. On Monday / B. On Tuesday / C. On Saturday
+   - **答案：C** — 客人想提早在星期六歸還。
+3. What should the customer bring with the tool?
+   - A. A ladder and safety glasses / B. The case and charger / C. A new battery and receipt
+   - **答案：B** — 職員要求連同工具盒和充電器一起歸還。
+
+---
+
+## b1-132 · A change to a cooking demonstration
+
+**B1 / 綜合聆聽**
+
+- **Organiser:** The cooking demonstration has moved from the main hall to room four.
+- **Visitor:** Does it still begin at half past two?
+- **Organiser:** Yes, but the tasting is now at the end rather than halfway through.
+- **Visitor:** Thanks. I will tell my friend to meet me outside room four.
+
+1. Where will the demonstration take place?
+   - A. In the main hall / B. In the café kitchen / C. In room four
+   - **答案：C** — 示範地點改到四號室。
+2. Which statement matches the revised arrangements?
+   - A. The tasting remains halfway through in the new room / B. The room and tasting time change, but the start time stays the same / C. The room stays the same, but the start time changes
+   - **答案：B** — 示範改到四號室，試食改在最後，開始時間仍是二時半。
+3. When will visitors taste the food?
+   - A. At the end / B. Halfway through / C. Before the demonstration
+   - **答案：A** — 試食環節現改到最後舉行。
+
+---
+
+## b1-133 · A request at the print shop
+
+**B1 / 綜合聆聽**
+
+- **Customer:** Could you print twenty copies of this notice on yellow paper?
+- **Assistant:** We have yellow paper, but the printer is busy until three.
+- **Customer:** That is all right. I can collect them at four.
+- **Assistant:** Fine. Please write your name and phone number on this order form.
+
+1. How many copies does the customer need?
+   - A. Thirty / B. Twenty / C. Twelve
+   - **答案：B** — 客人需要二十份。
+2. Why can the shop not print the notices immediately?
+   - A. The printer is busy until three / B. There is no yellow paper / C. The shop is closing at two
+   - **答案：A** — 打印機要忙到三時。
+3. What should the customer write on the form?
+   - A. Their home address and age / B. Their bank details / C. Their name and phone number
+   - **答案：C** — 職員請客人在訂單上填姓名和電話號碼。
+
+---
+
+## b2-84 · The open-book assessment
+
+**B2 / 教育**
+
+- **Hana:** Our tutor says we may bring notes into the assessment, so I thought revision would be unnecessary.
+- **Joel:** You will still need to apply the ideas quickly. Searching through a large folder could waste most of your time.
+- **Hana:** Perhaps I should make an index rather than try to memorise every page.
+- **Joel:** That would help, especially if you practise finding evidence for a sample question.
+- **Hana:** I could also mark where different authors disagree, because the task asks us to compare approaches.
+- **Joel:** Exactly. The notes are a resource, not a substitute for deciding which material is relevant.
+
+1. What does Joel imply about an open-book assessment?
+   - A. Preparation still matters because time and selection are limited / B. An index is sufficient even without practising how to use the ideas / C. Memorising every page is safer than selecting relevant evidence
+   - **答案：A** — Joel 指出仍須熟悉內容及迅速選擇相關資料，並非可完全不用溫習。
+2. Why does Hana plan to mark disagreements?
+   - A. To decide which author she should quote in every answer / B. To replace the examples with a list of author names / C. To help her compare the authors’ approaches
+   - **答案：C** — 題目要求比較不同方法，標記分歧有助她作比較。
+3. Which statement best expresses Joel’s final point?
+   - A. Only memorised material may be used / B. Notes support judgement but cannot replace it / C. An index is more useful than practising
+   - **答案：B** — Joel 說筆記是資源，不能代替判斷哪些材料相關。
+
+---
+
+## b2-85 · Changing the class debate
+
+**B2 / 教育**
+
+- **Lena:** In our last debate, the same three people spoke while everyone else took notes.
+- **Omar:** We could invite written questions first, then let pairs choose one to discuss before anyone addresses the room.
+- **Lena:** Would that make the session too slow for the whole class to cover the topic?
+- **Omar:** Possibly, so we could limit the pair discussion to five minutes and combine similar questions.
+- **Lena:** I like that it gives quieter students time to form a view, although nobody should be forced to speak.
+- **Omar:** Agreed. We can ask the tutor to try it once and collect feedback before changing every seminar.
+
+1. What problem are they trying to address?
+   - A. The tutor has removed all discussion time / B. The class lacks enough written material / C. Participation is concentrated among a few students
+   - **答案：C** — Lena 指上次只有少數同學發言，因此希望改善參與情況。
+2. How does Omar respond to the concern about time?
+   - A. He wants each pair to answer every question / B. He suggests a time limit and grouping similar questions / C. He proposes cancelling the whole-class discussion
+   - **答案：B** — Omar 建議限制兩人討論時間，並合併相似問題。
+3. What does their final plan show?
+   - A. They favour trying the idea before adopting it widely / B. They have decided that speaking must be compulsory / C. They believe the previous debate needs no improvement
+   - **答案：A** — 他們先試行一次及收集意見，才決定是否廣泛採用。
+
+---
+
+## b2-86 · Learning from a marking guide
+
+**B2 / 教育**
+
+- **Nisha:** The marking guide mentions clear reasoning, but it does not tell us exactly how many examples to include.
+- **Ben:** I suspect the relevance of an example matters more than reaching a fixed number.
+- **Nisha:** Then could one detailed example be enough for an argument?
+- **Ben:** It might be, provided it genuinely supports the claim and the task does not ask for a range of cases.
+- **Nisha:** I will ask the tutor about the range requirement rather than assume that every question is alike.
+- **Ben:** Good idea. The guide gives principles, but the wording of each assignment still matters.
+
+1. What does Ben consider more important than a fixed number?
+   - A. Whether the guide lists an exact word count / B. Whether the example supports the argument / C. Whether each example comes from a different country
+   - **答案：B** — Ben 認為例子是否切題比固定數量更重要。
+2. Under what condition might one example be insufficient?
+   - A. When the assignment asks for a range of cases / B. Whenever it is explained in detail / C. When it supports the central claim
+   - **答案：A** — 若作業要求涵蓋多個個案，一個例子可能不足。
+3. Why will Nisha contact the tutor?
+   - A. To ask the tutor to choose her argument / B. To challenge the entire marking system / C. To clarify a requirement that may vary between tasks
+   - **答案：C** — Nisha 不想假設所有題目的要求一樣，因此會向導師確認。
+
+---
+
+## b2-87 · A placement reflection
+
+**B2 / 教育**
+
+- **Ella:** My placement report reads like a diary: I describe each day, but I am not sure what I learned.
+- **Marcus:** Could you choose one difficult moment and explain how your response changed as you understood it?
+- **Ella:** There was a customer complaint that I initially passed to someone else without listening properly.
+- **Marcus:** That sounds useful. Include what you would do differently and why, rather than pretending you solved it alone.
+- **Ella:** I was worried that admitting a mistake might make the report look weak.
+- **Marcus:** A thoughtful account of improvement can be stronger than a perfect story, provided you protect the customer’s identity.
+
+1. What is missing from Ella’s first draft?
+   - A. Reflection on what she learned / B. A list of all her working hours / C. The customer’s full name
+   - **答案：A** — Ella 說報告只記錄每天發生的事，欠缺學習反思。
+2. What does Marcus advise her to do with the complaint?
+   - A. Claim she resolved it without assistance / B. Publish identifying details to make the story convincing / C. Explain the lesson and a different future response
+   - **答案：C** — Marcus 建議說明學到甚麼及將來如何改進，同時保護客人身分。
+3. What is Marcus’s view of admitting a mistake?
+   - A. It matters only if the customer agrees to be named / B. It can strengthen a thoughtful account of progress / C. It always makes a placement report fail
+   - **答案：B** — Marcus 認為坦誠反思錯誤及改進，可以令報告更有深度。
+
+---
+
+## b2-88 · Choosing peer comments
+
+**B2 / 教育**
+
+- **Faye:** My classmates gave opposite advice on the opening of my essay, so I do not know whom to follow.
+- **Ravi:** Before choosing, look at the reasons they gave and the purpose of your introduction.
+- **Faye:** One reader wanted a shorter story; the other said the topic was still unclear.
+- **Ravi:** Those comments may not actually conflict. You could shorten the story and state the question earlier.
+- **Faye:** I will revise it that way, then ask someone unfamiliar with the subject what they understand.
+- **Ravi:** That should test the result, although you will still need to decide whether it meets the assignment.
+
+1. Why does Ravi think the two comments can be combined?
+   - A. Both readers requested a longer personal story / B. The readers agree that the story should be kept at its present length / C. The introduction can be shorter and clearer at the same time
+   - **答案：C** — 縮短故事及提早交代主題可以同時做到，因此兩個意見未必矛盾。
+2. What is Faye’s reason for asking a new reader?
+   - A. To find out whether specialist readers prefer more background / B. To see whether the revised introduction communicates clearly / C. To confirm that the shorter version needs no further revision
+   - **答案：B** — 她想測試不熟悉主題的人是否理解修改後的引言。
+3. What does Ravi say remains Faye’s responsibility?
+   - A. Judging the revision against the assignment / B. Accepting every suggestion without change / C. Choosing the reader with the highest mark
+   - **答案：A** — Ravi 提醒她仍須自行判斷文章是否符合題目要求。
+
+---
+
+## b2-89 · A science club demonstration
+
+**B2 / 教育**
+
+- **Mila:** The club wants a dramatic demonstration, but the experiment takes forty minutes before anything visible happens.
+- **Jonah:** Could you show a prepared result first and then explain how you obtained it?
+- **Mila:** That might look as if we have skipped the difficult part of the process.
+- **Jonah:** Only if you conceal it. Label the prepared sample and show the steps with photographs and a timer.
+- **Mila:** We could invite questions about what might have gone wrong during the wait as well.
+- **Jonah:** Yes, and keep the safety explanation. A shorter presentation should not hide the limits or precautions.
+
+1. What concern does Mila raise about showing a prepared result?
+   - A. The audience might mistake the timer for part of the experiment / B. The audience might think the process was oversimplified / C. The result would take longer than the experiment
+   - **答案：B** — Mila 擔心先展示結果會令人覺得省略了困難步驟。
+2. How does Jonah suggest addressing that concern?
+   - A. Clearly identify the sample and show the missing stages / B. Present the sample as a live result / C. Avoid mentioning how long the experiment takes
+   - **答案：A** — Jonah 建議標明樣本是預先準備，並以照片和計時器展示過程。
+3. What principle guides their revised presentation?
+   - A. Remove all uncertainty so the result seems certain / B. Use a prepared sample without discussing the unsuccessful stages / C. Make the demonstration concise without hiding limitations or safety
+   - **答案：C** — 他們希望縮短展示，同時如實說明限制和安全措施。
+
+---
+
+## b2-90 · A neighbour’s quiet celebration
+
+**B2 / 國家習俗**
+
+- **Jas:** The family next door has invited us to a celebration, but they said it will be a quiet gathering this year.
+- **Peter:** Then perhaps we should not assume there will be music or a large meal just because there was one before.
+- **Jas:** I had already thought of bringing a loud party game for the children.
+- **Peter:** You could ask whether a small activity would be welcome, and let them decide what suits the occasion.
+- **Jas:** That feels more considerate than arriving with a plan everyone has to follow.
+- **Peter:** Exactly. Traditions can change for personal reasons, and an invitation does not explain all of them.
+
+1. Why does Peter question Jas’s assumption?
+   - A. A familiar celebration may be organised differently this year / B. The neighbours are asking guests to arrange the entertainment / C. The previous event was quieter than Jas remembers
+   - **答案：A** — 鄰居已說今年會低調慶祝，過往形式未必適用。
+2. What does Peter recommend about the game?
+   - A. Bring it and insist that everyone plays / B. Choose a game based on what was popular at last year’s gathering / C. Ask the hosts whether an activity would suit them
+   - **答案：C** — Peter 建議先問主人家是否歡迎小活動，讓他們決定。
+3. What does the final exchange suggest?
+   - A. A quiet event cannot be a celebration / B. Respecting a custom includes allowing for personal circumstances / C. Traditions must be identical in every household
+   - **答案：B** — 對話指出傳統可因個人情況改變，尊重主人家的選擇也很重要。
+
+---
+
+## b2-91 · The borrowed umbrella
+
+**B2 / 國家習俗**
+
+- **Iris:** Our visitor left her umbrella here, and my father says returning it in person is the polite thing to do.
+- **Kareem:** That could be kind, but she lives across town and may prefer us to bring it next time we meet.
+- **Iris:** Would asking make the gesture seem less generous?
+- **Kareem:** I do not think so. Offering both options lets her choose without creating an unexpected visit.
+- **Iris:** I will message her and say we are happy to drop it off if that is useful.
+- **Kareem:** Good. Courtesy is not only the intention; it is also considering what is convenient for the other person.
+
+1. What concern does Kareem have about returning the umbrella immediately?
+   - A. The umbrella may not belong to the visitor / B. Offering delivery might imply that the umbrella was a gift / C. An unplanned visit may be inconvenient
+   - **答案：C** — 他認為突然拜訪未必方便對方，並非反對歸還。
+2. How will Iris handle the situation?
+   - A. Wait without contacting the visitor / B. Offer to deliver it while letting the visitor choose / C. Leave it outside the visitor’s home without warning
+   - **答案：B** — Iris 會傳訊息表示樂意送回，讓對方選擇。
+3. What does Kareem think courtesy involves?
+   - A. Considering the recipient’s convenience as well as good intentions / B. Following one rule regardless of the circumstances / C. Avoiding all direct communication with visitors
+   - **答案：A** — 他認為禮貌除了出於好意，也要考慮對方是否方便。
+
+---
+
+## b2-92 · An anniversary programme
+
+**B2 / 國家習俗**
+
+- **Clara:** The association usually begins its anniversary with a long formal speech, but several newer members suggested a shorter welcome.
+- **Imran:** Some older members may value that speech because it records the group’s history.
+- **Clara:** Could we keep a brief introduction and put the full history in a printed programme?
+- **Imran:** That seems a useful compromise, provided we ask the people who prepare the speech first.
+- **Clara:** We should also offer the programme online for anyone who cannot attend.
+- **Imran:** Yes. Changing a custom can preserve its purpose if the people involved help decide how.
+
+1. Why might some members want to retain the speech?
+   - A. It is shorter than the introduction in the printed programme / B. It preserves the association’s history / C. It gives newer members an opportunity to lead the welcome
+   - **答案：B** — Imran 指演講記錄團體歷史，故部分成員可能重視它。
+2. What compromise does Clara propose?
+   - A. Give a shorter welcome and provide the full history separately / B. Remove the history from the event entirely / C. Replace the printed history with a longer formal speech
+   - **答案：A** — Clara 建議縮短開場，並在節目單保留完整歷史。
+3. What does Imran consider necessary before changing the custom?
+   - A. Asking only those who joined recently / B. Assuming that everyone values the same format / C. Consulting the people involved in preparing it
+   - **答案：C** — 他認為要先詢問負責準備演講的人。
+
+---
+
+## b2-93 · Names on the invitation
+
+**B2 / 國家習俗**
+
+- **Tariq:** The invitation lists the whole household, but I am not certain whether that includes my cousin, who is staying for a month.
+- **Beth:** Rather than deciding for the hosts, you could explain the situation and ask if there is room.
+- **Tariq:** I worry the question might make them feel obliged to invite her.
+- **Beth:** You can make it easy to decline by saying you understand if the numbers are fixed.
+- **Tariq:** That sounds fair. I will check before telling my cousin she is included.
+- **Beth:** And if there is no space, it does not necessarily mean she is unwelcome personally.
+
+1. Why is the invitation ambiguous to Tariq?
+   - A. He is unsure whether a temporary guest counts as part of the household / B. His own name is missing from the invitation / C. The event date has not been announced
+   - **答案：A** — Tariq 不確定暫住一個月的表親是否包括在「全家」之內。
+2. How can he avoid putting pressure on the hosts?
+   - A. Tell his cousin that a place is guaranteed / B. Ask the hosts to change the venue / C. Acknowledge that fixed numbers may prevent an extra guest
+   - **答案：C** — Beth 建議表明理解名額可能固定，讓主人家可以婉拒。
+3. What does Beth imply if the answer is no?
+   - A. The hosts have broken an established rule / B. A refusal may reflect limited capacity rather than personal dislike / C. The invitation to Tariq must also be cancelled
+   - **答案：B** — Beth 指沒有空位不一定代表主人家對表親有意見。
+
+---
+
+## b2-94 · The welcome table
+
+**B2 / 國家習俗**
+
+- **Mei:** At the welcome table we usually offer tea straight away, but a visitor seemed unsure whether she could refuse.
+- **Alec:** Perhaps we should say that water is available too and that it is perfectly fine to take nothing.
+- **Mei:** Would listing choices make our greeting feel less warm?
+- **Alec:** Not if we say it naturally. It gives people room to respond according to their needs.
+- **Mei:** We could also label the drinks, since not everyone will recognise the ingredients.
+- **Alec:** That would make the custom easier to join without assuming that every guest has the same preferences.
+
+1. What did Mei notice about a visitor?
+   - A. She asked the organisers to remove every drink / B. She had brought a recipe for the table / C. She appeared uncertain about declining tea
+   - **答案：C** — Mei 留意到訪客似乎不確定能否拒絕茶。
+2. Why does Alec suggest offering alternatives?
+   - A. To make the greeting more formal / B. To let guests choose without feeling pressured / C. To prevent anyone from accepting tea
+   - **答案：B** — 提供選擇及容許不喝，能減少客人被迫接受的壓力。
+3. What is the purpose of labelling drinks?
+   - A. To help guests make informed choices about ingredients / B. To require every guest to taste each drink / C. To replace the verbal welcome entirely
+   - **答案：A** — 標示飲品可讓不認識材料的客人自行作出選擇。
+
+---
+
+## b2-95 · Explaining the harvest custom
+
+**B2 / 國家習俗**
+
+- **Sofia:** For the village exhibition, I have written that every family used to leave a sheaf of corn outside the church.
+- **Neil:** Our archive shows several households doing that, but it does not establish that everyone joined in.
+- **Sofia:** My uncle remembers it as something the whole village did together.
+- **Neil:** He may mean it felt like a shared occasion. Could you present his memory alongside what the records show?
+- **Sofia:** Then I could write that it was a familiar local custom, with a separate quotation from him.
+- **Neil:** Yes. That preserves his experience without turning one recollection into a claim about every household.
+
+1. What weakness does Neil identify in Sofia’s first account?
+   - A. It ignores a record showing that the custom never happened / B. It treats evidence about some households as evidence about all of them / C. It places the custom at a different church from the archive
+   - **答案：B** — 檔案只證明部分家庭參與，未足以支持「每家每戶」都參加。
+2. How does Neil suggest using the uncle’s memory?
+   - A. Present it as his experience alongside the archive evidence / B. Use it to correct every household entry in the archive / C. Remove it unless it agrees with every written record
+   - **答案：A** — Neil 建議把叔叔的個人回憶與檔案證據一同呈現。
+3. What does the revised wording achieve?
+   - A. It proves the custom had the same meaning for every resident / B. It replaces the archive with an account from one participant / C. It recognises the custom without overstating how widely it was practised
+   - **答案：C** — 改稱熟悉的本地習俗，既保留傳統的重要性，也避免誇大參與人數。
+
+---
+
+## b2-96 · A mobile dental clinic
+
+**B2 / 鄉村與城市生活**
+
+- **Leah:** The council is considering a mobile dental clinic for villages where appointments are difficult to reach.
+- **Gareth:** That would save some journeys, although one vehicle cannot provide every specialist service.
+- **Leah:** The proposal says it will visit twice a month and refer complicated cases to the town clinic.
+- **Gareth:** Then the timetable matters. People who work shifts may still struggle if every visit is on a Tuesday.
+- **Leah:** I will suggest alternating weekdays when the council asks for feedback.
+- **Gareth:** That would help them test whether the service is accessible in practice, not just close on a map.
+
+1. What limitation does Gareth identify?
+   - A. The mobile clinic cannot offer every specialist service / B. The clinic will provide specialist treatment only at its first visit / C. Its visits will remove the need for referrals to the town
+   - **答案：A** — Gareth 指一輛流動診所無法提供所有專科服務。
+2. Why does Leah suggest alternating weekdays?
+   - A. To reduce the number of villages served / B. To ensure all referrals happen on Tuesdays / C. To make visits usable for people with different work patterns
+   - **答案：C** — 輪流使用不同星期的日子可幫助輪班人士使用服務。
+3. What does Gareth mean by accessible in practice?
+   - A. Everyone should travel to the town clinic instead / B. A nearby service must also be available at suitable times / C. Distance is the only factor that matters
+   - **答案：B** — 他指出地點接近仍不足夠，時間亦須適合使用者。
+
+---
+
+## b2-97 · The converted upper floor
+
+**B2 / 鄉村與城市生活**
+
+- **Nadia:** The old shop in our village may become flats above a smaller grocery on the ground floor.
+- **Ross:** That could bring residents into the centre, but I wonder whether deliveries will block the narrow pavement.
+- **Nadia:** The drawings show a rear entrance, though the planning notice does not say when deliveries would happen.
+- **Ross:** We should ask for a delivery plan before deciding whether to support the application.
+- **Nadia:** I like the idea of keeping a shop, so I do not want our concern to sound like automatic opposition.
+- **Ross:** Then say that clearly: we support the aim but need practical details about access.
+
+1. What benefit does Nadia see in the proposal?
+   - A. All deliveries would be prohibited / B. The rear entrance would remove the need for any delivery restrictions / C. A grocery could remain in the village centre
+   - **答案：C** — 她支持保留一間商店，並認為住宅可為中心帶來居民。
+2. Why do they want a delivery plan?
+   - A. The rear entrance has already been rejected / B. The drawings do not establish how access will work at delivery times / C. They want to prevent any grocery from opening
+   - **答案：B** — 圖則有後門，但尚未說明送貨時間及實際通道安排。
+3. How would Ross phrase their response?
+   - A. Support the aim while requesting practical information / B. Oppose the proposal without examining it / C. Promise that deliveries will never cause problems
+   - **答案：A** — Ross 建議表明支持目標，同時要求了解通行細節。
+
+---
+
+## b2-98 · The evening footpath
+
+**B2 / 鄉村與城市生活**
+
+- **Erin:** The path from the new housing estate to the station is shorter than the main road, but it is unlit after dusk.
+- **Mo:** Adding lights might help, though residents nearby are concerned about light shining into their bedrooms.
+- **Erin:** Could the lights point downwards and switch on only when someone approaches?
+- **Mo:** Perhaps, but we would need to check whether the sensors work for cyclists and wheelchair users too.
+- **Erin:** I will ask for a trial on one section rather than assume the design solves everything.
+- **Mo:** Include residents and path users in that trial; they may notice different problems.
+
+1. What trade-off are they discussing?
+   - A. Replacing the shorter path with a wider route beside the main road / B. Improving visibility while limiting disturbance to nearby homes / C. Keeping the path completely dark in order to preserve residents’ privacy
+   - **答案：B** — 加設照明可改善安全，但附近居民擔心燈光影響睡房。
+2. Why does Mo mention different path users?
+   - A. The proposed sensors need to work for a range of people / B. Only cyclists are allowed on the path / C. Wheelchair users have requested a road closure
+   - **答案：A** — Mo 希望確認感應器對單車使用者和輪椅使用者都有效。
+3. What would the trial allow them to do?
+   - A. Guarantee that no lighting will ever disturb residents / B. Avoid asking residents for their views / C. Gather different users’ observations before deciding on the design
+   - **答案：C** — 試行讓居民及使用者指出不同問題，再評估設計。
+
+---
+
+## b2-99 · A shared laundry room
+
+**B2 / 鄉村與城市生活**
+
+- **Grace:** Our block has a shared laundry, but people often leave their clothes in the machines after the cycle ends.
+- **Hamid:** A message when the cycle finishes might help, although not everyone uses a smartphone.
+- **Grace:** The caretaker suggested a paper booking sheet, but that would not tell us when a machine actually stops.
+- **Hamid:** Could we use both a simple timer display in the room and optional messages?
+- **Grace:** That seems fair, as long as the display is readable and the messages are not required.
+- **Hamid:** We could monitor whether delays improve for a month before paying for a permanent system.
+
+1. Why does Hamid hesitate over app messages alone?
+   - A. Some residents do not use smartphones / B. Messages would make machines stop early / C. The caretaker has forbidden electronic displays
+   - **答案：A** — Hamid 指出並非每位住客都有使用智能手機。
+2. What does the combined approach provide?
+   - A. A compulsory app and no booking information / B. A booking sheet combined with compulsory phone reminders / C. An in-room display as well as optional notifications
+   - **答案：C** — 方案同時提供房內計時顯示和自願接收訊息。
+3. Why do they propose monitoring the trial?
+   - A. To prove that all residents own phones / B. To see whether the change reduces delays before spending further / C. To remove access to the laundry during the month
+   - **答案：B** — 先觀察延誤有否改善，才決定是否支付永久系統的費用。
+
+---
+
+## b2-100 · The rural cinema screen
+
+**B2 / 鄉村與城市生活**
+
+- **Asha:** A village hall wants to show films once a month, but the nearest cinema worries it will lose customers.
+- **Tom:** The hall is twenty miles away, and the proposal targets people who cannot easily travel in the evening.
+- **Asha:** Even so, it might be worth asking the cinema whether it would help choose or supply films.
+- **Tom:** A partnership could work, provided the screening fees and responsibilities are agreed in advance.
+- **Asha:** The village should also check whether enough volunteers can operate the equipment safely.
+- **Tom:** Yes. Good intentions alone will not keep the screenings running if nobody can manage them.
+
+1. Why might village screenings serve a different audience?
+   - A. The cinema has announced its permanent closure / B. The village hall will show films every day / C. Some residents cannot easily travel to the cinema in the evening
+   - **答案：C** — 村民晚上不易前往二十英里外的戲院，因此可能服務不同觀眾。
+2. What condition does Tom attach to a partnership?
+   - A. Make all screenings free regardless of costs / B. Agree fees and responsibilities beforehand / C. Let either organisation change the terms without discussion
+   - **答案：B** — Tom 認為合作前應先商定放映費和各方責任。
+3. What additional issue could affect long-term operation?
+   - A. Whether enough volunteers can safely run the equipment / B. Whether the partnership can supply films without trained local operators / C. Whether villagers would prefer weekly screenings at the town cinema
+   - **答案：A** — 活動能否持續亦取決於是否有足夠義工安全操作設備。
+
+---
+
+## b2-101 · A city rooftop garden
+
+**B2 / 鄉村與城市生活**
+
+- **Victor:** The rooftop garden looks attractive, but I wonder who will maintain it once the opening photographs are taken.
+- **Mina:** The building manager has offered some staff time, and a residents’ group wants to help with planting.
+- **Victor:** Volunteers are valuable, though they may not be able to inspect drains or repair safety barriers.
+- **Mina:** The draft budget includes a professional inspection twice a year, but it does not cover extra repairs.
+- **Victor:** Then residents should see the likely costs before they vote on the project.
+- **Mina:** Agreed. We can support the idea while asking for a realistic plan for the years after opening.
+
+1. What distinction does Victor make about maintenance?
+   - A. The residents’ group has offered to fund every future repair / B. Volunteers may plant, but some safety tasks need specialist work / C. Residents should be responsible for all structural repairs
+   - **答案：B** — Victor 指義工可協助種植，但排水及安全圍欄可能需要專業處理。
+2. What gap does Mina identify in the budget?
+   - A. Extra repair costs are not covered / B. No professional inspections are planned / C. There is no money for an opening photograph
+   - **答案：A** — 預算包含每年兩次專業檢查，卻未包括額外維修。
+3. What is their shared position?
+   - A. They oppose any resident involvement / B. They want a vote before residents see the costs / C. They support the idea subject to a credible maintenance plan
+   - **答案：C** — 他們支持構思，但要求有切實可行的長期保養計劃。
+
+---
+
+## b2-102 · The honey subscription
+
+**B2 / 本地產品**
+
+- **Holly:** The beekeeper is offering a subscription with one jar each month, but this year the early harvest was unusually small.
+- **Dinesh:** Can she promise twelve local jars before she knows how the later harvest will turn out?
+- **Holly:** She suggests smaller jars if necessary, or a credit towards next season when there is not enough honey.
+- **Dinesh:** Those are different offers. Customers should choose whether they want less honey now or to wait for their full amount.
+- **Holly:** I will ask her to put both options in the order form before taking payments.
+- **Dinesh:** That should help. A subscription can support production without leaving customers uncertain about what happens after a poor harvest.
+
+1. What uncertainty affects the subscription?
+   - A. The final harvest may not supply the promised amount / B. The beekeeper has not decided which county to sell in / C. Customers have already rejected monthly deliveries
+   - **答案：A** — 早期收成偏少，全年能否提供承諾的蜜糖份量仍不確定。
+2. Why does Dinesh distinguish smaller jars from a future credit?
+   - A. The two options must always cost exactly the same / B. Either option guarantees a larger harvest next season / C. They meet different preferences about quantity and waiting
+   - **答案：C** — 少量即時供應和等候下季有不同取捨，應讓顧客選擇。
+3. What should be done before collecting payment?
+   - A. Choose the credit option for every customer / B. Explain the alternatives on the order form / C. Promise the usual jar size regardless of the harvest
+   - **答案：B** — Holly 會要求先在訂購表寫清楚兩個選項，才收款。
+
+---
+
+## b2-103 · An order of linen aprons
+
+**B2 / 本地產品**
+
+- **Paula:** The local workshop can make our café aprons for September, but the plain fabric is available a month earlier than the striped one.
+- **Reece:** Do we need matching aprons for the opening, or could the kitchen use plain ones first?
+- **Paula:** The manager likes a consistent appearance, although customers rarely see the kitchen team.
+- **Reece:** Then ask whether consistency matters across the whole staff or mainly at the counter.
+- **Paula:** We could place a smaller first order, provided the workshop can repeat the colour later.
+- **Reece:** Check that before splitting it. A later batch may differ slightly, even when it uses the same fabric description.
+
+1. What is the main reason to consider plain fabric?
+   - A. It is confirmed to cost less / B. It is made by a different local workshop / C. It can be supplied earlier
+   - **答案：C** — 素色布料較早有貨，但對話未確認價格較低。
+2. What does Reece want the manager to clarify?
+   - A. Why the café employs both kitchen and counter staff / B. Which staff need to have the same appearance / C. Whether customers can enter the kitchen
+   - **答案：B** — Reece 希望先釐清統一外觀是否適用於所有員工，還是主要指櫃枱員工。
+3. What risk would splitting the order create?
+   - A. Aprons from a later batch might not match exactly / B. The workshop would necessarily miss the September deadline / C. Striped aprons would no longer be available
+   - **答案：A** — 即使布料描述相同，不同批次的顏色仍可能有些微差異。
+
+---
+
+## b2-104 · Selling surplus herbs
+
+**B2 / 本地產品**
+
+- **Anya:** The community greenhouse has more herbs than its volunteers can use, so we are considering selling small bundles.
+- **Colin:** That could cover seed costs, but fresh herbs spoil quickly if the market is quiet.
+- **Anya:** We could take advance orders and harvest only what has been requested.
+- **Colin:** Good, although leave a small amount for people who cannot order online.
+- **Anya:** A paper order list at the library might help too, and we could donate any safe surplus afterwards.
+- **Colin:** Let us check the market’s food-handling rules before promising how the bundles will be packed.
+
+1. What problem are advance orders intended to reduce?
+   - A. The cost of a permanent supermarket building / B. Harvesting more herbs than can be sold fresh / C. The need to grow herbs in a greenhouse
+   - **答案：B** — 預訂可讓義工按需要採收，減少新鮮香草賣不出的浪費。
+2. Why does Colin suggest keeping some herbs for the market?
+   - A. Some customers cannot place orders online / B. Online orders are not permitted at all / C. The greenhouse has no way to harvest in advance
+   - **答案：A** — Colin 考慮到部分人不能網上訂購。
+3. What must they establish before finalising packaging?
+   - A. Whether advance orders must close before the market opens / B. Whether the library can store every bundle until collection / C. The market’s food-handling requirements
+   - **答案：C** — 包裝前應先確認市集的食物處理規定。
+
+---
+
+## b2-105 · A repaired fishing net
+
+**B2 / 本地產品**
+
+- **Rory:** A local maker wants to turn worn fishing nets into bags and says the material would otherwise be discarded.
+- **Elif:** That sounds promising, but are the nets beyond repair or simply inconvenient for the original owner to store?
+- **Rory:** The maker says usable nets will be offered to fishing groups first, and damaged ones will be cleaned for the bags.
+- **Elif:** That order makes sense. Keeping a net in use could save more material than converting it immediately.
+- **Rory:** We should ask how cleaning is handled too, because the process may use water and energy.
+- **Elif:** Yes. Reuse has benefits, but a clear description helps people judge the whole process.
+
+1. Why does Elif ask whether the nets can be repaired?
+   - A. Keeping a usable net in service may be preferable to converting it / B. Fishing groups might prefer new nets even when the old ones remain usable / C. Converting a usable net might require less cleaning than repairing it
+   - **答案：A** — Elif 認為可用漁網繼續使用，可能比立即改造成袋更節省材料。
+2. What happens to usable nets under the maker’s plan?
+   - A. They are automatically cut up for bags / B. They are stored without anyone being offered them / C. They are offered to fishing groups before conversion
+   - **答案：C** — 製作者會先把仍可用的漁網提供給漁業團體。
+3. Why do they want information about cleaning?
+   - A. To confirm that all damaged nets use the same amount of energy to clean / B. To consider resources used as well as potential reuse benefits / C. To show that all reused materials have no environmental impact
+   - **答案：B** — 清洗也可能消耗水和能源，因此需要整體評估。
+
+---
+
+## b2-106 · Craft labels at the market
+
+**B2 / 本地產品**
+
+- **Sian:** Several stalls use the phrase handmade locally, but some assemble imported parts while others make every part here.
+- **Arun:** Both may involve local work, although customers might expect the same process from that phrase.
+- **Sian:** Would it help to describe the main steps on a small card at each stall?
+- **Arun:** Yes, if sellers can explain honestly which parts they make and which they buy in.
+- **Sian:** We could provide a shared template without insisting that everyone follows the same production method.
+- **Arun:** That would make comparison easier while leaving room for different kinds of craftsmanship.
+
+1. Why might the same label confuse customers?
+   - A. Every stall sells identical imported products / B. Customers may already know which imported parts each maker uses / C. Different sellers use different degrees of local production
+   - **答案：C** — 「本地手製」可能涵蓋不同程度的本地製作，客人未必知道差異。
+2. What is the purpose of the proposed cards?
+   - A. Replace conversations with customers altogether / B. Explain how each product is made and where bought-in parts are used / C. Force every stall to manufacture identical products
+   - **答案：B** — 卡片可說明製作步驟及哪些零件是外購。
+3. What does Arun value in the shared template?
+   - A. Clear comparison without demanding one production method / B. A guarantee that every component is local / C. A way to prevent sellers discussing their work
+   - **答案：A** — 統一格式有助比較，同時容許不同工藝方式。
+
+---
+
+## b2-107 · The mushroom delivery
+
+**B2 / 本地產品**
+
+- **Rina:** The restaurant wants mushrooms from a small nearby grower, but the grower can deliver only on Wednesdays.
+- **Paul:** Could the chef design a special for Thursday, when the mushrooms are freshest?
+- **Rina:** Possibly, although demand varies and unsold mushrooms may not keep until the following week.
+- **Paul:** Then the restaurant could agree a modest regular order and adjust it after seeing how much is used.
+- **Rina:** The grower also asked for two days’ notice of changes, so they can plan the harvest.
+- **Paul:** That sounds workable if both sides review the quantities rather than promising a large order immediately.
+
+1. What concern does Rina raise?
+   - A. The chef refuses to use fresh ingredients / B. A large order may not sell before the mushrooms spoil / C. The grower cannot deliver on any weekday
+   - **答案：B** — 需求不穩定，大量蘑菇可能在售出前變壞。
+2. Why does the grower want notice of changes?
+   - A. To plan the harvest / B. To avoid communicating with the restaurant / C. To make every delivery a week late
+   - **答案：A** — 種植者需要時間計劃採收。
+3. Which arrangement do they favour?
+   - A. Commit immediately to the largest possible order / B. Wait until the mushrooms spoil before ordering / C. Start with a modest order and review quantities together
+   - **答案：C** — 他們建議先少量定期訂購，再根據實際用量調整。
+
+---
+
+## b2-108 · The school time capsule
+
+**B2 / 童年回憶**
+
+- **Poppy:** At the reunion they opened our school time capsule. My letter said I wanted to be a gardener, which surprised me.
+- **Evan:** You often say you had always planned to become a nurse. How old were you when you wrote it?
+- **Poppy:** Only eight. I remember enjoying the school garden, but I thought nursing had been my ambition even then.
+- **Evan:** Perhaps your later decision has become the beginning of the story you tell about yourself.
+- **Poppy:** The letter does not make that decision less important; it just shows there were other interests before it.
+- **Evan:** Exactly. You can keep the career story while giving your younger self more than one possible future.
+
+1. Why does the letter surprise Poppy?
+   - A. It reveals an early ambition different from the one she usually recalls / B. It describes a career she has already retired from / C. It was written much later than she remembered
+   - **答案：A** — 信中寫她想做園丁，與她一直說自己從小想做護士的記憶不同。
+2. What explanation does Evan suggest?
+   - A. The school probably placed another pupil’s letter in the capsule / B. The letter proves she never enjoyed nursing / C. A later decision may have shaped her account of earlier years
+   - **答案：C** — Evan 推測她後來的職業選擇可能影響了她對童年的敘述。
+3. How does Poppy interpret the new evidence?
+   - A. It establishes that gardening was her only serious ambition / B. It adds an earlier interest without diminishing her later choice / C. It means her later choice was based on a false qualification
+   - **答案：B** — Poppy 認為信件補充了早期興趣，並沒有削弱後來選擇護士的重要性。
+
+---
+
+## b2-109 · The first solo errand
+
+**B2 / 童年回憶**
+
+- **Marta:** I remember being sent to buy bread alone and feeling that the shop was very far from home.
+- **Chris:** When we walked past it last year, it seemed only a few minutes away.
+- **Marta:** Perhaps the journey felt longer because I had never crossed that road without an adult.
+- **Chris:** That sounds possible, though the route may have changed since then.
+- **Marta:** Either way, I still remember the pride of bringing the right loaf back.
+- **Chris:** The feeling can be real even when the exact distance or route is difficult to reconstruct.
+
+1. Why might the journey have seemed long to Marta?
+   - A. The shop was certainly in another town / B. She had to carry several heavy bags / C. It was unfamiliar and she was travelling alone
+   - **答案：C** — Marta 推測第一次獨自過馬路令路程感覺較長。
+2. What alternative does Chris mention?
+   - A. The bread was probably delivered / B. The route might have changed / C. The shop may never have existed
+   - **答案：B** — Chris 提出路線其後可能改變。
+3. What distinction does Chris make?
+   - A. An emotion can be remembered even if practical details are uncertain / B. The journey must have been short in every year / C. Feelings are always more precise than maps
+   - **答案：A** — 即使距離或路線未能確定，她記得的自豪感仍然可以是真實的。
+
+---
+
+## b2-110 · The sewing tin
+
+**B2 / 童年回憶**
+
+- **Dawn:** I found my grandmother’s sewing tin, and the smell reminded me of sitting beside her after school.
+- **Yusuf:** Do you remember learning to sew, or mainly watching her work?
+- **Dawn:** Mostly watching. I used to think I made the blue cushion, but my aunt says I only chose the buttons.
+- **Yusuf:** You could have helped in that smaller way and later remembered the whole project as yours.
+- **Dawn:** I like that explanation, though I cannot be certain without asking my grandmother.
+- **Yusuf:** The buttons still mattered to the finished cushion, even if someone else did the stitching.
+
+1. What triggered Dawn’s memory?
+   - A. Receiving a letter from her grandmother / B. Finding the sewing tin and noticing its smell / C. Seeing a new cushion in a shop
+   - **答案：B** — 縫紉盒的氣味令 Dawn 想起童年放學後陪伴祖母。
+2. What difference exists between Dawn’s memory and her aunt’s account?
+   - A. Dawn recalls making the cushion; her aunt remembers her choosing buttons / B. Dawn remembers buttons; her aunt denies there was a cushion / C. Both agree Dawn completed every stitch alone
+   - **答案：A** — Dawn 以為自己做了整個靠墊，姨媽則記得她只選了鈕扣。
+3. What does Yusuf suggest about the smaller contribution?
+   - A. It proves the aunt’s memory is definitely correct / B. It has no connection to the cushion / C. It still played a part in the finished item
+   - **答案：C** — Yusuf 指出即使只選鈕扣，也對完成品有貢獻。
+
+---
+
+## b2-111 · A playground rule
+
+**B2 / 童年回憶**
+
+- **Kofi:** At my old school we played a game where the person who was caught chose the next activity.
+- **Lily:** That differs from the version I knew, where the winner chose.
+- **Kofi:** I wonder whether our class changed the rule so that younger children could take part more easily.
+- **Lily:** Possibly, but it could simply have been the version your teacher learned.
+- **Kofi:** I will ask a former classmate before writing that explanation in our reunion booklet.
+- **Lily:** Even then, call it a recollection unless someone finds a written rule from the time.
+
+1. How did Kofi’s version differ from Lily’s?
+   - A. The caught player, rather than the winner, chose the next activity / B. Nobody was allowed to choose the next activity / C. Only teachers could take part in the game
+   - **答案：A** — Kofi 的版本由被捉到的人選下一項活動，Lily 的版本則由勝出者選擇。
+2. Why does Lily suggest describing the explanation as a recollection?
+   - A. Written rules never provide any evidence / B. The game was played at a different school last week / C. The reason for the rule is not yet established
+   - **答案：C** — 他們尚未知道規則的真正來源，應把推測或回憶說清楚。
+3. What does Kofi intend to do before writing?
+   - A. Remove every mention of the reunion / B. Ask a former classmate about the game / C. State his theory as a proven fact
+   - **答案：B** — Kofi 打算先問舊同學，才寫入紀念冊。
+
+---
+
+## b2-112 · The ferry crossing
+
+**B2 / 童年回憶**
+
+- **Bea:** My earliest holiday memory is a rough ferry crossing, though my parents remember a calm sea.
+- **Malik:** Were you frightened of boats at the time? That might have made small movements feel dramatic.
+- **Bea:** I was, but my brother says the crossing was delayed by wind on another trip.
+- **Malik:** Perhaps details from two journeys have become connected. Do your parents still have their travel dates?
+- **Bea:** They kept the tickets, so we might compare the dates with my brother’s photographs.
+- **Malik:** It would be interesting to check, without assuming that any one person remembers the whole story perfectly.
+
+1. What might explain Bea’s vivid recollection of a rough crossing?
+   - A. Her parents definitely travelled on a different ship / B. The ferry was cancelled before she boarded / C. Fear may have made ordinary movement feel more dramatic
+   - **答案：C** — Malik 推測她當時怕船，小幅搖晃也可能令她感覺強烈。
+2. What evidence might help distinguish the trips?
+   - A. A description of an unrelated holiday / B. Tickets and dated photographs / C. A new ferry timetable alone
+   - **答案：B** — 船票日期與照片可能有助區分兩次旅程。
+3. What approach does Malik recommend?
+   - A. Compare evidence while accepting that memories may be incomplete / B. Treat Bea’s memory as certainly false / C. Assume the delay proves both trips had rough seas
+   - **答案：A** — Malik 建議比較證據，同時承認每個人的記憶都可能不完整。
+
+---
+
+## b2-113 · The school assembly song
+
+**B2 / 童年回憶**
+
+- **Maya:** I can still sing the chorus from our school assembly, but I cannot remember the rest of the words.
+- **Theo:** I remember a different chorus, even though we attended the same school.
+- **Maya:** We were there three years apart, so perhaps the music changed between us.
+- **Theo:** Or one of us is combining it with a song from another occasion.
+- **Maya:** The school archive has old programmes, though they may name the song without printing its lyrics.
+- **Theo:** They could still give us a clue. We should avoid filling in missing words simply because they sound familiar.
+
+1. Why could Maya and Theo remember different songs accurately?
+   - A. The archive contains separate versions of every lyric / B. The school’s music may have changed between their years there / C. The programmes show that both attended the same assembly
+   - **答案：B** — 兩人相差三年入學，學校歌曲可能已改變。
+2. What limitation might the programmes have?
+   - A. They may identify the song without giving the words / B. They may give the words without naming the song / C. They may describe the songs that pupils wrote themselves
+   - **答案：A** — 舊節目單可能只列歌名，沒有歌詞。
+3. What does Theo warn against?
+   - A. Assuming every programme contains the complete lyrics / B. Relying on the archive to establish when the school opened / C. Inventing missing words on the basis of familiarity
+   - **答案：C** — Theo 提醒不要因某些字聽起來熟悉，就自行補作缺失的歌詞。
+
+---
+
+## b2-114 · Refilling printer cartridges
+
+**B2 / 污染與回收**
+
+- **Eve:** Our office wants to refill printer cartridges instead of buying new ones every time.
+- **Samir:** That could reduce waste, but we should check whether the supplier accepts cartridges that can no longer be refilled.
+- **Eve:** The quotation includes collection, though it does not explain what happens after a cartridge fails inspection.
+- **Samir:** Ask for a written account of reuse and recycling, rather than relying on the word sustainable.
+- **Eve:** We should also run a small print-quality trial before replacing the current contract.
+- **Samir:** Agreed. A greener option still needs to work well enough that staff do not reprint everything.
+
+1. What information is missing from the quotation?
+   - A. What happens to cartridges that cannot be refilled / B. The day the office opened / C. The names of all printer users
+   - **答案：A** — 報價沒有說明不合格墨盒在收集後如何處理。
+2. Why do they want a print-quality trial?
+   - A. They intend to stop using paper immediately / B. They already know the new supplier is unreliable / C. Poor results could lead to wasteful reprinting
+   - **答案：C** — 若列印效果差而要重印，可能抵銷減廢好處。
+3. What does Samir want from the supplier?
+   - A. A promise that every cartridge lasts forever / B. Specific evidence about reuse and recycling / C. A general environmental slogan only
+   - **答案：B** — Samir 希望取得具體的重用和回收安排，而非只看籠統宣傳。
+
+---
+
+## b2-115 · A shaded school courtyard
+
+**B2 / 污染與回收**
+
+- **Chloe:** The school plans to plant trees in the courtyard to provide shade during hotter weather.
+- **Dev:** That sounds useful, although the young trees will need water and protection while they become established.
+- **Chloe:** The first proposal sets money aside for planting but nothing for care after the first summer.
+- **Dev:** Could the parent group help, with a caretaker checking that the work is done safely?
+- **Chloe:** Perhaps, but the school should budget for periods when volunteers are unavailable.
+- **Dev:** Yes. The environmental benefit depends on the trees surviving, so maintenance belongs in the plan.
+
+1. What gap does Chloe identify in the proposal?
+   - A. It provides no space for any trees / B. It requires the school to remove the courtyard / C. It lacks a plan for care beyond the first summer
+   - **答案：C** — 方案為種樹預留資金，卻沒有安排第一個夏天後的照顧。
+2. Why might volunteers alone be insufficient?
+   - A. They can guarantee the trees need no water / B. They may not always be available / C. They are forbidden to help with plants
+   - **答案：B** — 義工未必任何時間都能幫忙，因此學校仍需預算。
+3. What does Dev mean by including maintenance?
+   - A. Long-term care is needed for the trees to provide the intended benefit / B. Planting photographs are enough to measure success / C. The school should wait until all trees are fully grown before planning
+   - **答案：A** — 樹木要存活才能提供預期的遮蔭和環境效益。
+
+---
+
+## b2-116 · The water bottle deposit
+
+**B2 / 污染與回收**
+
+- **Amal:** The sports centre is considering a deposit on reusable water bottles sold at events.
+- **Iain:** A deposit might encourage returns, but only if people know where and when to bring the bottles back.
+- **Amal:** The desk closes before some evening classes finish, so that could be a problem.
+- **Iain:** A secure return box might help, provided staff can identify returned bottles and refund deposits fairly.
+- **Amal:** We should test the process at one event and record how many bottles come back.
+- **Iain:** And ask customers why they did not return them; the number alone may not explain the barrier.
+
+1. What practical obstacle does Amal identify?
+   - A. The centre has no evening classes / B. The return desk closes before some classes end / C. All bottles must be returned before purchase
+   - **答案：B** — 部分晚間課堂結束時，退瓶櫃枱已關閉。
+2. What must a return box allow staff to do?
+   - A. Identify returns and issue refunds fairly / B. Guarantee that bottles never need cleaning / C. Close the centre earlier
+   - **答案：A** — 退瓶箱須令職員能確認退還並公平退回按金。
+3. Why ask customers about non-returns?
+   - A. A survey can replace counting the bottles / B. All customers are already known to dislike deposits / C. The return count alone may not reveal the reasons
+   - **答案：C** — 單看回收數字未必知道障礙，詢問原因可補足資料。
+
+---
+
+## b2-117 · Noise from a new fan
+
+**B2 / 污染與回收**
+
+- **Hugo:** The restaurant installed an energy-efficient extraction fan, but the neighbours say it is noisy at night.
+- **Lina:** Saving energy is worthwhile, yet it does not remove the need to deal with the noise.
+- **Hugo:** The engineer suggests a quieter setting, although it may extract less air during the busiest hour.
+- **Lina:** Could they measure both ventilation and noise at different settings before deciding?
+- **Hugo:** Yes, and the restaurant should tell neighbours when the tests will take place.
+- **Lina:** That way the decision can consider working conditions and nearby residents, rather than guessing about either.
+
+1. What trade-off does the quieter setting introduce?
+   - A. It may reduce extraction during the busiest period / B. It would automatically close the restaurant / C. It increases daylight in neighbouring homes
+   - **答案：A** — 較安靜設定可能在繁忙時段減少抽風量。
+2. Why does Lina suggest measuring both factors?
+   - A. To avoid speaking to the neighbours / B. To prove that energy use is irrelevant / C. To judge ventilation and noise using evidence
+   - **答案：C** — 同時量度通風和噪音可根據證據作決定。
+3. How should the restaurant involve neighbours?
+   - A. Keep test dates secret until after the decision / B. Tell them when the tests will happen / C. Ask them to operate the fan without training
+   - **答案：B** — 餐廳應預先告知鄰居測試時間。
+
+---
+
+## b2-118 · Borrowing event banners
+
+**B2 / 污染與回收**
+
+- **Fatima:** The festival committee wants new banners each year because the old ones show the date.
+- **Lee:** Could the main design be reused with a separate panel for the changing date?
+- **Fatima:** That might cost more initially, and we would need somewhere dry to store it.
+- **Lee:** We should compare the likely cost over several years and include storage and cleaning.
+- **Fatima:** If other community groups can borrow the frame, it might be used more often as well.
+- **Lee:** Let us ask them first; sharing only saves materials if the design and booking arrangements suit them.
+
+1. Why are the present banners difficult to reuse?
+   - A. They are owned by another festival / B. They have never been used outdoors / C. The event date is printed on them
+   - **答案：C** — 舊橫額印有年份或日期，因此每年都需要更換。
+2. What costs should the comparison include?
+   - A. The initial price without any estimate of later costs / B. Storage and cleaning as well as the initial purchase / C. Only the cost of replacing the date panel each year
+   - **答案：B** — Lee 建議比較多年成本，包括儲存和清潔。
+3. Why does Lee want to consult other groups?
+   - A. A shared frame must meet their practical needs to be used / B. Borrowing automatically eliminates every expense / C. The committee has already transferred ownership
+   - **答案：A** — 共享架構只有適合其他團體及方便預約，才可能真正節省材料。
+
+---
+
+## b2-119 · A public notice board
+
+**B2 / 主題討論**
+
+- **Holly:** The library wants a notice board for local groups, but the space is too small for every poster.
+- **Zane:** A fixed display period might give more groups a chance, although urgent notices may need exceptions.
+- **Holly:** Who should decide which notices are urgent? A vague rule could lead to complaints.
+- **Zane:** The library could publish simple criteria and explain a way to ask for a review.
+- **Holly:** I would also reserve a little space for handwritten notices from people without printers.
+- **Zane:** That makes sense. Fair access depends on both the selection rules and how easy it is to submit.
+
+1. What problem is the library trying to manage?
+   - A. The number of groups asking the library to print their posters / B. Limited space for competing notices / C. The time staff spend choosing a different printer for each group
+   - **答案：B** — 告示板空間有限，無法展示所有海報。
+2. Why does Holly question an urgency exception?
+   - A. An unclear rule could seem unfair / B. Urgent notices are always unnecessary / C. Libraries cannot publish selection criteria
+   - **答案：A** — 模糊的緊急例外可能引起公平性爭議。
+3. What does Zane include in fair access?
+   - A. Choosing notices solely by the quality of printing / B. Allowing one group to keep its poster indefinitely / C. Clear selection rules and accessible ways to submit
+   - **答案：C** — Zane 認為公平不只涉及選擇規則，也包括提交方式是否方便。
+
+---
+
+## b2-120 · Should meetings be recorded?
+
+**B2 / 主題討論**
+
+- **Nora:** Recording the committee meeting would help members who cannot attend, but some people may speak less freely.
+- **Jude:** A written summary could provide the decisions without recording every comment.
+- **Nora:** That would miss useful explanations when a decision is complicated.
+- **Jude:** Then the summary could include the main reasons and a contact for questions, without naming every speaker.
+- **Nora:** We should still ask members whether they prefer that option and explain how the notes will be shared.
+- **Jude:** Agreed. The aim is useful access, while giving people a fair chance to understand what is recorded.
+
+1. What concern does Nora raise about recording?
+   - A. Members may be less willing to speak openly / B. People absent from the meeting would gain no access / C. The committee would be unable to make decisions
+   - **答案：A** — Nora 擔心錄影可能令部分人不敢暢所欲言。
+2. How might the summary retain useful context?
+   - A. List decisions without any explanation / B. Name every speaker and quote every comment / C. Include main reasons and a contact for follow-up
+   - **答案：C** — Jude 建議記錄主要理由並提供查詢聯絡人。
+3. What should happen before adopting the approach?
+   - A. Assume all members prefer video recordings / B. Ask members and explain how notes will be shared / C. Publish everyone’s comments without notice
+   - **答案：B** — 他們應先徵詢成員意見，並說明筆記的分享方式。
+
+---
+
+## b2-121 · Choosing a volunteer shift
+
+**B2 / 主題討論**
+
+- **Vera:** The shelter asks volunteers to commit to the same evening every week, but my shifts at work change.
+- **Dylan:** Regular cover helps the shelter plan, although a rigid rule might exclude reliable people with changing hours.
+- **Vera:** Could I offer two possible evenings each month instead of promising a weekly slot?
+- **Dylan:** You could ask. They would need enough notice to fill gaps and might still prefer weekly commitments.
+- **Vera:** I do not want to promise more than I can deliver just to be accepted.
+- **Dylan:** Being clear about your availability is useful to them, even if this particular role does not fit.
+
+1. What competing needs do they identify?
+   - A. Vera wants more shifts than the shelter can advertise / B. The shelter requires every volunteer to work from home / C. The shelter needs predictable cover while Vera’s hours vary
+   - **答案：C** — 機構需要穩定人手，而 Vera 的工作時間卻會變動。
+2. Why does Dylan suggest asking rather than assuming?
+   - A. All roles are guaranteed to fit variable schedules / B. The shelter may accept alternatives but has its own staffing needs / C. Two evenings must legally replace a weekly shift
+   - **答案：B** — 替代安排可能可行，但仍要視乎機構的人手需要。
+3. What principle guides Vera’s decision?
+   - A. Make a realistic commitment she can honour / B. Promise any schedule and cancel later / C. Avoid telling the shelter about her work
+   - **答案：A** — Vera 不想為獲接納而承諾超出自己能力的時間。
+
+---
+
+## b2-122 · A bench with a plaque
+
+**B2 / 主題討論**
+
+- **Megan:** A family has offered to pay for a bench in the park with a plaque remembering their relative.
+- **Owen:** That sounds generous, but we should check the location does not obstruct the path.
+- **Megan:** The suggested spot has a good view, although a wheelchair user mentioned that the ground is uneven.
+- **Owen:** Perhaps the family would consider another position if it has a level approach and the same view.
+- **Megan:** We should also explain who will maintain the bench after it is installed.
+- **Owen:** Yes. A thoughtful memorial needs to work for visitors and the park team over time.
+
+1. Why might the proposed location need changing?
+   - A. The park has no views at all / B. Uneven ground may make access difficult / C. The family no longer wants a memorial
+   - **答案：B** — 有人指出建議地點地面不平，可能影響輪椅使用者接近。
+2. What alternative does Owen propose?
+   - A. A level position that keeps the view / B. Removing every bench from the park / C. Placing the bench across the path
+   - **答案：A** — 他建議尋找同樣有景觀、但通道平坦的位置。
+3. What additional responsibility needs clarification?
+   - A. Who will attend every visit to the park / B. Who owns the view from the bench / C. Who will maintain the bench
+   - **答案：C** — 安裝後由誰保養長椅亦需要事先說明。
+
+---
+
+## b2-123 · Sharing a recipe online
+
+**B2 / 主題討論**
+
+- **Ali:** I want to post my neighbour’s soup recipe, but she showed it to me during a private visit.
+- **Catherine:** Even if the ingredients are ordinary, asking her first would respect the way she shared it.
+- **Ali:** She might be pleased, though she may not want her name or family story included.
+- **Catherine:** You could offer those choices separately, rather than treating permission to share as permission to name her.
+- **Ali:** I will show her the draft and ask whether she wants any changes before it goes online.
+- **Catherine:** That gives her a chance to decide what she is comfortable sharing.
+
+1. Why does Catherine recommend asking the neighbour?
+   - A. The recipe was shared in a private setting / B. The neighbour has already agreed to publish the recipe under Ali’s name / C. The neighbour has already demanded publication
+   - **答案：A** — 食譜是在私人探訪時分享，先徵求同意較尊重對方。
+2. What distinction does Catherine draw?
+   - A. Acknowledging the neighbour would make asking her unnecessary / B. Removing the family story would automatically permit publication / C. Permission to share a recipe does not necessarily include permission to name its source
+   - **答案：C** — 同意分享食譜不一定等於同意公開姓名或家族故事。
+3. What will Ali do before posting?
+   - A. Ask readers to identify the neighbour / B. Show the draft to the neighbour and invite changes / C. Publish the family story without showing her
+   - **答案：B** — Ali 會先讓鄰居看草稿並詢問是否需要修改。
+
+---
+
+## b2-124 · Clarifying an unfamiliar term
+
+**B2 / 互動階段理解**
+
+- **Host:** Some people think a repair scheme should be universal. How would you respond?
+- **Candidate:** Before I answer, do you mean available to every household or free for every repair?
+- **Host:** I mean that every household could apply, although there might be a charge according to income.
+- **Candidate:** In that case I support broad access, but I would want a simple application process.
+- **Host:** What concern lies behind that condition?
+- **Candidate:** If the form is difficult, people who most need help may be excluded even when they are formally eligible.
+
+1. Why does the candidate ask for clarification?
+   - A. The host has refused to discuss repair schemes / B. The candidate has already decided all repairs must be free / C. The word universal could describe access or cost
+   - **答案：C** — universal 可指人人有申請資格，也可指所有維修免費，候選人需要確認。
+2. What does the host mean by universal?
+   - A. Only households above a fixed income may apply / B. Every household can apply, with possible income-related charges / C. Every repair is free for every household
+   - **答案：B** — 主持人指所有住戶均可申請，但費用可能按收入而定。
+3. Why does the candidate favour a simple form?
+   - A. Formal eligibility may be ineffective if applying is too difficult / B. A simple form guarantees every application will succeed / C. Income should never be considered in any scheme
+   - **答案：A** — 申請表過於困難可能阻礙真正有需要的人，即使他們符合資格。
+
+---
+
+## b2-125 · Responding to a counterexample
+
+**B2 / 互動階段理解**
+
+- **Nadia:** You said online appointments always save time. What about someone whose connection fails during the call?
+- **Elliot:** That is a fair counterexample. I should have said they can save travel time when the technology works.
+- **Nadia:** Would you therefore remove the online option entirely?
+- **Elliot:** No. I would keep it alongside face-to-face appointments and make it easy to switch after a technical problem.
+- **Nadia:** Some services have limited staff. How would you decide what balance to offer?
+- **Elliot:** I would look at demand and access needs, then review waiting times for both options.
+
+1. How does Elliot revise the original claim?
+   - A. He says no appointments should be offered / B. He limits it to potential travel savings when technology works / C. He insists online appointments always save time
+   - **答案：B** — Elliot 接受反例，將原先絕對的說法修正為科技正常時可能節省交通時間。
+2. What response does he propose after a connection failure?
+   - A. Make switching to another appointment format straightforward / B. Remove all in-person appointments / C. Ask patients to repeat the same failed call indefinitely
+   - **答案：A** — 他建議保留兩種方式，並在技術故障後方便轉換。
+3. What information would guide the balance of appointments?
+   - A. The number of bookings alone, regardless of who can use each format / B. Only the preference of staff already working on online appointments / C. Demand, access needs and waiting times
+   - **答案：C** — 他會考慮需求、使用需要及兩種方式的輪候時間。
+
+---
+
+## b2-126 · Making a suggestion more precise
+
+**B2 / 互動階段理解**
+
+- **Examiner:** You suggested improving the town centre. What is one change you would make first?
+- **Candidate:** I would improve access to the square, especially for people travelling on foot.
+- **Examiner:** That is quite broad. Can you give a specific example?
+- **Candidate:** I would widen the crossing’s waiting area, where people currently gather beside the road.
+- **Examiner:** How would you judge whether it had worked?
+- **Candidate:** I would observe crowding at different busy times and ask local users, including people with pushchairs or wheelchairs, about their experience.
+
+1. Why does the examiner request an example?
+   - A. The initial suggestion is too general to assess easily / B. The candidate has already provided a detailed cost / C. The square has been closed permanently
+   - **答案：A** — 候選人最初只說改善通行，考官希望聽到具體做法。
+2. Which change does the candidate identify?
+   - A. Removing all crossings from the square / B. Closing the town centre to pedestrians / C. Widening the waiting area at a crossing
+   - **答案：C** — 候選人建議擴闊過路處的等候空間。
+3. What would the proposed evaluation combine?
+   - A. Feedback only from people who designed the new crossing / B. Observations of crowding and feedback from varied users / C. Only a prediction made before the work
+   - **答案：B** — 候選人建議在繁忙時間觀察擠迫情況，並徵詢不同使用者意見。
+
+---
+
+## b2-127 · An offer with a condition
+
+**B2 / 互動階段理解**
+
+- **Organiser:** Would you be able to lead the Saturday walk if the usual guide is away?
+- **Volunteer:** I could, provided someone familiar with the route joins me for the first section.
+- **Organiser:** We can ask Priya, but she may need to leave after half an hour.
+- **Volunteer:** That would be enough for the part I have not walked before. I know the rest of the route.
+- **Organiser:** Shall I confirm you as leader now?
+- **Volunteer:** Please check with Priya first. If she cannot come, we should find another guide rather than assume I can lead safely.
+
+1. What condition does the volunteer set?
+   - A. Priya remains for the entire walk / B. The walk changes to a different day / C. A route-familiar person joins for the unfamiliar first section
+   - **答案：C** — 義工願意帶隊的條件是熟悉路線的人陪同走過不熟悉的首段。
+2. Why might Priya’s half hour be sufficient?
+   - A. The volunteer has never walked any of the route / B. It covers the section the volunteer does not know / C. It is the full duration of the walk
+   - **答案：B** — 義工熟悉其餘路段，半小時可覆蓋不熟悉的部分。
+3. What is the best next response by the organiser?
+   - A. Check whether Priya can join before confirming the volunteer / B. Announce the volunteer as leader without checking / C. Cancel Priya’s involvement and leave the route unchanged
+   - **答案：A** — 義工明確要求先確認 Priya 能否同行，才決定是否帶隊。
+
+---
+
+## b2-128 · Comparing two proposals
+
+**B2 / 互動階段理解**
+
+- **Panel member:** Your proposal costs more than the alternative. Why should the panel consider it?
+- **Applicant:** It includes training for local volunteers, while the cheaper proposal pays for equipment only.
+- **Panel member:** Are you saying the cheaper option has no benefits?
+- **Applicant:** Not at all. It might be suitable for a short project, but our training could help people maintain equipment afterwards.
+- **Panel member:** Can you guarantee volunteers will remain available?
+- **Applicant:** No. We have expressions of interest, not commitments, so the budget includes a review before the second year.
+
+1. What additional feature does the applicant’s proposal include?
+   - A. Free equipment for every household / B. Training for local volunteers / C. A guarantee of permanent volunteer availability
+   - **答案：B** — 較昂貴的方案包括培訓本地義工。
+2. How does the applicant characterise the cheaper option?
+   - A. It may suit a shorter project despite having a different scope / B. It has no possible benefits / C. It includes the same training at a lower price
+   - **答案：A** — 申請者承認較便宜方案可能適合短期項目，但內容不同。
+3. Why is there a review before the second year?
+   - A. The training is certain to remove the need for later maintenance / B. The cheaper proposal has already secured all the same volunteers / C. Volunteer interest does not guarantee future commitment
+   - **答案：C** — 目前只有義工表達興趣，未有承諾，因此需要檢討。
+
+---
+
+## b2-129 · The revised ferry timetable
+
+**B2 / 綜合聆聽**
+
+- **Mira:** The visitor centre sent us a timetable showing the last ferry at six, but the operator’s website now says five thirty.
+- **Cal:** The centre’s leaflet was printed in spring. The website may reflect the autumn schedule.
+- **Mira:** The crossing takes twenty minutes, and the coach leaves the mainland harbour at six fifteen. The six o’clock ferry arrives too late.
+- **Cal:** Let us telephone the operator to confirm the date and ask where passengers should wait.
+- **Mira:** If five thirty is correct, we can leave the museum earlier and buy food at the harbour.
+- **Cal:** Good. I will tell the rest of the group after we have confirmation, so nobody relies on an outdated leaflet.
+
+1. Why might the two ferry times differ?
+   - A. One source may show a newer seasonal timetable / B. The coach company operates the ferry / C. Both sources refer to the same printed leaflet
+   - **答案：A** — 旅客中心的單張較早印製，網站可能已更新秋季時間表。
+2. What would they change if the earlier ferry is confirmed?
+   - A. Take a coach before visiting the museum / B. Assume the ferry will wait until six / C. Leave the museum earlier and buy food at the harbour
+   - **答案：C** — 如果確認五時半開船，他們會提早離開博物館並在港口買食物。
+3. Why will Cal wait before informing the group?
+   - A. The group has decided not to travel / B. He wants the operator to confirm the current arrangements / C. He plans to hide the earlier sailing
+   - **答案：B** — Cal 想先向營辦商確認，避免大家依賴過時單張。
+
+---
+
+## b2-130 · A library display delivery
+
+**B2 / 綜合聆聽**
+
+- **Jenna:** The exhibition panels arrived today, but the stands listed on the delivery note are missing.
+- **Noor:** The supplier emailed yesterday to say the stands would travel separately and should arrive tomorrow morning.
+- **Jenna:** That helps. Our volunteers start arranging the display at noon, so there may still be enough time.
+- **Noor:** The email asks us to call by ten if the second delivery has not arrived, rather than waiting until noon.
+- **Jenna:** I will put a reminder in the diary and tell the volunteers that the start time is not yet guaranteed.
+- **Noor:** Please also keep the panels dry while we wait; the note says the printed surfaces can mark easily.
+
+1. Why are the stands absent from today’s delivery?
+   - A. They were removed permanently from the order / B. The volunteers have already collected them / C. They were sent separately and are expected tomorrow
+   - **答案：C** — 供應商電郵說明支架分開運送，預計明早送到。
+2. When should they contact the supplier if the stands do not arrive?
+   - A. Tomorrow at noon, when volunteers begin setting up / B. By ten tomorrow morning / C. After the volunteers have finished at noon
+   - **答案：B** — 電郵要求若未收到，應在明早十時前致電。
+3. Why will Jenna avoid promising the volunteers a definite start?
+   - A. The stands have not yet arrived / B. The panels are already damaged beyond use / C. The exhibition has been cancelled
+   - **答案：A** — 支架尚未送達，所以中午能否開始仍未確定。
+
+---
+
+## b2-131 · The corrected workshop fee
+
+**B2 / 綜合聆聽**
+
+- **Anil:** I registered for the bicycle maintenance workshop because the poster said ten pounds, but my confirmation asks for fifteen.
+- **Beth:** The organiser’s latest message says the poster omitted the materials charge, and apologises for the mistake.
+- **Anil:** Does everyone have to pay the extra five, even if they booked before the correction?
+- **Beth:** The message offers early bookers a choice: pay the revised total or cancel for a full refund by Friday.
+- **Anil:** I would still like to go, but I will check whether the total includes a basic repair kit to take home.
+- **Beth:** That is sensible. Reply before Friday if you decide to cancel, and keep the confirmation until the fee is clear.
+
+1. Why is the confirmation amount higher than the poster?
+   - A. Anil booked two places by mistake / B. The original poster omitted a materials charge / C. The organiser added a late-booking penalty
+   - **答案：B** — 原海報漏列材料費，因此確認信的總額較高。
+2. What choice is offered to early bookers?
+   - A. Accept the revised price or cancel for a full refund by Friday / B. Pay immediately with no possibility of cancellation / C. Attend free without contacting the organiser
+   - **答案：A** — 早期報名者可接受新總額，或在星期五前取消並取回全額退款。
+3. What does Anil still need to clarify?
+   - A. Whether the materials charge replaces the original booking fee / B. Whether the refund can still be requested after Friday / C. Whether a basic repair kit is included
+   - **答案：C** — Anil 想確認總費用是否包括可帶回家的基本維修工具包。
+
+---
+
+## b2-132 · The timetable attachment
+
+**B2 / 綜合聆聽**
+
+- **Lara:** The adult learning centre emailed our spring timetable, but the attachment still has the autumn dates at the top.
+- **Toby:** The message says rooms are unchanged. Does it actually confirm that the class dates are the same too?
+- **Lara:** No, it only mentions rooms. The booking page shows a later starting week, though the tutor has not replied yet.
+- **Toby:** Then let us ask the centre which document has the confirmed dates before we send a reminder.
+- **Lara:** I can draft it now, but I will leave the first date blank until we hear back.
+- **Toby:** Good. We can explain the discrepancy if anyone asks, without presenting a plausible date as a confirmed one.
+
+1. Why does the email fail to resolve the date discrepancy?
+   - A. It confirms the rooms but does not confirm the class dates / B. It explicitly cancels the spring course / C. It says the attachment contains the final corrected timetable
+   - **答案：A** — 電郵只確認課室不變，未確認上課日期，故未能解決日期不一致。
+2. What will Lara do while awaiting a reply?
+   - A. Send the autumn date to the whole class / B. Delete the booking page from the centre’s website / C. Draft a reminder without filling in the first date
+   - **答案：C** — Lara 會先起草提示訊息，待確認後才填入首課日期。
+3. Which response best follows Toby’s advice if a student asks now?
+   - A. The class will use the autumn dates because the rooms are unchanged / B. The documents differ, and we are checking the first date with the centre / C. The later date must be correct because it is on a website
+   - **答案：B** — Toby 建議如實說明資料有出入，待中心確認，而不要把合理猜測當作定案。
+
+---
+
+## b2-133 · A changed rehearsal room
+
+**B2 / 綜合聆聽**
+
+- **Rosa:** The choir’s message says the rehearsal has moved from Room Two to the upstairs hall because of a leak.
+- **Ken:** The hall is larger, but one member uses a wheelchair. Is the lift available this evening?
+- **Rosa:** The caretaker says it is working today, though the building closes at nine instead of the usual ten.
+- **Ken:** Then we should finish early enough to put the chairs away before closing.
+- **Rosa:** I will update the group now, including the lift information and the earlier finishing time.
+- **Ken:** Please ask people to reply if they need help getting in, so we can arrange it before they arrive.
+
+1. Why has the rehearsal moved?
+   - A. The choir has permanently left the building / B. The upstairs hall is the only room with chairs / C. There is a leak in the original room
+   - **答案：C** — 原來的二號房有漏水，因此排練改到樓上大廳。
+2. How does the earlier building closure affect the plan?
+   - A. The lift will necessarily stop working immediately / B. The choir must allow time to put away chairs before nine / C. The rehearsal can continue until ten as usual
+   - **答案：B** — 建築九時關門，因此要提早結束並留時間收拾椅子。
+3. Why does Ken ask members to reply about access?
+   - A. Support can be arranged before they arrive / B. The caretaker can decide whether the rehearsal needs to move again / C. A larger hall automatically provides suitable access for everyone
+   - **答案：A** — 先確認成員的進出需要，便可在他們到達前安排協助。
