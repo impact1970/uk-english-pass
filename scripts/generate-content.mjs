@@ -313,8 +313,15 @@ const lessons = scenarios.map((r, idx) => {
       engine_version:'v1.0', voice:'bf_isabella', accent:'British English', sample_rate_hz:24000,
       fallback:'SpeechSynthesis en-GB', model_license:'Apache-2.0', generated:'2026-11-05'
     },
-    rights: { licence:'CC BY-NC 4.0', author:'UK English Pass editorial corpus', original:true },
-    review_status:r.pending ? 'pending' : 'editorially-reviewed', version:'2026.11-regenerated'
+    rights: {
+      public_licence:'CC BY-NC 4.0',
+      commercial_app_licence:'UK English Pass Commercial App Licence 1.0',
+      author:'UK English Pass editorial corpus',
+      original:true
+    },
+    review_status:r.pending ? 'pending' : 'ai-editorially-reviewed',
+    human_review_status:'pending',
+    version:'2026.11-regenerated'
   }
 })
 
@@ -327,5 +334,5 @@ const csv = [['level','unit','lesson_id','question_id','type','prompt','answer',
 fs.mkdirSync(path.join(root, 'exports'), { recursive: true })
 fs.writeFileSync(path.join(root, 'exports', 'teacher-review.csv'), '\ufeff' + csv)
 const md = lessons.map(l => `## ${l.lesson_id} · ${l.title}\n\n**${l.level} / ${l.unit_zh_hk}**\n\n${l.script.map(t => `- **${t.speaker}:** ${t.text}`).join('\n')}\n\n${l.questions.map((x,i)=>`${i+1}. ${x.prompt}\n   - ${x.options.map(o=>`${o.id}. ${o.text}`).join(' / ')}\n   - **答案：${x.answer}** — ${x.explanation_zh_hk}`).join('\n')}`).join('\n\n---\n\n')
-fs.writeFileSync(path.join(root, 'exports', 'teacher-review.md'), `# UK English Pass 題庫教師審閱版\n\n> 2026.11 重新製作原創版本。\n\n${md}\n`)
+fs.writeFileSync(path.join(root, 'exports', 'teacher-review.md'), `# UK English Pass 題庫教師審閱版\n\n> 2026.11 重新製作原創版本；AI 編輯覆核及結構驗證已完成，獨立真人專業覆核待簽署。\n\n${md}\n`)
 console.log(`Generated ${lessons.length} lessons and ${lessons.reduce((n,l)=>n+l.questions.length,0)} questions.`)

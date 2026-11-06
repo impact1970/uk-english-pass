@@ -11,6 +11,13 @@ export interface Lesson {
     voice: 'bf_isabella'; accent: 'British English'; sample_rate_hz: 24000; fallback: 'SpeechSynthesis en-GB';
     model_license: 'Apache-2.0'; generated?: string;
   };
-  rights: { licence: string; author: string; original: true };
-  review_status: 'pending' | 'editorially-reviewed'; version: string;
+  rights: {
+    public_licence: 'CC BY-NC 4.0';
+    commercial_app_licence: 'UK English Pass Commercial App Licence 1.0';
+    author: string;
+    original: true;
+  };
+  review_status: 'pending' | 'ai-editorially-reviewed';
+  human_review_status: 'pending' | 'approved' | 'approved-with-changes';
+  version: string;
 }

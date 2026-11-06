@@ -51,10 +51,12 @@ describe('lesson corpus', () => {
 
   it('includes valid rights, review, and audio metadata', () => {
     for (const lesson of data) {
-      expect(lesson.rights.licence).toBeTruthy()
+      expect(lesson.rights.public_licence).toBe('CC BY-NC 4.0')
+      expect(lesson.rights.commercial_app_licence).toBe('UK English Pass Commercial App Licence 1.0')
       expect(lesson.rights.author).toBeTruthy()
       expect(lesson.rights.original).toBe(true)
-      expect(['pending', 'editorially-reviewed']).toContain(lesson.review_status)
+      expect(['pending', 'ai-editorially-reviewed']).toContain(lesson.review_status)
+      expect(['pending', 'approved', 'approved-with-changes']).toContain(lesson.human_review_status)
       expect(['pending', 'ready']).toContain(lesson.audio.status)
       expect(lesson.audio.voice).toBe('bf_isabella')
       expect(lesson.audio.engine).toBe('Kokoro-82M')

@@ -14,6 +14,10 @@ pnpm dev
 
 題庫位於 `src/data/lessons.json`。它由 `scripts/generate-content.mjs` 產生，並經 `scripts/validate-content.mjs` 與測試檢查總數、B1/B2 分佈、單元覆蓋、唯一 ID、題目與選項、答案鍵、香港中文解釋，以及音訊、版權和審閱資料。最終檢查要求 400 篇、1,200 題，B1 與 B2 各 200 篇、600 題，且每篇恰有 3 題；使用 `pnpm content:validate`。`pnpm content:validate -- --current` 只保留作舊版 266 篇／800 題資料的遷移檢查。
 
+公開網頁內容採用 CC BY-NC 4.0；未來付費 App 版本採用 `UK English Pass Commercial App Licence 1.0`。兩者的範圍及既有授權處理見 `CONTENT_LICENSING.md`。`pnpm build:commercial-app` 會建立顯示商業 App 授權的版本；一般 `pnpm build` 仍建立公開網頁版本。
+
+合規紀錄以 `pnpm compliance:generate` 產生，包括內容來源檔 SHA-256、400 個語音檔 SHA-256、完整 JavaScript 套件授權清單，以及逐課真人覆核待辦表。AI 編輯覆核與獨立真人專業簽核會分開記錄，不得互相替代。
+
 音檔位於 `public/audio/`，使用 Kokoro-82M v1.0、`bf_isabella` voice 在本地生成為 24 kHz mono AAC/M4A。生成程序為 `scripts/generate_audio.py`；模型及 voice 授權資料見 `THIRD_PARTY_NOTICES.md`。網站在音檔失敗時會自動改用裝置的 en-GB SpeechSynthesis。
 
 重新生成音檔時，先建立 Python 3.12 環境並下載官方 ONNX release：

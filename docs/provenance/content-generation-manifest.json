@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-06T18:26:54.359Z",
+  "git_commit_at_generation": "5a0da0b6efa54c3d06c392504ae00572670e60c9",
+  "corpus": {
+    "lessons": 400,
+    "questions": 1200,
+    "levels": {
+      "B1": {
+        "lessons": 200,
+        "questions": 600
+      },
+      "B2": {
+        "lessons": 200,
+        "questions": 600
+      }
+    },
+    "generation_method": "AI-assisted original drafting with source-controlled scenario files",
+    "review_status": "AI editorial review completed; independent human review pending"
+  },
+  "source_files": [
+    {
+      "path": "scripts/generate-content.mjs",
+      "bytes": 45087,
+      "sha256": "2f05e6f72b0588f4c8e10d2581affe35745dd20e118965f71aab268caa4d59ce"
+    },
+    {
+      "path": "scripts/additional-scenarios.mjs",
+      "bytes": 24198,
+      "sha256": "254de5937da03f69bb03befbdc00a1c57cda2fc041dab67c0a6509bfb5f3c581"
+    },
+    {
+      "path": "scripts/additional-scenarios-b1-300.mjs",
+      "bytes": 40724,
+      "sha256": "9ed36d5183302d7eced3d15cb9cff028b16a8e89ad5100699ddf9ee3a81913d5"
+    },
+    {
+      "path": "scripts/additional-scenarios-b2-300.mjs",
+      "bytes": 67779,
+      "sha256": "b31a50acd5e976471c274559ad85115869658a6b0211db9608958336a751b006"
+    },
+    {
+      "path": "scripts/additional-scenarios-b1-600.mjs",
+      "bytes": 51794,
+      "sha256": "acc6b848f8dcc6ef7d568d58995f939b2218a0842b38bb162c089522b51caf80"
+    },
+    {
+      "path": "scripts/additional-scenarios-b2-600.mjs",
+      "bytes": 74963,
+      "sha256": "56f079fea7f0fe2b4c99d9cbb8dc027db85d9fac9645312dcec51466585950a7"
+    },
+    {
+      "path": "scripts/additional-scenarios-b1-1200.mjs",
+      "bytes": 55789,
+      "sha256": "14486ecba27fa83ffaf83c0f3cae413a7a1e4239e88591a8d1dbe2f435566e05"
+    },
+    {
+      "path": "scripts/additional-scenarios-b2-1200.mjs",
+      "bytes": 61063,
+      "sha256": "540a68621eb89f0673e648790882fd3951d26304c2b04e44d60e1aee895e4204"
+    },
+    {
+      "path": "scripts/additional-scenarios-b2-1200-part2.mjs",
+      "bytes": 54123,
+      "sha256": "c3b9d02e48cf1b4ee987e4dfb42554063d2d3695171b095f7b72e75ae091ee3d"
+    },
+    {
+      "path": "scripts/validate-content.mjs",
+      "bytes": 5702,
+      "sha256": "f48439c192c670812f196fcdcd066ea30867d1be4e06153b91385f6c201ce7f4"
+    },
+    {
+      "path": "scripts/generate_audio.py",
+      "bytes": 3353,
+      "sha256": "d36af6089eb472fd5c5837f613615c4c6252b1f306866f84aa3ee007480d881d"
+    },
+    {
+      "path": "requirements-audio.txt",
+      "bytes": 72,
+      "sha256": "0f8ee37aaa8b476968a30a8d474730e4dcbbfd95791da46826837e3ad266a15f"
+    },
+    {
+      "path": "src/data/lessons.json",
+      "bytes": 1482926,
+      "sha256": "03019be21cfb9b7a5adaee09326f88c2c77b6fb07471f8ab878d23cf2eb1ffcd"
+    }
+  ]
+}

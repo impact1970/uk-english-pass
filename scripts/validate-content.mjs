@@ -55,8 +55,9 @@ for (const lesson of lessons) {
   const localPrompts = lesson.questions.map(question => normalize(question.prompt))
   duplicate(localPrompts, `question prompt in ${label}`)
 
-  if (!lesson.rights?.licence?.trim() || !lesson.rights?.author?.trim() || lesson.rights.original !== true) fail(`Incomplete rights metadata ${label}`)
-  if (!['pending', 'editorially-reviewed'].includes(lesson.review_status)) fail(`Invalid review status ${label}`)
+  if (lesson.rights?.public_licence !== 'CC BY-NC 4.0' || lesson.rights?.commercial_app_licence !== 'UK English Pass Commercial App Licence 1.0' || !lesson.rights?.author?.trim() || lesson.rights.original !== true) fail(`Incomplete dual-licence metadata ${label}`)
+  if (!['pending', 'ai-editorially-reviewed'].includes(lesson.review_status)) fail(`Invalid AI review status ${label}`)
+  if (!['pending', 'approved', 'approved-with-changes'].includes(lesson.human_review_status)) fail(`Invalid human review status ${label}`)
   if (!['pending', 'ready'].includes(lesson.audio?.status)) fail(`Invalid audio status ${label}`)
   if (lesson.audio.voice !== 'bf_isabella' || lesson.audio.engine !== 'Kokoro-82M' || !lesson.audio.file?.endsWith('.m4a')) fail(`Invalid audio metadata ${label}`)
 

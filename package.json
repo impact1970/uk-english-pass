@@ -6,12 +6,15 @@
   "scripts": {
     "content:generate": "node scripts/generate-content.mjs",
     "content:validate": "node scripts/validate-content.mjs",
+    "compliance:generate": "node scripts/generate-compliance-records.mjs",
+    "compliance:validate": "node scripts/validate-compliance.mjs",
     "audio:generate": ".audio-env/Scripts/python.exe scripts/generate_audio.py",
     "audio:validate": "node scripts/validate-audio.mjs",
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "build:commercial-app": "tsc -b && vite build --mode commercial-app",
     "test": "vitest run",
-    "check": "pnpm content:validate && pnpm audio:validate && pnpm test && pnpm build"
+    "check": "pnpm content:validate && pnpm audio:validate && pnpm compliance:validate && pnpm test && pnpm build"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",

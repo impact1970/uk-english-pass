@@ -5,6 +5,10 @@ import type { Lesson, Level, Question } from './types'
 const lessons = lessonsData as Lesson[]
 const totalQuestions = lessons.reduce((sum, lesson) => sum + lesson.questions.length, 0)
 const totalLessons = lessons.length
+const isCommercialApp = import.meta.env.VITE_DISTRIBUTION_CHANNEL === 'commercial-app'
+const contentLicenceLabel = isCommercialApp
+  ? '商業 App 版本 · UK English Pass Commercial App Licence 1.0'
+  : '公開網頁版本 · CC BY-NC 4.0'
 type AnswerMap = Record<string, string>
 type Progress = { answers: AnswerMap; completed: string[] }
 const initialProgress: Progress = (() => {
@@ -139,7 +143,7 @@ function App() {
         <section className="questions"><div className="section-title"><span>CHECK YOUR LISTENING</span><h3>聆聽理解</h3></div>{selected.questions.map((q,i)=><QuestionCard key={q.id} q={q} index={i} value={progress.answers[q.id]} onAnswer={choice=>answer(q,choice)}/>)}</section>
 
         {selected.questions.some(q=>progress.answers[q.id]) && <details className="transcript"><summary>查看聆聽稿（回答後開放）</summary><div>{selected.script.map((t,i)=><p key={i}><b>{t.speaker}</b><span>{t.text}</span></p>)}</div></details>}
-        <footer className="lesson-footer"><div><b>內容版本</b><span>2026.11 重新製作原創題庫 · CC BY-NC 4.0</span></div><div className="export"><button onClick={()=>download('csv')}>匯出 CSV</button><button onClick={()=>download('md')}>教師 Markdown</button></div></footer>
+        <footer className="lesson-footer"><div><b>內容版本</b><span>2026.11 重新製作原創題庫 · {contentLicenceLabel}</span></div><div className="export"><button onClick={()=>download('csv')}>匯出 CSV</button><button onClick={()=>download('md')}>教師 Markdown</button></div></footer>
       </article>
     </main>
     <SiteFooter />
@@ -173,7 +177,19 @@ function LegalPage() {
 
     <section>
       <h2>原創內容授權</h2>
-      <p>本站的原創聆聽稿、題目及香港繁體中文解釋以 <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noreferrer">Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）</a> 條款提供。轉載或改作時須註明來源，並只可作非商業用途。</p>
+      {isCommercialApp ? <>
+        <p>本付費 App 版本及其商業版本內容依照 <strong>UK English Pass Commercial App Licence 1.0</strong> 提供。購買者獲得個人、不可轉讓的使用權；不得轉售、重新發布或把大部分題庫及語音抽取至另一項產品或資料集。</p>
+        <p>另行發布於公開網站、並已標示為 <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noreferrer">CC BY-NC 4.0</a> 的材料仍受該公開授權保障；本商業授權不撤銷既有的 Creative Commons 權利。</p>
+      </> : <>
+        <p>本公開網頁版本的原創聆聽稿、題目及香港繁體中文解釋以 <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noreferrer">Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）</a> 條款提供。轉載或改作時須註明來源，並只可作非商業用途。</p>
+        <p>由內容權利人發布的付費 App 可另依 <strong>UK English Pass Commercial App Licence 1.0</strong> 發行；這屬雙重授權，不會撤銷本公開版本已授出的 Creative Commons 權利。</p>
+      </>}
+    </section>
+
+    <section>
+      <h2>製作、覆核及第三方紀錄</h2>
+      <p>題庫為 AI 輔助起草的原創內容，已完成 AI 編輯覆核及自動結構驗證；獨立真人英語教師或考試專家的專業簽核仍待完成，本站不把 AI 覆核描述為真人覆核。</p>
+      <p><a href={`${import.meta.env.BASE_URL}legal/THIRD_PARTY_NOTICES.txt`} target="_blank" rel="noreferrer">查看完整 Third-Party Notices</a>，包括合成語音、生成工具及程式元件的授權資料。</p>
     </section>
 
     <p className="legal-updated">最後更新：2026 年 11 月</p>
