@@ -108,7 +108,7 @@ function App() {
   return <div className="app-shell">
     <header className="topbar">
       <a href={legalPage ? '#legal' : '#main'} className="skip">{legalPage ? '跳到版權內容' : '跳到練習內容'}</a>
-      <a className="brand" href="#main"><span className="brand-mark">UK</span><span><strong>English Pass</strong><small>英式英語 · 香港學習者</small></span></a>
+      <a className="brand" href="#main"><img className="brand-mark" src={`${import.meta.env.BASE_URL}icons/uk-english-pass-logo.png`} alt="UK English Pass"/><span><strong>English Pass</strong><small>英式英語 · 香港學習者</small></span></a>
       <div className="header-actions"><button className="icon-button" onClick={() => setDark(!dark)} aria-label="切換深色模式">{dark ? '☀️' : '🌙'}</button></div>
     </header>
 
