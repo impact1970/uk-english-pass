@@ -97,14 +97,6 @@ function App() {
   }
   useEffect(() => stop, [selectedId])
 
-  function download(kind: 'csv' | 'md') {
-    const rows = lessons.flatMap(l => l.questions.map(q => ({ l, q })))
-    const content = kind === 'csv'
-      ? '\ufeff"level","unit","lesson_id","question_id","prompt","answer"\n' + rows.map(({l,q}) => [l.level,l.unit,l.lesson_id,q.id,q.prompt,q.answer].map(v => `"${String(v).replaceAll('"','""')}"`).join(',')).join('\n')
-      : '# UK English Pass 教師審閱索引\n\n' + lessons.map(l => `## ${l.lesson_id} · ${l.title}\n\n${l.questions.map(q => `- ${q.id}: ${q.prompt} **[${q.answer}]**`).join('\n')}`).join('\n\n')
-    const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([content], {type:'text/plain;charset=utf-8'})); a.download = `uk-english-pass.${kind}`; a.click(); URL.revokeObjectURL(a.href)
-  }
-
   return <div className="app-shell">
     <header className="topbar">
       <a href={legalPage ? '#legal' : '#main'} className="skip">{legalPage ? '跳到版權內容' : '跳到練習內容'}</a>
@@ -143,7 +135,7 @@ function App() {
         <section className="questions"><div className="section-title"><span>CHECK YOUR LISTENING</span><h3>聆聽理解</h3></div>{selected.questions.map((q,i)=><QuestionCard key={q.id} q={q} index={i} value={progress.answers[q.id]} onAnswer={choice=>answer(q,choice)}/>)}</section>
 
         {selected.questions.some(q=>progress.answers[q.id]) && <details className="transcript"><summary>查看聆聽稿（回答後開放）</summary><div>{selected.script.map((t,i)=><p key={i}><b>{t.speaker}</b><span>{t.text}</span></p>)}</div></details>}
-        <footer className="lesson-footer"><div><b>內容版本</b><span>2026.11 重新製作原創題庫 · {contentLicenceLabel}</span></div><div className="export"><button onClick={()=>download('csv')}>匯出 CSV</button><button onClick={()=>download('md')}>教師 Markdown</button></div></footer>
+        <footer className="lesson-footer"><div><b>內容版本</b><span>2026.11 重新製作原創題庫 · {contentLicenceLabel}</span></div></footer>
       </article>
     </main>
     <SiteFooter />
